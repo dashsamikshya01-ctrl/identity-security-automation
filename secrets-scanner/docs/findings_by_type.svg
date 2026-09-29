@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="376" viewBox="0 0 860 376" role="img" aria-label="What the scanner catches">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect width="860" height="376" rx="12" fill="#0b1b33"/>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#ffffff">What the scanner catches</text>
+<text x="24" y="56" font-size="12.5" fill="#8fb3dd">77 findings across 37 repositories (synthetic dataset at real-world scale)</text>
+<text x="220" y="97" font-size="12.5" fill="#c3c2b7" text-anchor="end">Connection string with password</text>
+<rect x="230" y="84" width="560.0" height="22" rx="4" fill="#3987e5"><title>Connection string with password: 16</title></rect>
+<text x="798.0" y="97" font-size="12" font-weight="600" fill="#ffffff">16</text>
+<text x="220" y="131" font-size="12.5" fill="#c3c2b7" text-anchor="end">Client secret in config</text>
+<rect x="230" y="118" width="490.0" height="22" rx="4" fill="#3987e5"><title>Client secret in config: 14</title></rect>
+<text x="728.0" y="131" font-size="12" font-weight="600" fill="#ffffff">14</text>
+<text x="220" y="165" font-size="12.5" fill="#c3c2b7" text-anchor="end">Generic high-entropy token</text>
+<rect x="230" y="152" width="420.0" height="22" rx="4" fill="#3987e5"><title>Generic high-entropy token: 12</title></rect>
+<text x="658.0" y="165" font-size="12" font-weight="600" fill="#ffffff">12</text>
+<text x="220" y="199" font-size="12.5" fill="#c3c2b7" text-anchor="end">Azure storage account key</text>
+<rect x="230" y="186" width="315.0" height="22" rx="4" fill="#3987e5"><title>Azure storage account key: 9</title></rect>
+<text x="553.0" y="199" font-size="12" font-weight="600" fill="#ffffff">9</text>
+<text x="220" y="233" font-size="12.5" fill="#c3c2b7" text-anchor="end">Personal access token</text>
+<rect x="230" y="220" width="280.0" height="22" rx="4" fill="#3987e5"><title>Personal access token: 8</title></rect>
+<text x="518.0" y="233" font-size="12" font-weight="600" fill="#ffffff">8</text>
+<text x="220" y="267" font-size="12.5" fill="#c3c2b7" text-anchor="end">AWS access key</text>
+<rect x="230" y="254" width="245.0" height="22" rx="4" fill="#3987e5"><title>AWS access key: 7</title></rect>
+<text x="483.0" y="267" font-size="12" font-weight="600" fill="#ffffff">7</text>
+<text x="220" y="301" font-size="12.5" fill="#c3c2b7" text-anchor="end">Slack/Teams webhook URL</text>
+<rect x="230" y="288" width="210.0" height="22" rx="4" fill="#3987e5"><title>Slack/Teams webhook URL: 6</title></rect>
+<text x="448.0" y="301" font-size="12" font-weight="600" fill="#ffffff">6</text>
+<text x="220" y="335" font-size="12.5" fill="#c3c2b7" text-anchor="end">Private key (PEM)</text>
+<rect x="230" y="322" width="175.0" height="22" rx="4" fill="#3987e5"><title>Private key (PEM): 5</title></rect>
+<text x="413.0" y="335" font-size="12" font-weight="600" fill="#ffffff">5</text>
+</svg>

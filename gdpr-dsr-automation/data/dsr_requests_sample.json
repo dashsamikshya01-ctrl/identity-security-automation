@@ -1,0 +1,2252 @@
+[
+  {
+    "request_id": "DSR-20260800",
+    "type": "access",
+    "received_at": "2026-08-23T04:03",
+    "market": "LU",
+    "subject_email": "user170662@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260801",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-27T21:30",
+    "market": "US",
+    "subject_email": "user477935@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260802",
+    "type": "access",
+    "received_at": "2026-08-19T18:45",
+    "market": "UK",
+    "subject_email": "user829226@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260803",
+    "type": "erasure",
+    "received_at": "2026-08-30T03:50",
+    "market": "US",
+    "subject_email": "user903176@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260804",
+    "type": "erasure",
+    "received_at": "2026-08-16T11:37",
+    "market": "CN",
+    "subject_email": "user35303@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260805",
+    "type": "rectification",
+    "received_at": "2026-08-29T05:00",
+    "market": "CN",
+    "subject_email": "user604171@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260806",
+    "type": "rectification",
+    "received_at": "2026-08-05T00:25",
+    "market": "AU",
+    "subject_email": "user772501@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260807",
+    "type": "erasure",
+    "received_at": "2026-08-17T21:34",
+    "market": "US",
+    "subject_email": "user117356@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260808",
+    "type": "erasure",
+    "received_at": "2026-08-03T04:38",
+    "market": "AU",
+    "subject_email": "user385232@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260809",
+    "type": "erasure",
+    "received_at": "2026-08-04T09:11",
+    "market": "CN",
+    "subject_email": "user744793@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260810",
+    "type": "access",
+    "received_at": "2026-08-16T13:49",
+    "market": "DE",
+    "subject_email": "user566847@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260811",
+    "type": "erasure",
+    "received_at": "2026-08-27T17:38",
+    "market": "DE",
+    "subject_email": "user790759@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260812",
+    "type": "access",
+    "received_at": "2026-08-17T09:15",
+    "market": "LU",
+    "subject_email": "user529027@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260813",
+    "type": "access",
+    "received_at": "2026-08-04T05:12",
+    "market": "AU",
+    "subject_email": "user362996@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260814",
+    "type": "erasure",
+    "received_at": "2026-08-06T22:01",
+    "market": "JP",
+    "subject_email": "user745305@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260815",
+    "type": "rectification",
+    "received_at": "2026-08-14T15:13",
+    "market": "JP",
+    "subject_email": "user652114@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260816",
+    "type": "erasure",
+    "received_at": "2026-08-04T07:40",
+    "market": "DE",
+    "subject_email": "user936228@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260817",
+    "type": "access",
+    "received_at": "2026-08-19T02:43",
+    "market": "UK",
+    "subject_email": "user303380@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260818",
+    "type": "access",
+    "received_at": "2026-08-08T19:58",
+    "market": "LU",
+    "subject_email": "user118466@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260819",
+    "type": "erasure",
+    "received_at": "2026-08-10T15:06",
+    "market": "CN",
+    "subject_email": "user999354@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260820",
+    "type": "access",
+    "received_at": "2026-08-25T23:23",
+    "market": "UK",
+    "subject_email": "user497925@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260821",
+    "type": "erasure",
+    "received_at": "2026-08-30T16:10",
+    "market": "US",
+    "subject_email": "user306677@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260822",
+    "type": "access",
+    "received_at": "2026-08-11T21:45",
+    "market": "CN",
+    "subject_email": "user676987@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260823",
+    "type": "erasure",
+    "received_at": "2026-08-31T04:15",
+    "market": "AU",
+    "subject_email": "user510763@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260824",
+    "type": "erasure",
+    "received_at": "2026-08-26T07:04",
+    "market": "JP",
+    "subject_email": "user481255@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260825",
+    "type": "access",
+    "received_at": "2026-08-15T06:46",
+    "market": "UK",
+    "subject_email": "user828607@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260826",
+    "type": "erasure",
+    "received_at": "2026-08-14T10:43",
+    "market": "US",
+    "subject_email": "user156544@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260827",
+    "type": "erasure",
+    "received_at": "2026-08-08T21:42",
+    "market": "UK",
+    "subject_email": "user747389@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260828",
+    "type": "access",
+    "received_at": "2026-08-09T07:32",
+    "market": "UK",
+    "subject_email": "user170087@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260829",
+    "type": "access",
+    "received_at": "2026-08-15T17:50",
+    "market": "UK",
+    "subject_email": "user463305@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260830",
+    "type": "access",
+    "received_at": "2026-08-26T22:23",
+    "market": "US",
+    "subject_email": "user698883@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260831",
+    "type": "erasure",
+    "received_at": "2026-08-18T07:19",
+    "market": "JP",
+    "subject_email": "user567091@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260832",
+    "type": "erasure",
+    "received_at": "2026-08-06T20:41",
+    "market": "US",
+    "subject_email": "user425214@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260833",
+    "type": "rectification",
+    "received_at": "2026-08-22T04:18",
+    "market": "AU",
+    "subject_email": "user164633@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260834",
+    "type": "erasure",
+    "received_at": "2026-08-24T10:13",
+    "market": "AU",
+    "subject_email": "user679684@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260835",
+    "type": "erasure",
+    "received_at": "2026-08-14T12:34",
+    "market": "UK",
+    "subject_email": "user839416@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260836",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-21T10:53",
+    "market": "AU",
+    "subject_email": "user723622@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260837",
+    "type": "erasure",
+    "received_at": "2026-08-03T03:46",
+    "market": "UK",
+    "subject_email": "user711943@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260838",
+    "type": "access",
+    "received_at": "2026-08-19T14:41",
+    "market": "DE",
+    "subject_email": "user468636@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260839",
+    "type": "access",
+    "received_at": "2026-08-29T00:15",
+    "market": "DE",
+    "subject_email": "user612772@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260840",
+    "type": "rectification",
+    "received_at": "2026-08-13T23:34",
+    "market": "DE",
+    "subject_email": "user24643@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260841",
+    "type": "rectification",
+    "received_at": "2026-08-05T07:26",
+    "market": "CN",
+    "subject_email": "user414583@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260842",
+    "type": "access",
+    "received_at": "2026-08-28T20:54",
+    "market": "CN",
+    "subject_email": "user990228@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260843",
+    "type": "erasure",
+    "received_at": "2026-08-19T10:14",
+    "market": "UK",
+    "subject_email": "user751742@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260844",
+    "type": "erasure",
+    "received_at": "2026-08-18T07:13",
+    "market": "US",
+    "subject_email": "user299477@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260845",
+    "type": "access",
+    "received_at": "2026-08-21T14:41",
+    "market": "CN",
+    "subject_email": "user92853@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260846",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-20T05:57",
+    "market": "JP",
+    "subject_email": "user303654@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260847",
+    "type": "erasure",
+    "received_at": "2026-08-20T14:56",
+    "market": "NZ",
+    "subject_email": "user147347@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260848",
+    "type": "erasure",
+    "received_at": "2026-08-07T20:53",
+    "market": "DE",
+    "subject_email": "user318960@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260849",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-16T14:21",
+    "market": "CA",
+    "subject_email": "user979481@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260850",
+    "type": "rectification",
+    "received_at": "2026-08-05T08:36",
+    "market": "US",
+    "subject_email": "user430350@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260851",
+    "type": "access",
+    "received_at": "2026-08-09T07:01",
+    "market": "CN",
+    "subject_email": "user485567@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260852",
+    "type": "rectification",
+    "received_at": "2026-08-07T13:33",
+    "market": "DE",
+    "subject_email": "user196041@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260853",
+    "type": "access",
+    "received_at": "2026-08-23T15:51",
+    "market": "US",
+    "subject_email": "user863767@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260854",
+    "type": "rectification",
+    "received_at": "2026-08-15T03:57",
+    "market": "JP",
+    "subject_email": "user587448@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260855",
+    "type": "access",
+    "received_at": "2026-08-01T10:40",
+    "market": "UK",
+    "subject_email": "user276436@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260856",
+    "type": "erasure",
+    "received_at": "2026-08-30T07:17",
+    "market": "JP",
+    "subject_email": "user131208@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260857",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-20T07:38",
+    "market": "UK",
+    "subject_email": "user516780@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260858",
+    "type": "erasure",
+    "received_at": "2026-08-02T15:04",
+    "market": "CA",
+    "subject_email": "user802865@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260859",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-04T08:52",
+    "market": "AU",
+    "subject_email": "user610291@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260860",
+    "type": "erasure",
+    "received_at": "2026-08-13T01:42",
+    "market": "JP",
+    "subject_email": "user728968@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260861",
+    "type": "erasure",
+    "received_at": "2026-08-27T12:20",
+    "market": "US",
+    "subject_email": "user887340@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260862",
+    "type": "erasure",
+    "received_at": "2026-08-07T23:37",
+    "market": "AU",
+    "subject_email": "user484439@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260863",
+    "type": "access",
+    "received_at": "2026-08-08T18:22",
+    "market": "US",
+    "subject_email": "user286915@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260864",
+    "type": "erasure",
+    "received_at": "2026-08-17T12:49",
+    "market": "US",
+    "subject_email": "user304936@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260865",
+    "type": "erasure",
+    "received_at": "2026-08-04T19:54",
+    "market": "CN",
+    "subject_email": "user204229@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260866",
+    "type": "access",
+    "received_at": "2026-08-05T15:13",
+    "market": "UK",
+    "subject_email": "user571123@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260867",
+    "type": "access",
+    "received_at": "2026-08-15T00:51",
+    "market": "LU",
+    "subject_email": "user719739@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260868",
+    "type": "erasure",
+    "received_at": "2026-08-25T15:43",
+    "market": "AU",
+    "subject_email": "user864308@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260869",
+    "type": "access",
+    "received_at": "2026-08-14T03:22",
+    "market": "AU",
+    "subject_email": "user817639@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260870",
+    "type": "erasure",
+    "received_at": "2026-08-08T18:04",
+    "market": "CA",
+    "subject_email": "user229459@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260871",
+    "type": "access",
+    "received_at": "2026-08-09T21:48",
+    "market": "CN",
+    "subject_email": "user644226@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260872",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-25T13:11",
+    "market": "CN",
+    "subject_email": "user737378@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260873",
+    "type": "access",
+    "received_at": "2026-08-22T06:58",
+    "market": "CA",
+    "subject_email": "user123227@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260874",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-23T03:45",
+    "market": "AU",
+    "subject_email": "user327708@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260875",
+    "type": "access",
+    "received_at": "2026-08-21T10:42",
+    "market": "CN",
+    "subject_email": "user801681@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260876",
+    "type": "access",
+    "received_at": "2026-08-15T04:47",
+    "market": "US",
+    "subject_email": "user781623@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260877",
+    "type": "access",
+    "received_at": "2026-08-07T19:29",
+    "market": "DE",
+    "subject_email": "user323361@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260878",
+    "type": "access",
+    "received_at": "2026-08-04T21:51",
+    "market": "NZ",
+    "subject_email": "user725375@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260879",
+    "type": "access",
+    "received_at": "2026-08-02T04:32",
+    "market": "JP",
+    "subject_email": "user795122@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260880",
+    "type": "access",
+    "received_at": "2026-08-02T19:49",
+    "market": "CN",
+    "subject_email": "user622990@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260881",
+    "type": "access",
+    "received_at": "2026-08-12T20:21",
+    "market": "US",
+    "subject_email": "user70465@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260882",
+    "type": "access",
+    "received_at": "2026-08-05T17:24",
+    "market": "CA",
+    "subject_email": "user965792@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260883",
+    "type": "erasure",
+    "received_at": "2026-08-10T10:28",
+    "market": "UK",
+    "subject_email": "user704175@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260884",
+    "type": "access",
+    "received_at": "2026-08-13T22:58",
+    "market": "AU",
+    "subject_email": "user370311@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260885",
+    "type": "erasure",
+    "received_at": "2026-08-29T05:30",
+    "market": "DE",
+    "subject_email": "user530435@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260886",
+    "type": "access",
+    "received_at": "2026-08-27T15:28",
+    "market": "US",
+    "subject_email": "user555527@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260887",
+    "type": "access",
+    "received_at": "2026-08-14T03:51",
+    "market": "UK",
+    "subject_email": "user946459@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260888",
+    "type": "access",
+    "received_at": "2026-08-05T19:47",
+    "market": "DE",
+    "subject_email": "user966190@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260889",
+    "type": "erasure",
+    "received_at": "2026-08-18T00:16",
+    "market": "UK",
+    "subject_email": "user462023@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260890",
+    "type": "access",
+    "received_at": "2026-08-17T11:33",
+    "market": "NZ",
+    "subject_email": "user445692@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260891",
+    "type": "access",
+    "received_at": "2026-08-06T11:15",
+    "market": "AU",
+    "subject_email": "user130620@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260892",
+    "type": "erasure",
+    "received_at": "2026-08-23T21:33",
+    "market": "AU",
+    "subject_email": "user739963@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260893",
+    "type": "erasure",
+    "received_at": "2026-08-05T01:50",
+    "market": "AU",
+    "subject_email": "user518695@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260894",
+    "type": "access",
+    "received_at": "2026-08-28T15:47",
+    "market": "LU",
+    "subject_email": "user721420@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260895",
+    "type": "erasure",
+    "received_at": "2026-08-26T13:01",
+    "market": "NZ",
+    "subject_email": "user305704@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260896",
+    "type": "erasure",
+    "received_at": "2026-08-04T12:01",
+    "market": "JP",
+    "subject_email": "user985698@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260897",
+    "type": "access",
+    "received_at": "2026-08-23T17:00",
+    "market": "CA",
+    "subject_email": "user416623@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260898",
+    "type": "erasure",
+    "received_at": "2026-08-05T04:50",
+    "market": "CA",
+    "subject_email": "user151331@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260899",
+    "type": "erasure",
+    "received_at": "2026-08-05T23:06",
+    "market": "UK",
+    "subject_email": "user68853@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260900",
+    "type": "access",
+    "received_at": "2026-08-10T10:44",
+    "market": "NZ",
+    "subject_email": "user129725@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260901",
+    "type": "erasure",
+    "received_at": "2026-08-24T01:09",
+    "market": "LU",
+    "subject_email": "user802968@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260902",
+    "type": "erasure",
+    "received_at": "2026-08-13T18:09",
+    "market": "NZ",
+    "subject_email": "user374395@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260903",
+    "type": "erasure",
+    "received_at": "2026-08-19T17:45",
+    "market": "JP",
+    "subject_email": "user537256@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260904",
+    "type": "rectification",
+    "received_at": "2026-08-06T06:00",
+    "market": "CA",
+    "subject_email": "user263867@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260905",
+    "type": "access",
+    "received_at": "2026-08-07T11:01",
+    "market": "US",
+    "subject_email": "user105441@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260906",
+    "type": "rectification",
+    "received_at": "2026-08-24T00:05",
+    "market": "US",
+    "subject_email": "user188795@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260907",
+    "type": "erasure",
+    "received_at": "2026-08-08T06:49",
+    "market": "LU",
+    "subject_email": "user653179@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260908",
+    "type": "rectification",
+    "received_at": "2026-08-24T23:55",
+    "market": "JP",
+    "subject_email": "user832239@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260909",
+    "type": "access",
+    "received_at": "2026-08-23T23:50",
+    "market": "JP",
+    "subject_email": "user530315@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260910",
+    "type": "erasure",
+    "received_at": "2026-08-25T22:24",
+    "market": "CN",
+    "subject_email": "user19528@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260911",
+    "type": "access",
+    "received_at": "2026-08-20T22:07",
+    "market": "CA",
+    "subject_email": "user403265@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260912",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-21T11:23",
+    "market": "JP",
+    "subject_email": "user38728@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260913",
+    "type": "erasure",
+    "received_at": "2026-08-15T03:00",
+    "market": "UK",
+    "subject_email": "user516353@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260914",
+    "type": "access",
+    "received_at": "2026-08-19T00:58",
+    "market": "JP",
+    "subject_email": "user802123@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260915",
+    "type": "erasure",
+    "received_at": "2026-08-26T12:52",
+    "market": "CN",
+    "subject_email": "user601005@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260916",
+    "type": "erasure",
+    "received_at": "2026-08-08T10:43",
+    "market": "CN",
+    "subject_email": "user59444@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260917",
+    "type": "erasure",
+    "received_at": "2026-08-18T12:39",
+    "market": "AU",
+    "subject_email": "user804702@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260918",
+    "type": "access",
+    "received_at": "2026-08-02T14:44",
+    "market": "US",
+    "subject_email": "user135425@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260919",
+    "type": "erasure",
+    "received_at": "2026-08-27T21:50",
+    "market": "US",
+    "subject_email": "user803364@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260920",
+    "type": "erasure",
+    "received_at": "2026-08-05T18:19",
+    "market": "NZ",
+    "subject_email": "user362908@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260921",
+    "type": "erasure",
+    "received_at": "2026-08-03T21:39",
+    "market": "DE",
+    "subject_email": "user260642@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260922",
+    "type": "access",
+    "received_at": "2026-08-05T04:46",
+    "market": "CA",
+    "subject_email": "user912149@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260923",
+    "type": "access",
+    "received_at": "2026-08-02T05:31",
+    "market": "CN",
+    "subject_email": "user342958@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260924",
+    "type": "erasure",
+    "received_at": "2026-08-20T13:27",
+    "market": "CN",
+    "subject_email": "user946196@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260925",
+    "type": "access",
+    "received_at": "2026-08-22T17:02",
+    "market": "US",
+    "subject_email": "user332889@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260926",
+    "type": "erasure",
+    "received_at": "2026-08-27T09:21",
+    "market": "CA",
+    "subject_email": "user848591@example.com",
+    "identity_verified": true,
+    "duplicate_of": "DSR-20260925"
+  },
+  {
+    "request_id": "DSR-20260927",
+    "type": "erasure",
+    "received_at": "2026-08-10T16:54",
+    "market": "AU",
+    "subject_email": "user521860@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260928",
+    "type": "rectification",
+    "received_at": "2026-08-16T18:52",
+    "market": "UK",
+    "subject_email": "user645693@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260929",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-10T12:22",
+    "market": "JP",
+    "subject_email": "user667311@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260930",
+    "type": "rectification",
+    "received_at": "2026-08-25T17:16",
+    "market": "DE",
+    "subject_email": "user302314@example.com",
+    "identity_verified": true,
+    "duplicate_of": "DSR-20260925"
+  },
+  {
+    "request_id": "DSR-20260931",
+    "type": "access",
+    "received_at": "2026-08-27T10:26",
+    "market": "NZ",
+    "subject_email": "user844687@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260932",
+    "type": "erasure",
+    "received_at": "2026-08-05T12:26",
+    "market": "CA",
+    "subject_email": "user621615@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260933",
+    "type": "access",
+    "received_at": "2026-08-25T12:03",
+    "market": "JP",
+    "subject_email": "user448852@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260934",
+    "type": "rectification",
+    "received_at": "2026-08-30T23:39",
+    "market": "LU",
+    "subject_email": "user530152@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260935",
+    "type": "erasure",
+    "received_at": "2026-08-25T21:46",
+    "market": "AU",
+    "subject_email": "user210795@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260936",
+    "type": "access",
+    "received_at": "2026-08-24T18:55",
+    "market": "JP",
+    "subject_email": "user705181@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260937",
+    "type": "access",
+    "received_at": "2026-08-02T04:19",
+    "market": "CN",
+    "subject_email": "user905616@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260938",
+    "type": "erasure",
+    "received_at": "2026-08-22T14:24",
+    "market": "LU",
+    "subject_email": "user983686@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260939",
+    "type": "rectification",
+    "received_at": "2026-08-21T01:44",
+    "market": "US",
+    "subject_email": "user548639@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260940",
+    "type": "erasure",
+    "received_at": "2026-08-12T06:33",
+    "market": "UK",
+    "subject_email": "user783692@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260941",
+    "type": "access",
+    "received_at": "2026-08-21T03:33",
+    "market": "NZ",
+    "subject_email": "user335132@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260942",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-30T04:25",
+    "market": "DE",
+    "subject_email": "user888060@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260943",
+    "type": "rectification",
+    "received_at": "2026-08-30T17:39",
+    "market": "UK",
+    "subject_email": "user269903@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260944",
+    "type": "access",
+    "received_at": "2026-08-12T04:29",
+    "market": "CA",
+    "subject_email": "user158246@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260945",
+    "type": "access",
+    "received_at": "2026-08-15T11:11",
+    "market": "JP",
+    "subject_email": "user509960@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260946",
+    "type": "erasure",
+    "received_at": "2026-08-30T18:36",
+    "market": "US",
+    "subject_email": "user212802@example.com",
+    "identity_verified": true,
+    "duplicate_of": "DSR-20260939"
+  },
+  {
+    "request_id": "DSR-20260947",
+    "type": "access",
+    "received_at": "2026-08-13T02:14",
+    "market": "LU",
+    "subject_email": "user691666@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260948",
+    "type": "erasure",
+    "received_at": "2026-08-03T06:07",
+    "market": "JP",
+    "subject_email": "user821231@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260949",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-05T03:40",
+    "market": "AU",
+    "subject_email": "user631823@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260950",
+    "type": "access",
+    "received_at": "2026-08-19T20:33",
+    "market": "AU",
+    "subject_email": "user705299@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260951",
+    "type": "access",
+    "received_at": "2026-08-07T17:31",
+    "market": "DE",
+    "subject_email": "user118369@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260952",
+    "type": "erasure",
+    "received_at": "2026-08-06T19:46",
+    "market": "CN",
+    "subject_email": "user697482@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260953",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-25T05:43",
+    "market": "LU",
+    "subject_email": "user521566@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260954",
+    "type": "access",
+    "received_at": "2026-08-06T21:33",
+    "market": "AU",
+    "subject_email": "user346281@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260955",
+    "type": "erasure",
+    "received_at": "2026-08-12T01:42",
+    "market": "NZ",
+    "subject_email": "user229598@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260956",
+    "type": "access",
+    "received_at": "2026-08-13T19:52",
+    "market": "JP",
+    "subject_email": "user429212@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260957",
+    "type": "erasure",
+    "received_at": "2026-08-23T15:36",
+    "market": "CN",
+    "subject_email": "user393906@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260958",
+    "type": "access",
+    "received_at": "2026-08-26T04:05",
+    "market": "NZ",
+    "subject_email": "user498920@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260959",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-07T22:16",
+    "market": "AU",
+    "subject_email": "user499306@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260960",
+    "type": "rectification",
+    "received_at": "2026-08-02T07:01",
+    "market": "US",
+    "subject_email": "user883348@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260961",
+    "type": "rectification",
+    "received_at": "2026-08-03T19:43",
+    "market": "DE",
+    "subject_email": "user266271@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260962",
+    "type": "access",
+    "received_at": "2026-08-17T20:20",
+    "market": "CA",
+    "subject_email": "user561894@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260963",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-19T00:18",
+    "market": "US",
+    "subject_email": "user954983@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260964",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-12T23:06",
+    "market": "LU",
+    "subject_email": "user95634@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260965",
+    "type": "rectification",
+    "received_at": "2026-08-14T20:51",
+    "market": "DE",
+    "subject_email": "user902163@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260966",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-30T01:36",
+    "market": "AU",
+    "subject_email": "user923188@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260967",
+    "type": "erasure",
+    "received_at": "2026-08-02T21:00",
+    "market": "LU",
+    "subject_email": "user909533@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260968",
+    "type": "rectification",
+    "received_at": "2026-08-23T17:03",
+    "market": "JP",
+    "subject_email": "user773739@example.com",
+    "identity_verified": true,
+    "duplicate_of": "DSR-20260959"
+  },
+  {
+    "request_id": "DSR-20260969",
+    "type": "rectification",
+    "received_at": "2026-08-20T13:20",
+    "market": "CA",
+    "subject_email": "user865446@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260970",
+    "type": "access",
+    "received_at": "2026-08-04T08:29",
+    "market": "AU",
+    "subject_email": "user442314@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260971",
+    "type": "rectification",
+    "received_at": "2026-08-16T04:55",
+    "market": "JP",
+    "subject_email": "user729980@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260972",
+    "type": "access",
+    "received_at": "2026-08-30T12:47",
+    "market": "UK",
+    "subject_email": "user661766@example.com",
+    "identity_verified": true,
+    "duplicate_of": "DSR-20260962"
+  },
+  {
+    "request_id": "DSR-20260973",
+    "type": "erasure",
+    "received_at": "2026-08-01T11:21",
+    "market": "NZ",
+    "subject_email": "user210794@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260974",
+    "type": "access",
+    "received_at": "2026-08-05T01:49",
+    "market": "CA",
+    "subject_email": "user166488@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260975",
+    "type": "erasure",
+    "received_at": "2026-08-30T21:04",
+    "market": "UK",
+    "subject_email": "user889102@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260976",
+    "type": "erasure",
+    "received_at": "2026-08-15T20:52",
+    "market": "JP",
+    "subject_email": "user502602@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260977",
+    "type": "access",
+    "received_at": "2026-08-09T05:29",
+    "market": "AU",
+    "subject_email": "user839366@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260978",
+    "type": "access",
+    "received_at": "2026-08-18T01:31",
+    "market": "UK",
+    "subject_email": "user413608@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260979",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-27T07:01",
+    "market": "DE",
+    "subject_email": "user22741@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260980",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-30T18:48",
+    "market": "DE",
+    "subject_email": "user951895@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260981",
+    "type": "erasure",
+    "received_at": "2026-08-13T05:56",
+    "market": "UK",
+    "subject_email": "user53201@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260982",
+    "type": "erasure",
+    "received_at": "2026-08-13T04:09",
+    "market": "UK",
+    "subject_email": "user94387@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260983",
+    "type": "access",
+    "received_at": "2026-08-27T03:34",
+    "market": "CA",
+    "subject_email": "user15800@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260984",
+    "type": "erasure",
+    "received_at": "2026-08-21T23:34",
+    "market": "JP",
+    "subject_email": "user125269@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260985",
+    "type": "access",
+    "received_at": "2026-08-13T10:45",
+    "market": "LU",
+    "subject_email": "user783702@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260986",
+    "type": "access",
+    "received_at": "2026-08-10T17:40",
+    "market": "DE",
+    "subject_email": "user865119@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260987",
+    "type": "erasure",
+    "received_at": "2026-08-20T08:55",
+    "market": "UK",
+    "subject_email": "user429368@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260988",
+    "type": "access",
+    "received_at": "2026-08-13T05:57",
+    "market": "DE",
+    "subject_email": "user648684@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260989",
+    "type": "access",
+    "received_at": "2026-08-27T20:41",
+    "market": "JP",
+    "subject_email": "user90903@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260990",
+    "type": "access",
+    "received_at": "2026-08-16T01:04",
+    "market": "NZ",
+    "subject_email": "user721216@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260991",
+    "type": "erasure",
+    "received_at": "2026-08-20T14:20",
+    "market": "LU",
+    "subject_email": "user77604@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260992",
+    "type": "access",
+    "received_at": "2026-08-16T11:34",
+    "market": "DE",
+    "subject_email": "user494808@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260993",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-28T13:25",
+    "market": "US",
+    "subject_email": "user6621@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260994",
+    "type": "erasure",
+    "received_at": "2026-08-15T02:25",
+    "market": "NZ",
+    "subject_email": "user704869@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260995",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-26T19:11",
+    "market": "US",
+    "subject_email": "user609684@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260996",
+    "type": "access",
+    "received_at": "2026-08-23T18:18",
+    "market": "AU",
+    "subject_email": "user921541@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260997",
+    "type": "access",
+    "received_at": "2026-08-25T11:21",
+    "market": "NZ",
+    "subject_email": "user149683@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260998",
+    "type": "access",
+    "received_at": "2026-08-07T03:40",
+    "market": "JP",
+    "subject_email": "user915022@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20260999",
+    "type": "access",
+    "received_at": "2026-08-17T17:51",
+    "market": "NZ",
+    "subject_email": "user297668@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261000",
+    "type": "access",
+    "received_at": "2026-08-13T08:05",
+    "market": "CN",
+    "subject_email": "user329215@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261001",
+    "type": "access",
+    "received_at": "2026-08-23T16:36",
+    "market": "UK",
+    "subject_email": "user583667@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261002",
+    "type": "erasure",
+    "received_at": "2026-08-21T08:35",
+    "market": "US",
+    "subject_email": "user199096@example.com",
+    "identity_verified": true,
+    "duplicate_of": "DSR-20260993"
+  },
+  {
+    "request_id": "DSR-20261003",
+    "type": "access",
+    "received_at": "2026-08-02T23:10",
+    "market": "JP",
+    "subject_email": "user273864@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261004",
+    "type": "erasure",
+    "received_at": "2026-08-06T14:43",
+    "market": "JP",
+    "subject_email": "user43773@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261005",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-26T20:36",
+    "market": "JP",
+    "subject_email": "user480995@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261006",
+    "type": "rectification",
+    "received_at": "2026-08-08T01:42",
+    "market": "CA",
+    "subject_email": "user367586@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261007",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-09T13:19",
+    "market": "UK",
+    "subject_email": "user787365@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261008",
+    "type": "access",
+    "received_at": "2026-08-27T23:42",
+    "market": "DE",
+    "subject_email": "user612893@example.com",
+    "identity_verified": true,
+    "duplicate_of": "DSR-20261000"
+  },
+  {
+    "request_id": "DSR-20261009",
+    "type": "access",
+    "received_at": "2026-08-27T07:27",
+    "market": "UK",
+    "subject_email": "user437646@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261010",
+    "type": "access",
+    "received_at": "2026-08-24T00:04",
+    "market": "CA",
+    "subject_email": "user931472@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261011",
+    "type": "access",
+    "received_at": "2026-08-06T21:14",
+    "market": "NZ",
+    "subject_email": "user392704@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261012",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-16T01:23",
+    "market": "UK",
+    "subject_email": "user31277@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261013",
+    "type": "rectification",
+    "received_at": "2026-08-23T04:07",
+    "market": "JP",
+    "subject_email": "user659879@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261014",
+    "type": "erasure",
+    "received_at": "2026-08-01T14:20",
+    "market": "AU",
+    "subject_email": "user46976@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261015",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-16T02:53",
+    "market": "UK",
+    "subject_email": "user222634@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261016",
+    "type": "rectification",
+    "received_at": "2026-08-14T05:03",
+    "market": "AU",
+    "subject_email": "user837917@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261017",
+    "type": "access",
+    "received_at": "2026-08-28T17:51",
+    "market": "NZ",
+    "subject_email": "user98046@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261018",
+    "type": "access",
+    "received_at": "2026-08-19T11:43",
+    "market": "CA",
+    "subject_email": "user22508@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261019",
+    "type": "access",
+    "received_at": "2026-08-19T15:31",
+    "market": "LU",
+    "subject_email": "user679604@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261020",
+    "type": "erasure",
+    "received_at": "2026-08-06T19:43",
+    "market": "LU",
+    "subject_email": "user515688@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261021",
+    "type": "erasure",
+    "received_at": "2026-08-15T10:42",
+    "market": "UK",
+    "subject_email": "user377485@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261022",
+    "type": "rectification",
+    "received_at": "2026-08-24T15:57",
+    "market": "DE",
+    "subject_email": "user514406@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261023",
+    "type": "erasure",
+    "received_at": "2026-08-13T13:15",
+    "market": "NZ",
+    "subject_email": "user95604@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261024",
+    "type": "rectification",
+    "received_at": "2026-08-29T06:30",
+    "market": "UK",
+    "subject_email": "user456193@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261025",
+    "type": "access",
+    "received_at": "2026-08-24T16:42",
+    "market": "AU",
+    "subject_email": "user487041@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261026",
+    "type": "erasure",
+    "received_at": "2026-08-08T09:22",
+    "market": "JP",
+    "subject_email": "user553891@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261027",
+    "type": "erasure",
+    "received_at": "2026-08-14T13:31",
+    "market": "JP",
+    "subject_email": "user459600@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261028",
+    "type": "rectification",
+    "received_at": "2026-08-15T00:06",
+    "market": "UK",
+    "subject_email": "user134997@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261029",
+    "type": "access",
+    "received_at": "2026-08-12T15:35",
+    "market": "CN",
+    "subject_email": "user449509@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261030",
+    "type": "access",
+    "received_at": "2026-08-04T19:35",
+    "market": "US",
+    "subject_email": "user539354@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261031",
+    "type": "erasure",
+    "received_at": "2026-08-05T15:12",
+    "market": "JP",
+    "subject_email": "user693956@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261032",
+    "type": "rectification",
+    "received_at": "2026-08-17T12:15",
+    "market": "LU",
+    "subject_email": "user615012@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261033",
+    "type": "erasure",
+    "received_at": "2026-08-06T12:26",
+    "market": "JP",
+    "subject_email": "user189274@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261034",
+    "type": "rectification",
+    "received_at": "2026-08-03T09:26",
+    "market": "CA",
+    "subject_email": "user437471@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261035",
+    "type": "access",
+    "received_at": "2026-08-28T01:23",
+    "market": "JP",
+    "subject_email": "user795143@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261036",
+    "type": "erasure",
+    "received_at": "2026-08-13T09:31",
+    "market": "AU",
+    "subject_email": "user963710@example.com",
+    "identity_verified": true,
+    "duplicate_of": "DSR-20261024"
+  },
+  {
+    "request_id": "DSR-20261037",
+    "type": "access",
+    "received_at": "2026-08-09T18:09",
+    "market": "CA",
+    "subject_email": "user784317@example.com",
+    "identity_verified": true,
+    "duplicate_of": "DSR-20261029"
+  },
+  {
+    "request_id": "DSR-20261038",
+    "type": "access",
+    "received_at": "2026-08-06T04:08",
+    "market": "NZ",
+    "subject_email": "user561333@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261039",
+    "type": "erasure",
+    "received_at": "2026-08-01T22:31",
+    "market": "UK",
+    "subject_email": "user688657@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261040",
+    "type": "erasure",
+    "received_at": "2026-08-31T06:24",
+    "market": "JP",
+    "subject_email": "user318508@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261041",
+    "type": "marketing opt-out",
+    "received_at": "2026-08-17T18:00",
+    "market": "NZ",
+    "subject_email": "user844726@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261042",
+    "type": "access",
+    "received_at": "2026-08-01T23:09",
+    "market": "DE",
+    "subject_email": "user118348@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261043",
+    "type": "erasure",
+    "received_at": "2026-08-09T21:35",
+    "market": "US",
+    "subject_email": "user220393@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261044",
+    "type": "access",
+    "received_at": "2026-08-12T08:05",
+    "market": "NZ",
+    "subject_email": "user883995@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261045",
+    "type": "rectification",
+    "received_at": "2026-08-10T00:31",
+    "market": "CA",
+    "subject_email": "user316535@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261046",
+    "type": "access",
+    "received_at": "2026-08-20T12:48",
+    "market": "US",
+    "subject_email": "user123115@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261047",
+    "type": "access",
+    "received_at": "2026-08-21T14:20",
+    "market": "JP",
+    "subject_email": "user495392@example.com",
+    "identity_verified": false,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261048",
+    "type": "erasure",
+    "received_at": "2026-08-12T09:00",
+    "market": "DE",
+    "subject_email": "user310153@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  },
+  {
+    "request_id": "DSR-20261049",
+    "type": "rectification",
+    "received_at": "2026-08-03T15:37",
+    "market": "AU",
+    "subject_email": "user9256@example.com",
+    "identity_verified": true,
+    "duplicate_of": ""
+  }
+]

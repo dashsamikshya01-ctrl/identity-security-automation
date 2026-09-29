@@ -1,0 +1,605 @@
+{
+  "asOf": "2026-09-01",
+  "value": [
+    {
+      "appId": "cf36d58b-4737-8190-96da-1dac72ff5d2a",
+      "displayName": "HR Portal",
+      "owner": "owner00@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "6C307511B2B9437A28DF6EC4CE4A2BBDC241330B",
+      "certExpiry": "2028-06-27",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 22079
+    },
+    {
+      "appId": "3b982ef8-daf6-1a26-146d-3f31fc377a4c",
+      "displayName": "Payroll",
+      "owner": "owner01@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "D58842DEA2BC372F7412B29347294739614FF3D7",
+      "certExpiry": "2026-11-15",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 13750
+    },
+    {
+      "appId": "ea1fca65-e27a-984d-6548-21d07fcd9eb1",
+      "displayName": "Expense Tool",
+      "owner": "owner02@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "BEB799193F22FAF823BED01D43CF2FDE24933B83",
+      "certExpiry": "2027-08-08",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 38331
+    },
+    {
+      "appId": "1d53434b-b881-39b9-ae27-0da702f06b90",
+      "displayName": "Travel Booking",
+      "owner": "owner03@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "A4161293C4C2E2E3444EA7C8C03987108976E334",
+      "certExpiry": "2027-08-15",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 10385
+    },
+    {
+      "appId": "3d4cbf37-4eb9-3eff-ce88-cb2dd4e80839",
+      "displayName": "CRM",
+      "owner": "owner04@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "15ED626914296C07F26B4776913E4DE2E0C53CB8",
+      "certExpiry": "2027-10-02",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 34931
+    },
+    {
+      "appId": "96a402f2-3ae8-cc93-8dcd-cd03969b6662",
+      "displayName": "Service Desk",
+      "owner": "owner05@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "3A9BEDD40F1259E0A18FF6B6B535106E122C9A56",
+      "certExpiry": "2026-09-06",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 0
+    },
+    {
+      "appId": "ac619e63-0dde-29a6-baa4-b71add2467ac",
+      "displayName": "Wiki",
+      "owner": "owner06@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "BA6C34AB6712303A0F844FEF1931E9EEA56C0941",
+      "certExpiry": "2028-03-29",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 16315
+    },
+    {
+      "appId": "e7067ef4-66aa-9385-dd59-ba7136b82481",
+      "displayName": "Code Review",
+      "owner": "owner07@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "43E458FC63F2AE24FC3D3348008D4127610461E3",
+      "certExpiry": "2027-02-16",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 18714
+    },
+    {
+      "appId": "1165e210-9854-3881-118a-9d292f923996",
+      "displayName": "Data Lake Console",
+      "owner": null,
+      "criticality": "P3",
+      "certThumbprint": "E3E9DE99F10C718B1EB0E38A675DD5AF3C365296",
+      "certExpiry": "2028-04-28",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 2624
+    },
+    {
+      "appId": "21e8ac68-43e4-2caf-8181-a8cc369147eb",
+      "displayName": "BI Dashboards",
+      "owner": null,
+      "criticality": "P3",
+      "certThumbprint": "5E9953D23E896C64E117DAC3119C4EA3E1805081",
+      "certExpiry": "2026-09-13",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 35620
+    },
+    {
+      "appId": "a2607723-17a0-df49-0d01-280fd89a40c0",
+      "displayName": "Learning Portal",
+      "owner": "owner10@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "C56811CD5563F61600E85ECE0B49452D46D483F3",
+      "certExpiry": "2027-10-06",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 10609
+    },
+    {
+      "appId": "5a8aaeca-1a50-aec3-aabc-25fa3fe12e47",
+      "displayName": "Benefits",
+      "owner": "owner11@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "9EE3AC2AF94D62046808593FDFED2C43E256A6DC",
+      "certExpiry": "2027-02-16",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 15534
+    },
+    {
+      "appId": "475287aa-5408-f9ac-6601-ddd03170f437",
+      "displayName": "Procurement",
+      "owner": null,
+      "criticality": "P3",
+      "certThumbprint": "A43825B559E4B6714774BC58C5F8BC16F7860B50",
+      "certExpiry": "2026-11-15",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 35161
+    },
+    {
+      "appId": "afd5dea5-89d7-fd6c-ce77-7f00ecf27e76",
+      "displayName": "Contract Vault",
+      "owner": null,
+      "criticality": "P3",
+      "certThumbprint": "5D3D9E563270E4FAABAE4F43BCAE8081BDF070AA",
+      "certExpiry": "2027-10-18",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 21659
+    },
+    {
+      "appId": "9b4e2c24-9479-e1e6-c927-7d9b6e0d2648",
+      "displayName": "Marketing Suite",
+      "owner": "owner14@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "36B5229AACF5E81E713162697118E36477097749",
+      "certExpiry": "2028-05-03",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 11140
+    },
+    {
+      "appId": "016b6287-b008-05cc-a7f3-6ae925c73c44",
+      "displayName": "Survey Tool",
+      "owner": "owner15@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "C7468F591B494E15E2ADD909C521BF2DDC45D539",
+      "certExpiry": "2028-03-11",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 33964
+    },
+    {
+      "appId": "c40c5d91-46fd-e062-a33d-c7afd701410d",
+      "displayName": "Design Studio",
+      "owner": "owner16@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "709B7D97464C04AF3D3F3799A07295E97C0E8CD8",
+      "certExpiry": "2028-03-20",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 17827
+    },
+    {
+      "appId": "05000bc6-b20d-cb6e-f231-1f1795863a76",
+      "displayName": "Chat Archive",
+      "owner": "owner17@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "018267C47A1B58066160A6B49360715FC3FE0183",
+      "certExpiry": "2027-05-06",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 25578
+    },
+    {
+      "appId": "7631de9d-dde9-f863-22bd-33886db99102",
+      "displayName": "Vendor Portal",
+      "owner": null,
+      "criticality": "P1",
+      "certThumbprint": "74672CD9362F5E5C53CD6268610CF37342999AA4",
+      "certExpiry": "2026-09-01",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 24866
+    },
+    {
+      "appId": "41992fdf-b310-22f0-770c-779837cc863b",
+      "displayName": "Asset Tracker",
+      "owner": "owner19@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "BF780E3FF6B751F79B7492459B1BC8952AF43AB7",
+      "certExpiry": "2026-09-19",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 10752
+    },
+    {
+      "appId": "d97dc9cd-033d-2bce-575a-ed2ca5c5650c",
+      "displayName": "Timesheets",
+      "owner": null,
+      "criticality": "P2",
+      "certThumbprint": "5CB85AEDF5F62C976EFB63B11B0498637D7DDBED",
+      "certExpiry": "2028-01-11",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 10046
+    },
+    {
+      "appId": "364d7c87-7cd0-129d-2e8d-0e87533420e6",
+      "displayName": "Recruiting",
+      "owner": "owner21@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "989D9D4AE15CA6664797B2C9572072464223623B",
+      "certExpiry": "2026-09-01",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 685
+    },
+    {
+      "appId": "bef59fe6-ff23-3d5f-6ced-d15d58007c02",
+      "displayName": "Board Portal",
+      "owner": "owner22@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "4E7ED827455AC7627428A656B3EE4D3B5A104129",
+      "certExpiry": "2027-07-15",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 12641
+    },
+    {
+      "appId": "4ac9778d-8da8-eee4-0df5-6ac6f96b648a",
+      "displayName": "Legal Hold",
+      "owner": "owner23@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "7DAA39F0C0B6FCE2DE53790AA34B6CF62053DA42",
+      "certExpiry": "2026-09-26",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 0
+    },
+    {
+      "appId": "6a8a616f-c3b2-90d0-8edd-dfcd1e52d770",
+      "displayName": "Treasury",
+      "owner": "owner24@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "85C7504BC693DA1139C6A1CA9E50AA42CA6DFDA1",
+      "certExpiry": "2026-09-07",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 19507
+    },
+    {
+      "appId": "48603b32-b4fb-0eb9-49c1-3de73b4206c5",
+      "displayName": "Audit Workbench",
+      "owner": "owner25@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "EC856F373BC1A987AFF8754D1238D630743B65A2",
+      "certExpiry": "2027-02-15",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 38672
+    },
+    {
+      "appId": "9918ee46-1497-d658-7010-f7197e695d0d",
+      "displayName": "Field Service",
+      "owner": "owner26@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "40181C6E9A8CFA3C5283AAC7BC0A6A5D6E996E3E",
+      "certExpiry": "2028-02-09",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 37716
+    },
+    {
+      "appId": "7ed70ed7-b194-990b-6961-929e546e035a",
+      "displayName": "Partner Hub",
+      "owner": "owner27@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "8CD321B0C2B01CFDD045DD1C668409E3F1F8343E",
+      "certExpiry": "2026-09-13",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 0
+    },
+    {
+      "appId": "0763fcd0-1f15-c7b6-7c16-128db2c08394",
+      "displayName": "Status Page",
+      "owner": "owner28@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "288B78B5B5B453CA3D42993CCC9FD3349BDF0377",
+      "certExpiry": "2027-03-29",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 0
+    },
+    {
+      "appId": "46b82659-11df-12d7-dd30-de8922f235f2",
+      "displayName": "Password Vault",
+      "owner": "owner29@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "C9A7D91FEF2AE713570210496A39AAA6DABAC50D",
+      "certExpiry": "2028-06-17",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 18556
+    },
+    {
+      "appId": "e9d68f23-b489-d070-7914-f8a8bea4ff31",
+      "displayName": "Ticket Analytics",
+      "owner": null,
+      "criticality": "P3",
+      "certThumbprint": "D21C82F8CADA4F80A9E782D4FD08B32C62D60E93",
+      "certExpiry": "2028-06-18",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 2446
+    },
+    {
+      "appId": "e32f2e63-b7fd-dd71-a075-e9275110b492",
+      "displayName": "Customer Community",
+      "owner": "owner31@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "118405AD9E11D2CD0930AEF68A80068DDF547E50",
+      "certExpiry": "2027-02-21",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 18853
+    },
+    {
+      "appId": "61ee6c5b-deef-580f-9c07-a75114374509",
+      "displayName": "E-Signature",
+      "owner": null,
+      "criticality": "P2",
+      "certThumbprint": "24A35CF29549C931E9AF299D7F671EEC3DA70577",
+      "certExpiry": "2026-10-15",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 30138
+    },
+    {
+      "appId": "b303f438-fe21-10d0-4bbe-4aff9326dffd",
+      "displayName": "Event Booking",
+      "owner": "owner33@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "464458B46553867DA881BFD3D47D577BFA5A91CA",
+      "certExpiry": "2027-11-19",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 3234
+    },
+    {
+      "appId": "f8b38a8b-e05f-b8bc-8a16-a06cc958e75e",
+      "displayName": "Knowledge Base",
+      "owner": "owner34@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "2A1F955AD499DA9945C45A3EE9DA484A80759F1F",
+      "certExpiry": "2026-10-15",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 31598
+    },
+    {
+      "appId": "acc216a0-1bbc-91f7-5f18-e583f0b6f83f",
+      "displayName": "Store Admin",
+      "owner": "owner35@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "8FB864E4F1738856E25D36EB9E9A9F83066803EE",
+      "certExpiry": "2028-06-23",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 4162
+    },
+    {
+      "appId": "7d45d8ef-d56c-e8ea-1959-7b5aa7a8f636",
+      "displayName": "Loyalty Console",
+      "owner": "owner36@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "B0B63BCF08601833479D0CDAF396EA37F065C817",
+      "certExpiry": "2026-09-30",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 15493
+    },
+    {
+      "appId": "3748967f-961d-33ba-3508-43f08de08fc2",
+      "displayName": "Warehouse Mgmt",
+      "owner": "owner37@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "C9E48E8C25C61C45C63D04EE541C7A863BA5CD2F",
+      "certExpiry": "2026-09-06",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 0
+    },
+    {
+      "appId": "5cae9610-c72c-1fe3-72c2-2a1679eb4168",
+      "displayName": "Fleet Tracker",
+      "owner": "owner38@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "F206C26938B77C0780FB929673B6A09B1BEAF6AC",
+      "certExpiry": "2026-09-19",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 34193
+    },
+    {
+      "appId": "816bcb9f-7426-b193-4b7e-6b3c87d292a6",
+      "displayName": "Print Management",
+      "owner": "owner39@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "DA509FED1D4A3D81B3A7D0E0CB08587D1963C26D",
+      "certExpiry": "2028-04-16",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 36152
+    },
+    {
+      "appId": "cfd01cbd-5f65-c8ce-bd21-bc11be9d61ee",
+      "displayName": "Visitor Mgmt",
+      "owner": "owner40@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "8FCA7B6A8FC42092F4E559E5962293480F5AE9D3",
+      "certExpiry": "2026-09-07",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 23193
+    },
+    {
+      "appId": "9f294a8b-d184-6c39-c476-7556f97be2dd",
+      "displayName": "Floor Planner",
+      "owner": "owner41@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "EDD877C89BE7173706B892318E867F3CA487EEAB",
+      "certExpiry": "2027-07-18",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 1917
+    },
+    {
+      "appId": "f10013a7-c6de-b2f0-530a-c1c7b8ba8368",
+      "displayName": "Lab Scheduler",
+      "owner": "owner42@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "284C03D227D415B60D77C5A0E222B6A615BFBE97",
+      "certExpiry": "2026-10-11",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 0
+    },
+    {
+      "appId": "345512f7-01f7-c7ec-0e06-30cd996d5c50",
+      "displayName": "Grant Tracker",
+      "owner": "owner43@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "4169B9FCC3A00C6F2321D1E1C47104C036136E15",
+      "certExpiry": "2026-11-15",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 0
+    },
+    {
+      "appId": "67b03283-1d7c-0098-4a1d-ab326aedfdc7",
+      "displayName": "Claims Portal",
+      "owner": "owner44@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "9E3D750DF296D9F0CD2372C22BFFE17B532401FC",
+      "certExpiry": "2027-11-28",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 23734
+    },
+    {
+      "appId": "f54e2019-ba35-844e-59e1-ac095970a859",
+      "displayName": "Tax Engine",
+      "owner": "owner45@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "257D5E521A5165CA3C7C1D8525CF0041D0A643FE",
+      "certExpiry": "2026-10-26",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 10038
+    },
+    {
+      "appId": "0e9058b6-09a0-a0f6-73b0-a0917634c169",
+      "displayName": "Risk Register",
+      "owner": null,
+      "criticality": "P2",
+      "certThumbprint": "FA34D2E8DD3F7D7EA508DC9513A4A492497DE16D",
+      "certExpiry": "2027-09-08",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 33251
+    },
+    {
+      "appId": "85d2d0a6-8629-5b5d-707d-f251fdb1429e",
+      "displayName": "Policy Library",
+      "owner": "owner47@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "632DBB5E486BB6BFEAFDE7D95F733A3E5D286AA4",
+      "certExpiry": "2026-11-28",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 39203
+    },
+    {
+      "appId": "d02ce0c1-5417-0a17-caaa-5bbea4bbf962",
+      "displayName": "Mobile MDM Console",
+      "owner": "owner48@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "FF4625AFBD20563BF275B5F3D436A7A8B3ECB951",
+      "certExpiry": "2027-11-03",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 27768
+    },
+    {
+      "appId": "6070b6a1-98e5-2499-218c-6e1c9e374f7a",
+      "displayName": "API Gateway Admin",
+      "owner": "owner49@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "9FEEFDFFC566AA81B15E54F6D4D307952E4BEBC4",
+      "certExpiry": "2027-06-03",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 28703
+    },
+    {
+      "appId": "cd1f5318-331f-63fb-d11f-c8c0297ca4ff",
+      "displayName": "Log Search",
+      "owner": "owner50@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "7B07FD31A4244F230D5BA7CD400035F0DF7D0DD7",
+      "certExpiry": "2027-09-15",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 6743
+    },
+    {
+      "appId": "07374c86-397b-5f51-5ffa-46ef14e4180c",
+      "displayName": "Backup Console",
+      "owner": "owner51@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "55D596AFA663D2CDB6F6DBF1D6D441CC195D82F8",
+      "certExpiry": "2026-11-28",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 18820
+    },
+    {
+      "appId": "1c612ec2-1014-2131-7505-65f59f708368",
+      "displayName": "Firewall Manager",
+      "owner": "owner52@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "A1C7CC8A04351B64893AD23298C3E3CA7FF4CEC6",
+      "certExpiry": "2028-06-14",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 9429
+    },
+    {
+      "appId": "bf5023f4-40ef-3935-5f90-bed6fb25664d",
+      "displayName": "Certificate Portal",
+      "owner": "owner53@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "BBA205CA3DBA6DA85844F9FC114B9547C9DC72B8",
+      "certExpiry": "2026-09-02",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 0
+    },
+    {
+      "appId": "d0be73ee-fd37-2539-65f2-02f983f02dc7",
+      "displayName": "Research Wiki",
+      "owner": "owner54@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "30EC2796A59B457FC0D7AC73095FFA8140D92BCE",
+      "certExpiry": "2027-11-26",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 3152
+    },
+    {
+      "appId": "a9320094-53f2-8f11-147f-65701a43db54",
+      "displayName": "Store Locator Admin",
+      "owner": "owner55@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "2AA93B436D15F16FB7B8C1A59A45693D7227890E",
+      "certExpiry": "2028-02-14",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 2795
+    },
+    {
+      "appId": "5ef787b8-f2e6-195f-732e-2016add702c9",
+      "displayName": "Pricing Engine",
+      "owner": "owner56@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "878AAED9233FFC8292EC89AF13AEC376C359810A",
+      "certExpiry": "2026-09-02",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 18284
+    },
+    {
+      "appId": "cf7dcb43-1679-742f-ff4c-96d671f2ce8f",
+      "displayName": "Returns Portal",
+      "owner": "owner57@contoso.example",
+      "criticality": "P3",
+      "certThumbprint": "58F0DD23AAF78C6751D08109FC902838D8741408",
+      "certExpiry": "2026-10-15",
+      "metadataUrlConsumed": false,
+      "signInsLast30d": 19049
+    },
+    {
+      "appId": "7a89cbeb-b807-d78a-b788-f5d1ffe575f6",
+      "displayName": "Supplier Scorecard",
+      "owner": "owner58@contoso.example",
+      "criticality": "P2",
+      "certThumbprint": "12E153A6932CAE01D2C65EE468D0A2A8C4E7F7DD",
+      "certExpiry": "2026-09-06",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 4880
+    },
+    {
+      "appId": "d88f1c94-48b7-63d5-e519-dd7e84d67c4f",
+      "displayName": "Onboarding Hub",
+      "owner": "owner59@contoso.example",
+      "criticality": "P1",
+      "certThumbprint": "46426C458D03F17AF4D375C1A29319FA3240D7A1",
+      "certExpiry": "2028-07-24",
+      "metadataUrlConsumed": true,
+      "signInsLast30d": 34982
+    }
+  ]
+}

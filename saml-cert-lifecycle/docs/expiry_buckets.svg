@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="360" viewBox="0 0 860 360" role="img" aria-label="Where every SAML app stands today">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect width="860" height="360" rx="12" fill="#0b1b33"/>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#ffffff">Where every SAML app stands today</text>
+<text x="24" y="56" font-size="12.5" fill="#8fb3dd">60 apps in the synthetic tenant, bucketed by days to signing-cert expiry and ownership</text>
+<line x1="60" x2="836" y1="302.0" y2="302.0" stroke="#24406a" stroke-width="1"/>
+<text x="52" y="306.0" font-size="11" fill="#8fb3dd" text-anchor="end">0</text>
+<line x1="60" x2="836" y1="246.5" y2="246.5" stroke="#24406a" stroke-width="1"/>
+<text x="52" y="250.5" font-size="11" fill="#8fb3dd" text-anchor="end">8</text>
+<line x1="60" x2="836" y1="191.0" y2="191.0" stroke="#24406a" stroke-width="1"/>
+<text x="52" y="195.0" font-size="11" fill="#8fb3dd" text-anchor="end">16</text>
+<line x1="60" x2="836" y1="135.5" y2="135.5" stroke="#24406a" stroke-width="1"/>
+<text x="52" y="139.5" font-size="11" fill="#8fb3dd" text-anchor="end">24</text>
+<line x1="60" x2="836" y1="80.0" y2="80.0" stroke="#24406a" stroke-width="1"/>
+<text x="52" y="84.0" font-size="11" fill="#8fb3dd" text-anchor="end">32</text>
+<path d="M76.4,302.0 V302.0 Q76.4,302.0 76.4,302.0 H129.8 Q129.8,302.0 129.8,302.0 V302.0 Z" fill="#e66767"><title>Expired: 0</title></path>
+<text x="103.1" y="296.0" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">0</text>
+<text x="103.1" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Expired</text>
+<path d="M162.6,302.0 V285.2 Q162.6,281.2 166.6,281.2 H212.1 Q216.1,281.2 216.1,285.2 V302.0 Z" fill="#e66767"><title>≤1 day: 3</title></path>
+<text x="189.3" y="275.2" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">3</text>
+<text x="189.3" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">≤1 day</text>
+<path d="M248.8,302.0 V285.2 Q248.8,281.2 252.8,281.2 H298.3 Q302.3,281.2 302.3,285.2 V302.0 Z" fill="#d95926"><title>≤7 d: 3</title></path>
+<text x="275.6" y="275.2" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">3</text>
+<text x="275.6" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">≤7 d</text>
+<path d="M335.0,302.0 V285.2 Q335.0,281.2 339.0,281.2 H384.5 Q388.5,281.2 388.5,285.2 V302.0 Z" fill="#d95926"><title>≤30 d: 3</title></path>
+<text x="361.8" y="275.2" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">3</text>
+<text x="361.8" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">≤30 d</text>
+<path d="M421.3,302.0 V285.2 Q421.3,281.2 425.3,281.2 H470.7 Q474.7,281.2 474.7,285.2 V302.0 Z" fill="#c98500"><title>≤60 d: 3</title></path>
+<text x="448.0" y="275.2" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">3</text>
+<text x="448.0" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">≤60 d</text>
+<path d="M507.5,302.0 V285.2 Q507.5,281.2 511.5,281.2 H557.0 Q561.0,281.2 561.0,285.2 V302.0 Z" fill="#c98500"><title>≤90 d: 3</title></path>
+<text x="534.2" y="275.2" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">3</text>
+<text x="534.2" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">≤90 d</text>
+<path d="M593.7,302.0 V250.5 Q593.7,246.5 597.7,246.5 H643.2 Q647.2,246.5 647.2,250.5 V302.0 Z" fill="#d95926"><title>No owner: 8</title></path>
+<text x="620.4" y="240.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">8</text>
+<text x="620.4" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">No owner</text>
+<path d="M679.9,302.0 V250.5 Q679.9,246.5 683.9,246.5 H729.4 Q733.4,246.5 733.4,250.5 V302.0 Z" fill="#5b7aa6"><title>Stale: 8</title></path>
+<text x="706.7" y="240.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">8</text>
+<text x="706.7" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Stale</text>
+<path d="M766.2,302.0 V104.8 Q766.2,100.8 770.2,100.8 H815.6 Q819.6,100.8 819.6,104.8 V302.0 Z" fill="#199e70"><title>Healthy: 29</title></path>
+<text x="792.9" y="94.8" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">29</text>
+<text x="792.9" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Healthy</text>
+</svg>

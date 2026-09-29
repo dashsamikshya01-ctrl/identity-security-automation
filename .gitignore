@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+*/report.json
+*/audit_log.json
+.env

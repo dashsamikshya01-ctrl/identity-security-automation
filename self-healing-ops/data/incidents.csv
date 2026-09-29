@@ -1,0 +1,1464 @@
+incident_id,month,category,handled_by,agent_confidence,engineer_minutes
+INC00001,2026-03,License assignment error,engineer,,15
+INC00002,2026-03,Account lockout,engineer,,14
+INC00003,2026-03,Account lockout,engineer,,12
+INC00004,2026-03,Conditional Access block (unknown cause),engineer,,53
+INC00005,2026-03,Stale device object,engineer,,5
+INC00006,2026-03,Stale device object,engineer,,11
+INC00007,2026-03,MFA re-registration,engineer,,7
+INC00008,2026-03,Account lockout,engineer,,10
+INC00009,2026-03,Account lockout,engineer,,9
+INC00010,2026-03,License assignment error,engineer,,22
+INC00011,2026-03,MFA re-registration,engineer,,7
+INC00012,2026-03,Account lockout,engineer,,9
+INC00013,2026-03,Group sync failure,engineer,,35
+INC00014,2026-03,License assignment error,engineer,,12
+INC00015,2026-03,Account lockout,engineer,,13
+INC00016,2026-03,Account lockout,engineer,,20
+INC00017,2026-03,MFA re-registration,engineer,,16
+INC00018,2026-03,MFA re-registration,engineer,,17
+INC00019,2026-03,Stale device object,engineer,,8
+INC00020,2026-03,Group sync failure,engineer,,34
+INC00021,2026-03,Other / novel issue,engineer,,65
+INC00022,2026-03,Account lockout,engineer,,13
+INC00023,2026-03,Account lockout,engineer,,17
+INC00024,2026-03,Conditional Access block (unknown cause),engineer,,53
+INC00025,2026-03,Conditional Access block (unknown cause),engineer,,52
+INC00026,2026-03,MFA re-registration,engineer,,15
+INC00027,2026-03,License assignment error,engineer,,17
+INC00028,2026-03,Conditional Access block (unknown cause),engineer,,52
+INC00029,2026-03,Group sync failure,engineer,,40
+INC00030,2026-03,Group sync failure,engineer,,38
+INC00031,2026-03,Group sync failure,engineer,,36
+INC00032,2026-03,Group sync failure,engineer,,40
+INC00033,2026-03,License assignment error,engineer,,15
+INC00034,2026-03,Group sync failure,engineer,,43
+INC00035,2026-03,Account lockout,engineer,,16
+INC00036,2026-03,Conditional Access block (unknown cause),engineer,,50
+INC00037,2026-03,Group sync failure,engineer,,38
+INC00038,2026-03,License assignment error,engineer,,14
+INC00039,2026-03,Group sync failure,engineer,,36
+INC00040,2026-03,Account lockout,engineer,,19
+INC00041,2026-03,Account lockout,engineer,,16
+INC00042,2026-03,Password expiry for service account,engineer,,38
+INC00043,2026-03,License assignment error,engineer,,15
+INC00044,2026-03,Account lockout,engineer,,15
+INC00045,2026-03,MFA re-registration,engineer,,16
+INC00046,2026-03,Account lockout,engineer,,10
+INC00047,2026-03,Account lockout,engineer,,18
+INC00048,2026-03,MFA re-registration,engineer,,15
+INC00049,2026-03,Account lockout,engineer,,12
+INC00050,2026-03,Password expiry for service account,engineer,,42
+INC00051,2026-03,Group sync failure,engineer,,32
+INC00052,2026-03,Account lockout,engineer,,12
+INC00053,2026-03,Other / novel issue,engineer,,58
+INC00054,2026-03,Stale device object,engineer,,12
+INC00055,2026-03,Conditional Access block (unknown cause),engineer,,53
+INC00056,2026-03,MFA re-registration,engineer,,10
+INC00057,2026-03,Group sync failure,engineer,,35
+INC00058,2026-03,License assignment error,engineer,,16
+INC00059,2026-03,Group sync failure,engineer,,40
+INC00060,2026-03,MFA re-registration,engineer,,11
+INC00061,2026-03,Account lockout,engineer,,17
+INC00062,2026-03,Password expiry for service account,engineer,,44
+INC00063,2026-03,Account lockout,engineer,,20
+INC00064,2026-03,License assignment error,engineer,,17
+INC00065,2026-03,Conditional Access block (unknown cause),engineer,,47
+INC00066,2026-03,Group sync failure,engineer,,32
+INC00067,2026-03,License assignment error,engineer,,15
+INC00068,2026-03,Stale device object,engineer,,5
+INC00069,2026-03,Account lockout,engineer,,18
+INC00070,2026-03,MFA re-registration,engineer,,13
+INC00071,2026-03,Group sync failure,engineer,,35
+INC00072,2026-03,Group sync failure,engineer,,38
+INC00073,2026-03,MFA re-registration,engineer,,10
+INC00074,2026-03,License assignment error,engineer,,22
+INC00075,2026-03,Conditional Access block (unknown cause),engineer,,47
+INC00076,2026-03,Account lockout,engineer,,16
+INC00077,2026-03,Other / novel issue,engineer,,67
+INC00078,2026-03,Stale device object,engineer,,12
+INC00079,2026-03,Account lockout,engineer,,14
+INC00080,2026-03,Account lockout,engineer,,20
+INC00081,2026-03,License assignment error,engineer,,14
+INC00082,2026-03,Conditional Access block (unknown cause),engineer,,50
+INC00083,2026-03,Other / novel issue,engineer,,57
+INC00084,2026-03,License assignment error,engineer,,13
+INC00085,2026-03,Conditional Access block (unknown cause),engineer,,52
+INC00086,2026-03,Account lockout,engineer,,9
+INC00087,2026-03,Group sync failure,engineer,,42
+INC00088,2026-03,Account lockout,engineer,,20
+INC00089,2026-03,Account lockout,engineer,,12
+INC00090,2026-03,License assignment error,engineer,,17
+INC00091,2026-03,Account lockout,engineer,,19
+INC00092,2026-03,MFA re-registration,engineer,,16
+INC00093,2026-03,Conditional Access block (unknown cause),engineer,,52
+INC00094,2026-03,License assignment error,engineer,,12
+INC00095,2026-03,License assignment error,engineer,,18
+INC00096,2026-03,Account lockout,engineer,,17
+INC00097,2026-03,MFA re-registration,engineer,,15
+INC00098,2026-03,Other / novel issue,engineer,,57
+INC00099,2026-03,License assignment error,engineer,,23
+INC00100,2026-03,MFA re-registration,engineer,,9
+INC00101,2026-03,Account lockout,engineer,,10
+INC00102,2026-03,License assignment error,engineer,,15
+INC00103,2026-03,Account lockout,engineer,,17
+INC00104,2026-03,Account lockout,engineer,,14
+INC00105,2026-03,Account lockout,engineer,,15
+INC00106,2026-03,Account lockout,engineer,,15
+INC00107,2026-03,License assignment error,engineer,,15
+INC00108,2026-03,Other / novel issue,engineer,,60
+INC00109,2026-03,Group sync failure,engineer,,33
+INC00110,2026-03,MFA re-registration,engineer,,17
+INC00111,2026-03,Stale device object,engineer,,6
+INC00112,2026-03,Group sync failure,engineer,,38
+INC00113,2026-03,License assignment error,engineer,,12
+INC00114,2026-03,MFA re-registration,engineer,,18
+INC00115,2026-03,Account lockout,engineer,,16
+INC00116,2026-03,Password expiry for service account,engineer,,47
+INC00117,2026-03,Stale device object,engineer,,14
+INC00118,2026-03,Other / novel issue,engineer,,58
+INC00119,2026-03,Password expiry for service account,engineer,,37
+INC00120,2026-03,Account lockout,engineer,,20
+INC00121,2026-03,Password expiry for service account,engineer,,44
+INC00122,2026-03,Account lockout,engineer,,10
+INC00123,2026-03,MFA re-registration,engineer,,11
+INC00124,2026-03,Conditional Access block (unknown cause),engineer,,51
+INC00125,2026-03,MFA re-registration,engineer,,9
+INC00126,2026-03,Conditional Access block (unknown cause),engineer,,47
+INC00127,2026-03,Account lockout,engineer,,12
+INC00128,2026-03,MFA re-registration,engineer,,18
+INC00129,2026-03,Stale device object,engineer,,6
+INC00130,2026-03,Group sync failure,engineer,,41
+INC00131,2026-03,Account lockout,engineer,,15
+INC00132,2026-03,MFA re-registration,engineer,,15
+INC00133,2026-03,Group sync failure,engineer,,43
+INC00134,2026-03,Account lockout,engineer,,20
+INC00135,2026-03,MFA re-registration,engineer,,15
+INC00136,2026-03,Stale device object,engineer,,10
+INC00137,2026-03,Account lockout,engineer,,15
+INC00138,2026-03,Account lockout,engineer,,10
+INC00139,2026-03,Group sync failure,engineer,,41
+INC00140,2026-03,Conditional Access block (unknown cause),engineer,,48
+INC00141,2026-03,Other / novel issue,engineer,,62
+INC00142,2026-03,Account lockout,engineer,,13
+INC00143,2026-03,Stale device object,engineer,,12
+INC00144,2026-03,License assignment error,engineer,,17
+INC00145,2026-03,License assignment error,engineer,,18
+INC00146,2026-03,Group sync failure,engineer,,42
+INC00147,2026-03,MFA re-registration,engineer,,13
+INC00148,2026-03,Account lockout,engineer,,18
+INC00149,2026-03,Group sync failure,engineer,,35
+INC00150,2026-03,MFA re-registration,engineer,,8
+INC00151,2026-03,Account lockout,engineer,,15
+INC00152,2026-03,MFA re-registration,engineer,,17
+INC00153,2026-03,Account lockout,engineer,,15
+INC00154,2026-03,Group sync failure,engineer,,33
+INC00155,2026-03,Account lockout,engineer,,13
+INC00156,2026-03,License assignment error,engineer,,16
+INC00157,2026-03,Account lockout,engineer,,10
+INC00158,2026-03,Account lockout,engineer,,16
+INC00159,2026-03,License assignment error,engineer,,20
+INC00160,2026-03,Group sync failure,engineer,,32
+INC00161,2026-03,Account lockout,engineer,,17
+INC00162,2026-03,Account lockout,engineer,,18
+INC00163,2026-03,Stale device object,engineer,,11
+INC00164,2026-03,Account lockout,engineer,,15
+INC00165,2026-03,Group sync failure,engineer,,33
+INC00166,2026-03,MFA re-registration,engineer,,15
+INC00167,2026-03,Conditional Access block (unknown cause),engineer,,45
+INC00168,2026-03,MFA re-registration,engineer,,9
+INC00169,2026-03,MFA re-registration,engineer,,9
+INC00170,2026-03,Account lockout,engineer,,13
+INC00171,2026-03,Account lockout,engineer,,11
+INC00172,2026-03,Account lockout,engineer,,15
+INC00173,2026-03,Account lockout,engineer,,13
+INC00174,2026-03,License assignment error,engineer,,13
+INC00175,2026-03,Group sync failure,engineer,,35
+INC00176,2026-03,MFA re-registration,engineer,,14
+INC00177,2026-03,MFA re-registration,engineer,,10
+INC00178,2026-03,License assignment error,engineer,,14
+INC00179,2026-03,Group sync failure,engineer,,38
+INC00180,2026-03,Group sync failure,engineer,,41
+INC00181,2026-03,Group sync failure,engineer,,37
+INC00182,2026-03,License assignment error,engineer,,18
+INC00183,2026-03,Stale device object,engineer,,15
+INC00184,2026-03,Other / novel issue,engineer,,59
+INC00185,2026-03,Group sync failure,engineer,,41
+INC00186,2026-03,Conditional Access block (unknown cause),engineer,,45
+INC00187,2026-03,License assignment error,engineer,,14
+INC00188,2026-03,Other / novel issue,engineer,,62
+INC00189,2026-03,Group sync failure,engineer,,43
+INC00190,2026-03,MFA re-registration,engineer,,16
+INC00191,2026-03,Stale device object,engineer,,10
+INC00192,2026-03,Group sync failure,engineer,,38
+INC00193,2026-03,Group sync failure,engineer,,41
+INC00194,2026-03,Account lockout,engineer,,17
+INC00195,2026-03,Account lockout,engineer,,17
+INC00196,2026-03,Account lockout,engineer,,20
+INC00197,2026-03,License assignment error,engineer,,23
+INC00198,2026-03,Account lockout,engineer,,13
+INC00199,2026-03,Password expiry for service account,engineer,,38
+INC00200,2026-03,Stale device object,engineer,,11
+INC00201,2026-03,MFA re-registration,engineer,,9
+INC00202,2026-03,MFA re-registration,engineer,,10
+INC00203,2026-03,Account lockout,engineer,,11
+INC00204,2026-03,MFA re-registration,engineer,,13
+INC00205,2026-03,Account lockout,engineer,,18
+INC00206,2026-03,License assignment error,engineer,,18
+INC00207,2026-03,License assignment error,engineer,,23
+INC00208,2026-03,Group sync failure,engineer,,32
+INC00209,2026-03,Stale device object,engineer,,10
+INC00210,2026-03,MFA re-registration,engineer,,15
+INC00211,2026-03,MFA re-registration,engineer,,8
+INC00212,2026-03,Account lockout,engineer,,12
+INC00213,2026-03,MFA re-registration,engineer,,12
+INC00214,2026-03,Account lockout,engineer,,18
+INC00215,2026-03,Account lockout,engineer,,19
+INC00216,2026-03,MFA re-registration,engineer,,13
+INC00217,2026-03,Other / novel issue,engineer,,62
+INC00218,2026-03,Other / novel issue,engineer,,63
+INC00219,2026-03,Account lockout,engineer,,10
+INC00220,2026-03,Account lockout,engineer,,17
+INC00221,2026-03,Stale device object,engineer,,13
+INC00222,2026-03,MFA re-registration,engineer,,16
+INC00223,2026-03,Account lockout,engineer,,14
+INC00224,2026-03,Group sync failure,engineer,,42
+INC00225,2026-03,MFA re-registration,engineer,,15
+INC00226,2026-03,Account lockout,engineer,,9
+INC00227,2026-03,License assignment error,engineer,,16
+INC00228,2026-03,Group sync failure,engineer,,33
+INC00229,2026-03,Account lockout,engineer,,20
+INC00230,2026-03,Account lockout,engineer,,13
+INC00231,2026-03,Group sync failure,engineer,,35
+INC00232,2026-03,License assignment error,engineer,,17
+INC00233,2026-03,License assignment error,engineer,,19
+INC00234,2026-03,MFA re-registration,engineer,,14
+INC00235,2026-03,Group sync failure,engineer,,36
+INC00236,2026-03,Account lockout,engineer,,20
+INC00237,2026-03,Account lockout,engineer,,14
+INC00238,2026-03,MFA re-registration,engineer,,17
+INC00239,2026-03,Stale device object,engineer,,16
+INC00240,2026-03,Account lockout,engineer,,11
+INC00241,2026-03,License assignment error,engineer,,17
+INC00242,2026-03,License assignment error,engineer,,19
+INC00243,2026-03,Account lockout,engineer,,15
+INC00244,2026-04,Account lockout,engineer,,19
+INC00245,2026-04,MFA re-registration,engineer,,13
+INC00246,2026-04,Account lockout,engineer,,18
+INC00247,2026-04,Password expiry for service account,engineer,,44
+INC00248,2026-04,MFA re-registration,engineer,,13
+INC00249,2026-04,Account lockout,engineer,,12
+INC00250,2026-04,Account lockout,engineer,,20
+INC00251,2026-04,Stale device object,engineer,,6
+INC00252,2026-04,MFA re-registration,engineer,,15
+INC00253,2026-04,Account lockout,engineer,,14
+INC00254,2026-04,Account lockout,engineer,,10
+INC00255,2026-04,Account lockout,engineer,,16
+INC00256,2026-04,License assignment error,engineer,,22
+INC00257,2026-04,Group sync failure,engineer,,38
+INC00258,2026-04,MFA re-registration,engineer,,16
+INC00259,2026-04,Account lockout,engineer,,14
+INC00260,2026-04,Password expiry for service account,engineer,,46
+INC00261,2026-04,Account lockout,engineer,,19
+INC00262,2026-04,MFA re-registration,engineer,,11
+INC00263,2026-04,Conditional Access block (unknown cause),engineer,,51
+INC00264,2026-04,Account lockout,engineer,,11
+INC00265,2026-04,Group sync failure,engineer,,35
+INC00266,2026-04,Group sync failure,engineer,,34
+INC00267,2026-04,Group sync failure,engineer,,34
+INC00268,2026-04,License assignment error,engineer,,18
+INC00269,2026-04,MFA re-registration,engineer,,16
+INC00270,2026-04,Group sync failure,engineer,,34
+INC00271,2026-04,License assignment error,engineer,,20
+INC00272,2026-04,MFA re-registration,engineer,,17
+INC00273,2026-04,Conditional Access block (unknown cause),engineer,,44
+INC00274,2026-04,License assignment error,engineer,,19
+INC00275,2026-04,Group sync failure,engineer,,34
+INC00276,2026-04,Group sync failure,engineer,,39
+INC00277,2026-04,MFA re-registration,engineer,,12
+INC00278,2026-04,Conditional Access block (unknown cause),engineer,,49
+INC00279,2026-04,Account lockout,engineer,,15
+INC00280,2026-04,Other / novel issue,engineer,,65
+INC00281,2026-04,MFA re-registration,engineer,,13
+INC00282,2026-04,MFA re-registration,engineer,,13
+INC00283,2026-04,MFA re-registration,engineer,,14
+INC00284,2026-04,License assignment error,engineer,,13
+INC00285,2026-04,License assignment error,engineer,,15
+INC00286,2026-04,Group sync failure,engineer,,36
+INC00287,2026-04,Account lockout,engineer,,13
+INC00288,2026-04,Account lockout,engineer,,16
+INC00289,2026-04,License assignment error,engineer,,19
+INC00290,2026-04,License assignment error,engineer,,13
+INC00291,2026-04,MFA re-registration,engineer,,11
+INC00292,2026-04,Stale device object,engineer,,10
+INC00293,2026-04,License assignment error,engineer,,12
+INC00294,2026-04,Stale device object,engineer,,12
+INC00295,2026-04,License assignment error,engineer,,18
+INC00296,2026-04,Account lockout,engineer,,19
+INC00297,2026-04,Stale device object,engineer,,9
+INC00298,2026-04,Password expiry for service account,engineer,,37
+INC00299,2026-04,License assignment error,engineer,,17
+INC00300,2026-04,Password expiry for service account,engineer,,38
+INC00301,2026-04,License assignment error,engineer,,13
+INC00302,2026-04,Stale device object,engineer,,8
+INC00303,2026-04,Account lockout,engineer,,20
+INC00304,2026-04,MFA re-registration,engineer,,12
+INC00305,2026-04,Password expiry for service account,engineer,,46
+INC00306,2026-04,MFA re-registration,engineer,,9
+INC00307,2026-04,MFA re-registration,engineer,,10
+INC00308,2026-04,Stale device object,engineer,,5
+INC00309,2026-04,MFA re-registration,engineer,,15
+INC00310,2026-04,Account lockout,engineer,,17
+INC00311,2026-04,Account lockout,engineer,,20
+INC00312,2026-04,Group sync failure,engineer,,41
+INC00313,2026-04,Account lockout,engineer,,17
+INC00314,2026-04,Other / novel issue,engineer,,67
+INC00315,2026-04,Stale device object,engineer,,7
+INC00316,2026-04,Other / novel issue,engineer,,63
+INC00317,2026-04,Conditional Access block (unknown cause),engineer,,46
+INC00318,2026-04,Password expiry for service account,engineer,,39
+INC00319,2026-04,MFA re-registration,engineer,,9
+INC00320,2026-04,Account lockout,engineer,,20
+INC00321,2026-04,Group sync failure,engineer,,35
+INC00322,2026-04,Stale device object,engineer,,15
+INC00323,2026-04,Group sync failure,engineer,,34
+INC00324,2026-04,MFA re-registration,engineer,,11
+INC00325,2026-04,MFA re-registration,engineer,,13
+INC00326,2026-04,License assignment error,engineer,,22
+INC00327,2026-04,Stale device object,engineer,,6
+INC00328,2026-04,Group sync failure,engineer,,43
+INC00329,2026-04,Account lockout,engineer,,14
+INC00330,2026-04,License assignment error,engineer,,19
+INC00331,2026-04,Group sync failure,engineer,,32
+INC00332,2026-04,Password expiry for service account,engineer,,48
+INC00333,2026-04,Account lockout,engineer,,16
+INC00334,2026-04,MFA re-registration,engineer,,18
+INC00335,2026-04,Group sync failure,engineer,,33
+INC00336,2026-04,Stale device object,engineer,,11
+INC00337,2026-04,Account lockout,engineer,,15
+INC00338,2026-04,Password expiry for service account,engineer,,44
+INC00339,2026-04,Account lockout,engineer,,13
+INC00340,2026-04,Group sync failure,engineer,,41
+INC00341,2026-04,Account lockout,engineer,,16
+INC00342,2026-04,Stale device object,engineer,,15
+INC00343,2026-04,Stale device object,engineer,,5
+INC00344,2026-04,Account lockout,engineer,,16
+INC00345,2026-04,Account lockout,engineer,,11
+INC00346,2026-04,License assignment error,engineer,,12
+INC00347,2026-04,Other / novel issue,engineer,,63
+INC00348,2026-04,Account lockout,engineer,,20
+INC00349,2026-04,Conditional Access block (unknown cause),engineer,,52
+INC00350,2026-04,Group sync failure,engineer,,36
+INC00351,2026-04,Account lockout,engineer,,14
+INC00352,2026-04,Account lockout,engineer,,14
+INC00353,2026-04,MFA re-registration,engineer,,17
+INC00354,2026-04,Account lockout,engineer,,15
+INC00355,2026-04,MFA re-registration,engineer,,18
+INC00356,2026-04,MFA re-registration,engineer,,10
+INC00357,2026-04,Group sync failure,engineer,,33
+INC00358,2026-04,MFA re-registration,engineer,,7
+INC00359,2026-04,Account lockout,engineer,,10
+INC00360,2026-04,Account lockout,engineer,,12
+INC00361,2026-04,License assignment error,engineer,,19
+INC00362,2026-04,Account lockout,engineer,,20
+INC00363,2026-04,Group sync failure,engineer,,33
+INC00364,2026-04,Other / novel issue,engineer,,63
+INC00365,2026-04,MFA re-registration,engineer,,14
+INC00366,2026-04,Account lockout,engineer,,15
+INC00367,2026-04,Account lockout,engineer,,10
+INC00368,2026-04,Account lockout,engineer,,14
+INC00369,2026-04,Password expiry for service account,engineer,,39
+INC00370,2026-04,Group sync failure,engineer,,34
+INC00371,2026-04,MFA re-registration,engineer,,17
+INC00372,2026-04,Account lockout,engineer,,17
+INC00373,2026-04,License assignment error,engineer,,21
+INC00374,2026-04,MFA re-registration,engineer,,14
+INC00375,2026-04,Group sync failure,engineer,,35
+INC00376,2026-04,MFA re-registration,engineer,,9
+INC00377,2026-04,Conditional Access block (unknown cause),engineer,,51
+INC00378,2026-04,MFA re-registration,engineer,,10
+INC00379,2026-04,Account lockout,engineer,,10
+INC00380,2026-04,Account lockout,engineer,,10
+INC00381,2026-04,MFA re-registration,engineer,,13
+INC00382,2026-04,Group sync failure,engineer,,38
+INC00383,2026-04,Group sync failure,engineer,,34
+INC00384,2026-04,Account lockout,engineer,,19
+INC00385,2026-04,Account lockout,engineer,,17
+INC00386,2026-04,MFA re-registration,engineer,,18
+INC00387,2026-04,MFA re-registration,engineer,,18
+INC00388,2026-04,Account lockout,engineer,,19
+INC00389,2026-04,Password expiry for service account,engineer,,40
+INC00390,2026-04,License assignment error,engineer,,20
+INC00391,2026-04,Account lockout,engineer,,15
+INC00392,2026-04,Group sync failure,engineer,,32
+INC00393,2026-04,Stale device object,engineer,,8
+INC00394,2026-04,License assignment error,engineer,,13
+INC00395,2026-04,Account lockout,engineer,,19
+INC00396,2026-04,MFA re-registration,engineer,,15
+INC00397,2026-04,Password expiry for service account,engineer,,37
+INC00398,2026-04,Other / novel issue,engineer,,62
+INC00399,2026-04,Account lockout,engineer,,18
+INC00400,2026-04,Group sync failure,engineer,,40
+INC00401,2026-04,MFA re-registration,engineer,,14
+INC00402,2026-04,Conditional Access block (unknown cause),engineer,,43
+INC00403,2026-04,Account lockout,engineer,,10
+INC00404,2026-04,Account lockout,engineer,,12
+INC00405,2026-04,Account lockout,engineer,,9
+INC00406,2026-04,Conditional Access block (unknown cause),engineer,,48
+INC00407,2026-04,License assignment error,engineer,,22
+INC00408,2026-04,MFA re-registration,engineer,,13
+INC00409,2026-04,Group sync failure,engineer,,38
+INC00410,2026-04,Account lockout,engineer,,17
+INC00411,2026-04,License assignment error,engineer,,14
+INC00412,2026-04,Account lockout,engineer,,13
+INC00413,2026-04,Account lockout,engineer,,12
+INC00414,2026-04,Other / novel issue,engineer,,59
+INC00415,2026-04,License assignment error,engineer,,18
+INC00416,2026-04,MFA re-registration,engineer,,17
+INC00417,2026-04,MFA re-registration,engineer,,8
+INC00418,2026-04,Group sync failure,engineer,,38
+INC00419,2026-04,MFA re-registration,engineer,,10
+INC00420,2026-04,Account lockout,engineer,,10
+INC00421,2026-04,Conditional Access block (unknown cause),engineer,,43
+INC00422,2026-04,License assignment error,engineer,,21
+INC00423,2026-04,Account lockout,engineer,,19
+INC00424,2026-04,Stale device object,engineer,,16
+INC00425,2026-04,Account lockout,engineer,,9
+INC00426,2026-04,MFA re-registration,engineer,,18
+INC00427,2026-04,Account lockout,engineer,,16
+INC00428,2026-04,Conditional Access block (unknown cause),engineer,,50
+INC00429,2026-04,License assignment error,engineer,,23
+INC00430,2026-04,Account lockout,engineer,,14
+INC00431,2026-04,Account lockout,engineer,,13
+INC00432,2026-04,Stale device object,engineer,,6
+INC00433,2026-04,Stale device object,engineer,,5
+INC00434,2026-04,Group sync failure,engineer,,38
+INC00435,2026-04,Account lockout,engineer,,10
+INC00436,2026-04,Account lockout,engineer,,18
+INC00437,2026-04,MFA re-registration,engineer,,14
+INC00438,2026-04,License assignment error,engineer,,17
+INC00439,2026-04,Account lockout,engineer,,18
+INC00440,2026-04,Account lockout,engineer,,11
+INC00441,2026-04,Account lockout,engineer,,10
+INC00442,2026-04,Password expiry for service account,engineer,,47
+INC00443,2026-04,MFA re-registration,engineer,,10
+INC00444,2026-04,Stale device object,engineer,,5
+INC00445,2026-04,Account lockout,engineer,,9
+INC00446,2026-04,Account lockout,engineer,,16
+INC00447,2026-04,Group sync failure,engineer,,34
+INC00448,2026-04,Account lockout,engineer,,9
+INC00449,2026-04,License assignment error,engineer,,23
+INC00450,2026-04,Stale device object,engineer,,11
+INC00451,2026-04,Account lockout,engineer,,12
+INC00452,2026-04,Group sync failure,engineer,,43
+INC00453,2026-04,Group sync failure,engineer,,33
+INC00454,2026-04,MFA re-registration,engineer,,8
+INC00455,2026-04,License assignment error,engineer,,12
+INC00456,2026-04,Account lockout,engineer,,17
+INC00457,2026-04,Other / novel issue,engineer,,63
+INC00458,2026-04,Account lockout,engineer,,16
+INC00459,2026-04,Password expiry for service account,engineer,,41
+INC00460,2026-04,Group sync failure,engineer,,40
+INC00461,2026-04,License assignment error,engineer,,17
+INC00462,2026-04,Account lockout,engineer,,18
+INC00463,2026-04,Stale device object,engineer,,16
+INC00464,2026-04,MFA re-registration,engineer,,14
+INC00465,2026-04,Group sync failure,engineer,,39
+INC00466,2026-04,Other / novel issue,engineer,,60
+INC00467,2026-04,Stale device object,engineer,,13
+INC00468,2026-04,Stale device object,engineer,,8
+INC00469,2026-04,Account lockout,engineer,,15
+INC00470,2026-04,Account lockout,engineer,,17
+INC00471,2026-04,Group sync failure,engineer,,43
+INC00472,2026-04,Password expiry for service account,engineer,,42
+INC00473,2026-04,Account lockout,engineer,,19
+INC00474,2026-04,Group sync failure,engineer,,43
+INC00475,2026-04,MFA re-registration,engineer,,8
+INC00476,2026-04,Account lockout,engineer,,12
+INC00477,2026-04,Group sync failure,engineer,,32
+INC00478,2026-04,Other / novel issue,engineer,,59
+INC00479,2026-04,MFA re-registration,engineer,,8
+INC00480,2026-04,Account lockout,engineer,,12
+INC00481,2026-04,Conditional Access block (unknown cause),engineer,,50
+INC00482,2026-04,Group sync failure,engineer,,37
+INC00483,2026-04,License assignment error,engineer,,23
+INC00484,2026-04,Account lockout,engineer,,10
+INC00485,2026-04,License assignment error,engineer,,22
+INC00486,2026-04,Stale device object,engineer,,6
+INC00487,2026-04,MFA re-registration,engineer,,7
+INC00488,2026-04,License assignment error,engineer,,14
+INC00489,2026-04,Account lockout,engineer,,13
+INC00490,2026-04,Password expiry for service account,engineer,,43
+INC00491,2026-04,MFA re-registration,engineer,,18
+INC00492,2026-04,Group sync failure,engineer,,39
+INC00493,2026-04,Account lockout,engineer,,10
+INC00494,2026-05,Account lockout,agent,0.87,2
+INC00495,2026-05,Account lockout,agent,0.9,2
+INC00496,2026-05,Account lockout,agent,0.96,2
+INC00497,2026-05,License assignment error,agent,0.97,2
+INC00498,2026-05,Account lockout,agent,0.9,2
+INC00499,2026-05,MFA re-registration,agent,0.89,2
+INC00500,2026-05,Password expiry for service account,agent,0.95,2
+INC00501,2026-05,Other / novel issue,engineer,0.51,57
+INC00502,2026-05,MFA re-registration,agent,0.99,2
+INC00503,2026-05,Account lockout,agent,0.92,2
+INC00504,2026-05,Stale device object,agent,0.92,2
+INC00505,2026-05,Stale device object,agent,0.86,2
+INC00506,2026-05,Password expiry for service account,engineer,0.37,43
+INC00507,2026-05,Group sync failure,agent,0.94,2
+INC00508,2026-05,MFA re-registration,agent,0.97,2
+INC00509,2026-05,Account lockout,agent,0.98,2
+INC00510,2026-05,License assignment error,agent,0.98,2
+INC00511,2026-05,Password expiry for service account,agent,0.87,2
+INC00512,2026-05,License assignment error,agent,0.93,2
+INC00513,2026-05,Stale device object,agent,0.86,2
+INC00514,2026-05,MFA re-registration,agent,0.89,2
+INC00515,2026-05,Account lockout,agent,0.97,2
+INC00516,2026-05,Account lockout,agent,0.89,2
+INC00517,2026-05,Group sync failure,agent,0.93,2
+INC00518,2026-05,Account lockout,agent,0.88,2
+INC00519,2026-05,Account lockout,agent,0.93,2
+INC00520,2026-05,MFA re-registration,agent,0.96,2
+INC00521,2026-05,Other / novel issue,engineer,0.72,62
+INC00522,2026-05,License assignment error,agent,0.9,2
+INC00523,2026-05,License assignment error,agent,0.9,2
+INC00524,2026-05,Account lockout,agent,0.86,2
+INC00525,2026-05,Stale device object,agent,0.97,2
+INC00526,2026-05,License assignment error,agent,0.94,2
+INC00527,2026-05,Account lockout,agent,0.89,2
+INC00528,2026-05,Account lockout,agent,0.96,2
+INC00529,2026-05,Stale device object,agent,0.98,2
+INC00530,2026-05,MFA re-registration,engineer,0.51,9
+INC00531,2026-05,Account lockout,agent,0.96,2
+INC00532,2026-05,MFA re-registration,agent,0.86,2
+INC00533,2026-05,MFA re-registration,agent,0.93,2
+INC00534,2026-05,License assignment error,agent,0.99,2
+INC00535,2026-05,Password expiry for service account,agent,0.9,2
+INC00536,2026-05,License assignment error,agent,0.89,2
+INC00537,2026-05,Account lockout,agent,0.86,2
+INC00538,2026-05,Conditional Access block (unknown cause),engineer,0.41,44
+INC00539,2026-05,Group sync failure,agent,0.96,2
+INC00540,2026-05,Password expiry for service account,agent,0.88,2
+INC00541,2026-05,MFA re-registration,agent,0.87,2
+INC00542,2026-05,License assignment error,agent,0.87,2
+INC00543,2026-05,MFA re-registration,agent,0.94,2
+INC00544,2026-05,Group sync failure,agent,0.99,2
+INC00545,2026-05,Stale device object,agent,0.94,2
+INC00546,2026-05,License assignment error,agent,0.95,2
+INC00547,2026-05,License assignment error,agent,0.94,2
+INC00548,2026-05,Group sync failure,agent,0.97,2
+INC00549,2026-05,Group sync failure,agent,0.9,2
+INC00550,2026-05,Account lockout,agent,0.95,2
+INC00551,2026-05,MFA re-registration,agent,0.96,2
+INC00552,2026-05,MFA re-registration,agent,0.9,2
+INC00553,2026-05,Stale device object,agent,0.94,2
+INC00554,2026-05,Account lockout,agent,0.9,2
+INC00555,2026-05,Account lockout,agent,0.9,2
+INC00556,2026-05,MFA re-registration,engineer,0.74,17
+INC00557,2026-05,MFA re-registration,agent,0.92,2
+INC00558,2026-05,Account lockout,agent,0.87,2
+INC00559,2026-05,Account lockout,agent,0.86,2
+INC00560,2026-05,Group sync failure,agent,0.99,2
+INC00561,2026-05,Password expiry for service account,agent,0.91,2
+INC00562,2026-05,License assignment error,agent,0.92,2
+INC00563,2026-05,Password expiry for service account,agent,0.95,2
+INC00564,2026-05,Account lockout,agent,0.97,2
+INC00565,2026-05,Group sync failure,agent,0.98,2
+INC00566,2026-05,Account lockout,agent,0.91,2
+INC00567,2026-05,Stale device object,agent,0.98,2
+INC00568,2026-05,Account lockout,agent,0.94,2
+INC00569,2026-05,License assignment error,agent,0.98,2
+INC00570,2026-05,Account lockout,agent,0.88,2
+INC00571,2026-05,Account lockout,agent,0.88,2
+INC00572,2026-05,MFA re-registration,agent,0.95,2
+INC00573,2026-05,Account lockout,agent,0.89,2
+INC00574,2026-05,Account lockout,agent,0.97,2
+INC00575,2026-05,Account lockout,agent,0.92,2
+INC00576,2026-05,Group sync failure,agent,0.94,2
+INC00577,2026-05,Account lockout,agent,0.88,2
+INC00578,2026-05,Group sync failure,agent,0.97,2
+INC00579,2026-05,Group sync failure,agent,0.92,2
+INC00580,2026-05,MFA re-registration,agent,0.93,2
+INC00581,2026-05,Account lockout,agent,0.91,2
+INC00582,2026-05,License assignment error,agent,0.92,2
+INC00583,2026-05,Account lockout,agent,0.87,2
+INC00584,2026-05,Stale device object,agent,0.87,2
+INC00585,2026-05,Group sync failure,agent,0.99,2
+INC00586,2026-05,MFA re-registration,agent,0.97,2
+INC00587,2026-05,Stale device object,agent,0.93,2
+INC00588,2026-05,Password expiry for service account,agent,0.97,2
+INC00589,2026-05,License assignment error,agent,0.98,2
+INC00590,2026-05,MFA re-registration,agent,0.98,2
+INC00591,2026-05,Stale device object,agent,0.94,2
+INC00592,2026-05,Account lockout,agent,0.88,2
+INC00593,2026-05,Other / novel issue,engineer,0.82,60
+INC00594,2026-05,Account lockout,agent,0.99,2
+INC00595,2026-05,License assignment error,engineer,0.64,21
+INC00596,2026-05,Account lockout,agent,0.98,2
+INC00597,2026-05,Account lockout,agent,0.91,2
+INC00598,2026-05,Group sync failure,agent,0.92,2
+INC00599,2026-05,Password expiry for service account,agent,0.94,2
+INC00600,2026-05,License assignment error,agent,0.91,2
+INC00601,2026-05,Account lockout,agent,0.96,2
+INC00602,2026-05,Conditional Access block (unknown cause),engineer,0.8,51
+INC00603,2026-05,Stale device object,agent,0.97,2
+INC00604,2026-05,Password expiry for service account,agent,0.89,2
+INC00605,2026-05,MFA re-registration,agent,0.92,2
+INC00606,2026-05,Account lockout,agent,0.94,2
+INC00607,2026-05,MFA re-registration,agent,0.91,2
+INC00608,2026-05,Password expiry for service account,agent,0.87,2
+INC00609,2026-05,License assignment error,agent,0.91,2
+INC00610,2026-05,Group sync failure,agent,0.9,2
+INC00611,2026-05,Password expiry for service account,agent,0.95,2
+INC00612,2026-05,Other / novel issue,engineer,0.42,61
+INC00613,2026-05,Other / novel issue,engineer,0.54,62
+INC00614,2026-05,Account lockout,agent,0.94,2
+INC00615,2026-05,Account lockout,agent,0.97,2
+INC00616,2026-05,Stale device object,agent,0.97,2
+INC00617,2026-05,Stale device object,agent,0.88,2
+INC00618,2026-05,Group sync failure,agent,0.88,2
+INC00619,2026-05,Password expiry for service account,agent,0.86,2
+INC00620,2026-05,Account lockout,agent,0.97,2
+INC00621,2026-05,Account lockout,agent,0.98,2
+INC00622,2026-05,MFA re-registration,agent,0.97,2
+INC00623,2026-05,License assignment error,agent,0.88,2
+INC00624,2026-05,Account lockout,agent,0.94,2
+INC00625,2026-05,Account lockout,agent,0.94,2
+INC00626,2026-05,Group sync failure,agent,0.98,2
+INC00627,2026-05,Stale device object,agent,0.9,2
+INC00628,2026-05,Group sync failure,agent,0.93,2
+INC00629,2026-05,Other / novel issue,engineer,0.76,67
+INC00630,2026-05,Account lockout,agent,0.94,2
+INC00631,2026-05,License assignment error,agent,0.99,2
+INC00632,2026-05,MFA re-registration,agent,0.88,2
+INC00633,2026-05,Account lockout,agent,0.89,2
+INC00634,2026-05,MFA re-registration,agent,0.95,2
+INC00635,2026-05,MFA re-registration,agent,0.98,2
+INC00636,2026-05,Password expiry for service account,agent,0.89,2
+INC00637,2026-05,Group sync failure,agent,0.94,2
+INC00638,2026-05,MFA re-registration,agent,0.99,2
+INC00639,2026-05,Other / novel issue,engineer,0.75,65
+INC00640,2026-05,MFA re-registration,agent,0.9,2
+INC00641,2026-05,Account lockout,agent,0.99,2
+INC00642,2026-05,MFA re-registration,agent,0.89,2
+INC00643,2026-05,MFA re-registration,agent,0.9,2
+INC00644,2026-05,Account lockout,agent,0.98,2
+INC00645,2026-05,Stale device object,agent,0.94,2
+INC00646,2026-05,MFA re-registration,agent,0.95,2
+INC00647,2026-05,MFA re-registration,engineer,0.44,13
+INC00648,2026-05,Group sync failure,agent,0.94,2
+INC00649,2026-05,Other / novel issue,engineer,0.74,62
+INC00650,2026-05,MFA re-registration,agent,0.93,2
+INC00651,2026-05,Stale device object,agent,0.95,2
+INC00652,2026-05,License assignment error,agent,0.97,2
+INC00653,2026-05,Password expiry for service account,agent,0.87,2
+INC00654,2026-05,Account lockout,agent,0.97,2
+INC00655,2026-05,Stale device object,agent,0.95,2
+INC00656,2026-05,Group sync failure,agent,0.91,2
+INC00657,2026-05,Stale device object,agent,0.96,2
+INC00658,2026-05,Group sync failure,agent,0.9,2
+INC00659,2026-05,Password expiry for service account,agent,0.97,2
+INC00660,2026-05,MFA re-registration,agent,0.87,2
+INC00661,2026-05,Password expiry for service account,agent,0.97,2
+INC00662,2026-05,Group sync failure,agent,0.87,2
+INC00663,2026-05,Password expiry for service account,agent,0.89,2
+INC00664,2026-05,Group sync failure,agent,0.98,2
+INC00665,2026-05,License assignment error,agent,0.95,2
+INC00666,2026-05,Stale device object,agent,0.94,2
+INC00667,2026-05,Account lockout,agent,0.86,2
+INC00668,2026-05,Account lockout,agent,0.88,2
+INC00669,2026-05,Stale device object,agent,0.96,2
+INC00670,2026-05,Account lockout,agent,0.94,2
+INC00671,2026-05,Group sync failure,engineer,0.51,32
+INC00672,2026-05,License assignment error,agent,0.98,2
+INC00673,2026-05,Password expiry for service account,agent,0.93,2
+INC00674,2026-05,Account lockout,agent,0.96,2
+INC00675,2026-05,Account lockout,agent,0.9,2
+INC00676,2026-05,Account lockout,agent,0.9,2
+INC00677,2026-05,Account lockout,agent,0.98,2
+INC00678,2026-05,License assignment error,agent,0.93,2
+INC00679,2026-05,License assignment error,agent,0.88,2
+INC00680,2026-05,Other / novel issue,engineer,0.56,60
+INC00681,2026-05,Account lockout,agent,0.97,2
+INC00682,2026-05,Account lockout,agent,0.99,2
+INC00683,2026-05,Account lockout,agent,0.93,2
+INC00684,2026-05,Account lockout,agent,0.96,2
+INC00685,2026-05,Group sync failure,agent,0.96,2
+INC00686,2026-05,MFA re-registration,agent,0.87,2
+INC00687,2026-05,Account lockout,agent,0.87,2
+INC00688,2026-05,Account lockout,agent,0.88,2
+INC00689,2026-05,Account lockout,agent,0.89,2
+INC00690,2026-05,MFA re-registration,agent,0.91,2
+INC00691,2026-05,Account lockout,agent,0.94,2
+INC00692,2026-05,MFA re-registration,agent,0.98,2
+INC00693,2026-05,License assignment error,agent,0.9,2
+INC00694,2026-05,Stale device object,agent,0.94,2
+INC00695,2026-05,Stale device object,agent,0.99,2
+INC00696,2026-05,Group sync failure,agent,0.88,2
+INC00697,2026-05,License assignment error,agent,0.95,2
+INC00698,2026-05,License assignment error,agent,0.86,2
+INC00699,2026-05,Account lockout,agent,0.93,2
+INC00700,2026-05,License assignment error,agent,0.96,2
+INC00701,2026-05,Account lockout,agent,0.98,2
+INC00702,2026-05,MFA re-registration,agent,0.99,2
+INC00703,2026-05,Account lockout,agent,0.97,2
+INC00704,2026-05,Password expiry for service account,agent,0.91,2
+INC00705,2026-05,MFA re-registration,agent,0.88,2
+INC00706,2026-05,Password expiry for service account,agent,0.86,2
+INC00707,2026-05,Account lockout,agent,0.9,2
+INC00708,2026-05,Password expiry for service account,engineer,0.44,48
+INC00709,2026-05,Account lockout,agent,0.88,2
+INC00710,2026-05,Group sync failure,engineer,0.45,38
+INC00711,2026-05,MFA re-registration,agent,0.91,2
+INC00712,2026-05,Password expiry for service account,agent,0.88,2
+INC00713,2026-05,MFA re-registration,engineer,0.76,8
+INC00714,2026-05,Group sync failure,agent,0.96,2
+INC00715,2026-05,MFA re-registration,agent,0.91,2
+INC00716,2026-05,Group sync failure,agent,0.95,2
+INC00717,2026-05,Password expiry for service account,engineer,0.37,44
+INC00718,2026-05,Account lockout,agent,0.87,2
+INC00719,2026-05,Account lockout,agent,0.95,2
+INC00720,2026-05,MFA re-registration,agent,0.93,2
+INC00721,2026-05,License assignment error,engineer,0.66,17
+INC00722,2026-05,License assignment error,agent,0.94,2
+INC00723,2026-05,Group sync failure,agent,0.92,2
+INC00724,2026-05,MFA re-registration,agent,0.88,2
+INC00725,2026-05,Password expiry for service account,agent,0.94,2
+INC00726,2026-05,Account lockout,agent,0.93,2
+INC00727,2026-05,License assignment error,agent,0.88,2
+INC00728,2026-05,Stale device object,agent,0.9,2
+INC00729,2026-05,Account lockout,agent,0.93,2
+INC00730,2026-06,Group sync failure,agent,0.92,2
+INC00731,2026-06,Stale device object,agent,0.97,2
+INC00732,2026-06,License assignment error,agent,0.92,2
+INC00733,2026-06,MFA re-registration,agent,0.91,2
+INC00734,2026-06,License assignment error,agent,0.87,2
+INC00735,2026-06,MFA re-registration,agent,0.9,2
+INC00736,2026-06,License assignment error,agent,0.95,2
+INC00737,2026-06,Conditional Access block (unknown cause),engineer,0.5,42
+INC00738,2026-06,Stale device object,agent,0.9,2
+INC00739,2026-06,Stale device object,agent,0.95,2
+INC00740,2026-06,Group sync failure,agent,0.87,2
+INC00741,2026-06,MFA re-registration,agent,0.91,2
+INC00742,2026-06,MFA re-registration,agent,0.93,2
+INC00743,2026-06,Group sync failure,agent,0.98,2
+INC00744,2026-06,License assignment error,agent,0.96,2
+INC00745,2026-06,Group sync failure,agent,0.89,2
+INC00746,2026-06,Account lockout,agent,0.89,2
+INC00747,2026-06,Stale device object,agent,0.9,2
+INC00748,2026-06,Stale device object,agent,0.94,2
+INC00749,2026-06,MFA re-registration,agent,0.98,2
+INC00750,2026-06,License assignment error,agent,0.93,2
+INC00751,2026-06,Other / novel issue,engineer,0.3,68
+INC00752,2026-06,Account lockout,agent,0.97,2
+INC00753,2026-06,License assignment error,agent,0.98,2
+INC00754,2026-06,Account lockout,agent,0.95,2
+INC00755,2026-06,Account lockout,agent,0.94,2
+INC00756,2026-06,Password expiry for service account,agent,0.91,2
+INC00757,2026-06,Other / novel issue,engineer,0.79,60
+INC00758,2026-06,Account lockout,engineer,0.82,16
+INC00759,2026-06,Stale device object,agent,0.94,2
+INC00760,2026-06,Password expiry for service account,agent,0.97,2
+INC00761,2026-06,License assignment error,agent,0.96,2
+INC00762,2026-06,License assignment error,agent,0.89,2
+INC00763,2026-06,MFA re-registration,agent,0.98,2
+INC00764,2026-06,Account lockout,agent,0.99,2
+INC00765,2026-06,Account lockout,agent,0.94,2
+INC00766,2026-06,MFA re-registration,agent,0.93,2
+INC00767,2026-06,MFA re-registration,agent,0.95,2
+INC00768,2026-06,MFA re-registration,agent,0.93,2
+INC00769,2026-06,Password expiry for service account,agent,0.86,2
+INC00770,2026-06,Account lockout,agent,0.87,2
+INC00771,2026-06,Account lockout,agent,0.96,2
+INC00772,2026-06,Other / novel issue,engineer,0.67,59
+INC00773,2026-06,Password expiry for service account,agent,0.9,2
+INC00774,2026-06,Stale device object,agent,0.97,2
+INC00775,2026-06,Account lockout,agent,0.96,2
+INC00776,2026-06,Password expiry for service account,agent,0.93,2
+INC00777,2026-06,Account lockout,agent,0.96,2
+INC00778,2026-06,Account lockout,agent,0.98,2
+INC00779,2026-06,Group sync failure,engineer,0.83,37
+INC00780,2026-06,Other / novel issue,engineer,0.33,68
+INC00781,2026-06,Account lockout,agent,0.96,2
+INC00782,2026-06,Password expiry for service account,agent,0.98,2
+INC00783,2026-06,MFA re-registration,agent,0.96,2
+INC00784,2026-06,License assignment error,agent,0.96,2
+INC00785,2026-06,Other / novel issue,engineer,0.46,59
+INC00786,2026-06,Other / novel issue,engineer,0.34,59
+INC00787,2026-06,Stale device object,agent,0.87,2
+INC00788,2026-06,Account lockout,agent,0.88,2
+INC00789,2026-06,Password expiry for service account,agent,0.92,2
+INC00790,2026-06,Conditional Access block (unknown cause),engineer,0.32,47
+INC00791,2026-06,MFA re-registration,agent,0.94,2
+INC00792,2026-06,Password expiry for service account,agent,0.96,2
+INC00793,2026-06,License assignment error,agent,0.95,2
+INC00794,2026-06,License assignment error,engineer,0.58,20
+INC00795,2026-06,Account lockout,agent,0.91,2
+INC00796,2026-06,Group sync failure,agent,0.95,2
+INC00797,2026-06,Group sync failure,agent,0.98,2
+INC00798,2026-06,MFA re-registration,agent,0.93,2
+INC00799,2026-06,Stale device object,agent,0.87,2
+INC00800,2026-06,Group sync failure,agent,0.94,2
+INC00801,2026-06,Conditional Access block (unknown cause),engineer,0.43,42
+INC00802,2026-06,MFA re-registration,agent,0.98,2
+INC00803,2026-06,Conditional Access block (unknown cause),engineer,0.51,50
+INC00804,2026-06,MFA re-registration,agent,0.93,2
+INC00805,2026-06,Stale device object,agent,0.93,2
+INC00806,2026-06,License assignment error,agent,0.94,2
+INC00807,2026-06,Group sync failure,agent,0.87,2
+INC00808,2026-06,Other / novel issue,engineer,0.72,65
+INC00809,2026-06,Account lockout,agent,0.95,2
+INC00810,2026-06,Stale device object,agent,0.92,2
+INC00811,2026-06,Account lockout,agent,0.95,2
+INC00812,2026-06,Other / novel issue,engineer,0.72,67
+INC00813,2026-06,Stale device object,agent,0.95,2
+INC00814,2026-06,Account lockout,agent,0.86,2
+INC00815,2026-06,Account lockout,agent,0.89,2
+INC00816,2026-06,Account lockout,agent,0.98,2
+INC00817,2026-06,Group sync failure,agent,0.91,2
+INC00818,2026-06,Group sync failure,agent,0.88,2
+INC00819,2026-06,Account lockout,agent,0.87,2
+INC00820,2026-06,Stale device object,agent,0.97,2
+INC00821,2026-06,Group sync failure,agent,0.9,2
+INC00822,2026-06,MFA re-registration,agent,0.9,2
+INC00823,2026-06,Conditional Access block (unknown cause),engineer,0.51,52
+INC00824,2026-06,Account lockout,agent,0.89,2
+INC00825,2026-06,Stale device object,agent,0.97,2
+INC00826,2026-06,Group sync failure,agent,0.9,2
+INC00827,2026-06,Password expiry for service account,engineer,0.77,47
+INC00828,2026-06,Group sync failure,agent,0.93,2
+INC00829,2026-06,License assignment error,agent,0.86,2
+INC00830,2026-06,MFA re-registration,agent,0.98,2
+INC00831,2026-06,Group sync failure,agent,0.98,2
+INC00832,2026-06,Group sync failure,agent,0.94,2
+INC00833,2026-06,License assignment error,agent,0.89,2
+INC00834,2026-06,Password expiry for service account,agent,0.88,2
+INC00835,2026-06,Stale device object,agent,0.97,2
+INC00836,2026-06,Conditional Access block (unknown cause),engineer,0.84,49
+INC00837,2026-06,MFA re-registration,agent,0.95,2
+INC00838,2026-06,Account lockout,agent,0.94,2
+INC00839,2026-06,Conditional Access block (unknown cause),engineer,0.49,52
+INC00840,2026-06,MFA re-registration,agent,0.94,2
+INC00841,2026-06,Conditional Access block (unknown cause),engineer,0.47,49
+INC00842,2026-06,Group sync failure,agent,0.95,2
+INC00843,2026-06,Account lockout,agent,0.97,2
+INC00844,2026-06,Conditional Access block (unknown cause),engineer,0.39,47
+INC00845,2026-06,Account lockout,agent,0.96,2
+INC00846,2026-06,License assignment error,agent,0.88,2
+INC00847,2026-06,Stale device object,agent,0.92,2
+INC00848,2026-06,Group sync failure,agent,0.93,2
+INC00849,2026-06,Account lockout,agent,0.97,2
+INC00850,2026-06,Password expiry for service account,agent,0.93,2
+INC00851,2026-06,Account lockout,agent,0.87,2
+INC00852,2026-06,Account lockout,agent,0.93,2
+INC00853,2026-06,Account lockout,agent,0.91,2
+INC00854,2026-06,MFA re-registration,agent,0.93,2
+INC00855,2026-06,License assignment error,engineer,0.55,14
+INC00856,2026-06,Group sync failure,agent,0.96,2
+INC00857,2026-06,Stale device object,agent,0.92,2
+INC00858,2026-06,License assignment error,agent,0.93,2
+INC00859,2026-06,MFA re-registration,agent,0.96,2
+INC00860,2026-06,MFA re-registration,agent,0.93,2
+INC00861,2026-06,License assignment error,agent,0.98,2
+INC00862,2026-06,MFA re-registration,engineer,0.7,14
+INC00863,2026-06,Conditional Access block (unknown cause),engineer,0.32,49
+INC00864,2026-06,Account lockout,agent,0.89,2
+INC00865,2026-06,MFA re-registration,agent,0.96,2
+INC00866,2026-06,Group sync failure,agent,0.97,2
+INC00867,2026-06,Account lockout,agent,0.87,2
+INC00868,2026-06,Other / novel issue,engineer,0.64,61
+INC00869,2026-06,Password expiry for service account,agent,0.93,2
+INC00870,2026-06,Account lockout,agent,0.91,2
+INC00871,2026-06,MFA re-registration,agent,0.93,2
+INC00872,2026-06,Group sync failure,agent,0.93,2
+INC00873,2026-06,Group sync failure,agent,0.92,2
+INC00874,2026-06,License assignment error,agent,0.93,2
+INC00875,2026-06,Account lockout,agent,0.87,2
+INC00876,2026-06,MFA re-registration,agent,0.88,2
+INC00877,2026-06,Group sync failure,agent,0.88,2
+INC00878,2026-06,Account lockout,agent,0.95,2
+INC00879,2026-06,License assignment error,agent,0.89,2
+INC00880,2026-06,Account lockout,agent,0.86,2
+INC00881,2026-06,Account lockout,agent,0.88,2
+INC00882,2026-06,MFA re-registration,agent,0.93,2
+INC00883,2026-06,Account lockout,agent,0.88,2
+INC00884,2026-06,Conditional Access block (unknown cause),engineer,0.62,51
+INC00885,2026-06,MFA re-registration,agent,0.95,2
+INC00886,2026-06,Stale device object,agent,0.89,2
+INC00887,2026-06,MFA re-registration,agent,0.92,2
+INC00888,2026-06,Account lockout,agent,0.88,2
+INC00889,2026-06,MFA re-registration,agent,0.94,2
+INC00890,2026-06,License assignment error,agent,0.95,2
+INC00891,2026-06,Conditional Access block (unknown cause),engineer,0.62,43
+INC00892,2026-06,Account lockout,agent,0.87,2
+INC00893,2026-06,Account lockout,agent,0.93,2
+INC00894,2026-06,Group sync failure,agent,0.87,2
+INC00895,2026-06,License assignment error,agent,0.87,2
+INC00896,2026-06,Stale device object,agent,0.88,2
+INC00897,2026-06,License assignment error,agent,0.94,2
+INC00898,2026-06,Password expiry for service account,agent,0.96,2
+INC00899,2026-06,MFA re-registration,agent,0.91,2
+INC00900,2026-06,Account lockout,agent,0.89,2
+INC00901,2026-06,Stale device object,agent,0.91,2
+INC00902,2026-06,MFA re-registration,agent,0.96,2
+INC00903,2026-06,MFA re-registration,agent,0.88,2
+INC00904,2026-06,License assignment error,agent,0.97,2
+INC00905,2026-06,Account lockout,agent,0.91,2
+INC00906,2026-06,Account lockout,agent,0.96,2
+INC00907,2026-06,MFA re-registration,agent,0.86,2
+INC00908,2026-06,MFA re-registration,agent,0.9,2
+INC00909,2026-06,Group sync failure,agent,0.94,2
+INC00910,2026-06,Account lockout,agent,0.92,2
+INC00911,2026-06,Group sync failure,agent,0.95,2
+INC00912,2026-06,Stale device object,agent,0.96,2
+INC00913,2026-06,License assignment error,agent,0.93,2
+INC00914,2026-06,Account lockout,agent,0.9,2
+INC00915,2026-06,MFA re-registration,agent,0.97,2
+INC00916,2026-06,MFA re-registration,agent,0.92,2
+INC00917,2026-06,MFA re-registration,agent,0.89,2
+INC00918,2026-06,Group sync failure,agent,0.93,2
+INC00919,2026-06,MFA re-registration,agent,0.88,2
+INC00920,2026-06,Other / novel issue,engineer,0.3,58
+INC00921,2026-06,Stale device object,agent,0.94,2
+INC00922,2026-06,Account lockout,agent,0.91,2
+INC00923,2026-06,MFA re-registration,agent,0.98,2
+INC00924,2026-06,Group sync failure,agent,0.9,2
+INC00925,2026-06,Other / novel issue,engineer,0.33,59
+INC00926,2026-06,MFA re-registration,agent,0.89,2
+INC00927,2026-06,MFA re-registration,agent,0.9,2
+INC00928,2026-06,Account lockout,agent,0.93,2
+INC00929,2026-06,Account lockout,agent,0.86,2
+INC00930,2026-06,Account lockout,agent,0.88,2
+INC00931,2026-06,Other / novel issue,engineer,0.72,62
+INC00932,2026-06,MFA re-registration,agent,0.89,2
+INC00933,2026-06,Account lockout,agent,0.98,2
+INC00934,2026-06,License assignment error,agent,0.93,2
+INC00935,2026-06,MFA re-registration,agent,0.97,2
+INC00936,2026-06,Account lockout,engineer,0.55,15
+INC00937,2026-06,MFA re-registration,agent,0.91,2
+INC00938,2026-06,Account lockout,agent,0.9,2
+INC00939,2026-06,Conditional Access block (unknown cause),engineer,0.73,46
+INC00940,2026-06,Password expiry for service account,agent,0.93,2
+INC00941,2026-06,MFA re-registration,engineer,0.6,10
+INC00942,2026-06,Stale device object,engineer,0.55,12
+INC00943,2026-06,Password expiry for service account,agent,0.92,2
+INC00944,2026-06,Account lockout,agent,0.96,2
+INC00945,2026-06,Account lockout,agent,0.96,2
+INC00946,2026-06,Group sync failure,agent,0.93,2
+INC00947,2026-06,MFA re-registration,agent,0.9,2
+INC00948,2026-06,Group sync failure,agent,0.9,2
+INC00949,2026-06,License assignment error,agent,0.9,2
+INC00950,2026-06,Account lockout,agent,0.88,2
+INC00951,2026-06,Stale device object,agent,0.88,2
+INC00952,2026-06,Stale device object,agent,0.89,2
+INC00953,2026-06,Account lockout,agent,0.97,2
+INC00954,2026-06,Password expiry for service account,agent,0.96,2
+INC00955,2026-06,Account lockout,agent,0.98,2
+INC00956,2026-06,License assignment error,agent,0.97,2
+INC00957,2026-06,Conditional Access block (unknown cause),engineer,0.76,47
+INC00958,2026-06,MFA re-registration,agent,0.99,2
+INC00959,2026-06,Conditional Access block (unknown cause),engineer,0.77,49
+INC00960,2026-06,Account lockout,agent,0.93,2
+INC00961,2026-06,Group sync failure,agent,0.88,2
+INC00962,2026-06,License assignment error,agent,0.98,2
+INC00963,2026-06,Account lockout,agent,0.97,2
+INC00964,2026-06,Stale device object,agent,0.88,2
+INC00965,2026-06,License assignment error,agent,0.86,2
+INC00966,2026-06,MFA re-registration,agent,0.87,2
+INC00967,2026-06,Group sync failure,agent,0.88,2
+INC00968,2026-06,Account lockout,agent,0.98,2
+INC00969,2026-06,Group sync failure,agent,0.92,2
+INC00970,2026-06,Group sync failure,agent,0.91,2
+INC00971,2026-06,Group sync failure,agent,0.93,2
+INC00972,2026-07,MFA re-registration,agent,0.95,2
+INC00973,2026-07,Stale device object,agent,0.97,2
+INC00974,2026-07,Account lockout,agent,0.96,2
+INC00975,2026-07,License assignment error,agent,0.91,2
+INC00976,2026-07,Account lockout,agent,0.94,2
+INC00977,2026-07,License assignment error,agent,0.92,2
+INC00978,2026-07,Account lockout,agent,0.87,2
+INC00979,2026-07,Account lockout,agent,0.89,2
+INC00980,2026-07,Account lockout,agent,0.87,2
+INC00981,2026-07,Stale device object,agent,0.91,2
+INC00982,2026-07,License assignment error,agent,0.9,2
+INC00983,2026-07,Group sync failure,agent,0.95,2
+INC00984,2026-07,MFA re-registration,agent,0.94,2
+INC00985,2026-07,License assignment error,engineer,0.45,17
+INC00986,2026-07,MFA re-registration,agent,0.96,2
+INC00987,2026-07,Password expiry for service account,agent,0.9,2
+INC00988,2026-07,MFA re-registration,agent,0.88,2
+INC00989,2026-07,Stale device object,agent,0.94,2
+INC00990,2026-07,MFA re-registration,agent,0.87,2
+INC00991,2026-07,Account lockout,agent,0.9,2
+INC00992,2026-07,Group sync failure,agent,0.94,2
+INC00993,2026-07,Account lockout,agent,0.97,2
+INC00994,2026-07,Group sync failure,agent,0.99,2
+INC00995,2026-07,Group sync failure,agent,0.86,2
+INC00996,2026-07,MFA re-registration,agent,0.98,2
+INC00997,2026-07,MFA re-registration,agent,0.88,2
+INC00998,2026-07,Account lockout,agent,0.97,2
+INC00999,2026-07,License assignment error,agent,0.91,2
+INC01000,2026-07,Stale device object,agent,0.89,2
+INC01001,2026-07,Account lockout,agent,0.98,2
+INC01002,2026-07,Group sync failure,agent,0.9,2
+INC01003,2026-07,MFA re-registration,agent,0.97,2
+INC01004,2026-07,Account lockout,agent,0.97,2
+INC01005,2026-07,Group sync failure,agent,0.99,2
+INC01006,2026-07,License assignment error,agent,0.92,2
+INC01007,2026-07,Other / novel issue,engineer,0.68,59
+INC01008,2026-07,MFA re-registration,agent,0.96,2
+INC01009,2026-07,Password expiry for service account,agent,0.94,2
+INC01010,2026-07,License assignment error,agent,0.92,2
+INC01011,2026-07,Account lockout,agent,0.9,2
+INC01012,2026-07,Group sync failure,agent,0.86,2
+INC01013,2026-07,License assignment error,agent,0.88,2
+INC01014,2026-07,Account lockout,agent,0.95,2
+INC01015,2026-07,License assignment error,agent,0.9,2
+INC01016,2026-07,Stale device object,agent,0.94,2
+INC01017,2026-07,Stale device object,agent,0.88,2
+INC01018,2026-07,Password expiry for service account,agent,0.89,2
+INC01019,2026-07,MFA re-registration,agent,0.97,2
+INC01020,2026-07,Account lockout,agent,0.94,2
+INC01021,2026-07,License assignment error,agent,0.94,2
+INC01022,2026-07,MFA re-registration,agent,0.94,2
+INC01023,2026-07,License assignment error,agent,0.88,2
+INC01024,2026-07,Account lockout,agent,0.87,2
+INC01025,2026-07,License assignment error,agent,0.95,2
+INC01026,2026-07,License assignment error,agent,0.88,2
+INC01027,2026-07,Other / novel issue,engineer,0.31,58
+INC01028,2026-07,Account lockout,agent,0.92,2
+INC01029,2026-07,Account lockout,agent,0.86,2
+INC01030,2026-07,Account lockout,agent,0.96,2
+INC01031,2026-07,License assignment error,agent,0.95,2
+INC01032,2026-07,Account lockout,agent,0.96,2
+INC01033,2026-07,Account lockout,agent,0.91,2
+INC01034,2026-07,License assignment error,agent,0.98,2
+INC01035,2026-07,Account lockout,agent,0.86,2
+INC01036,2026-07,Other / novel issue,engineer,0.69,63
+INC01037,2026-07,Stale device object,agent,0.96,2
+INC01038,2026-07,Account lockout,agent,0.96,2
+INC01039,2026-07,License assignment error,engineer,0.56,22
+INC01040,2026-07,Other / novel issue,engineer,0.81,59
+INC01041,2026-07,MFA re-registration,agent,0.98,2
+INC01042,2026-07,License assignment error,agent,0.94,2
+INC01043,2026-07,Account lockout,agent,0.97,2
+INC01044,2026-07,Account lockout,agent,0.94,2
+INC01045,2026-07,Group sync failure,agent,0.9,2
+INC01046,2026-07,Account lockout,agent,0.86,2
+INC01047,2026-07,Account lockout,agent,0.92,2
+INC01048,2026-07,MFA re-registration,agent,0.87,2
+INC01049,2026-07,Account lockout,agent,0.94,2
+INC01050,2026-07,Conditional Access block (unknown cause),engineer,0.84,52
+INC01051,2026-07,Account lockout,agent,0.88,2
+INC01052,2026-07,License assignment error,agent,0.92,2
+INC01053,2026-07,Group sync failure,agent,0.94,2
+INC01054,2026-07,Group sync failure,agent,0.96,2
+INC01055,2026-07,Account lockout,agent,0.95,2
+INC01056,2026-07,Account lockout,agent,0.95,2
+INC01057,2026-07,License assignment error,agent,0.92,2
+INC01058,2026-07,License assignment error,agent,0.9,2
+INC01059,2026-07,License assignment error,agent,0.94,2
+INC01060,2026-07,Password expiry for service account,agent,0.93,2
+INC01061,2026-07,License assignment error,agent,0.93,2
+INC01062,2026-07,License assignment error,agent,0.93,2
+INC01063,2026-07,Stale device object,agent,0.94,2
+INC01064,2026-07,Group sync failure,agent,0.9,2
+INC01065,2026-07,Account lockout,engineer,0.74,12
+INC01066,2026-07,License assignment error,agent,0.93,2
+INC01067,2026-07,MFA re-registration,agent,0.94,2
+INC01068,2026-07,Account lockout,agent,0.87,2
+INC01069,2026-07,Password expiry for service account,agent,0.97,2
+INC01070,2026-07,Account lockout,agent,0.87,2
+INC01071,2026-07,MFA re-registration,agent,0.95,2
+INC01072,2026-07,License assignment error,agent,0.89,2
+INC01073,2026-07,Group sync failure,agent,0.87,2
+INC01074,2026-07,Conditional Access block (unknown cause),engineer,0.41,49
+INC01075,2026-07,Conditional Access block (unknown cause),engineer,0.75,49
+INC01076,2026-07,Stale device object,agent,0.93,2
+INC01077,2026-07,Conditional Access block (unknown cause),engineer,0.52,47
+INC01078,2026-07,Stale device object,agent,0.94,2
+INC01079,2026-07,License assignment error,agent,0.97,2
+INC01080,2026-07,Account lockout,agent,0.93,2
+INC01081,2026-07,Account lockout,agent,0.91,2
+INC01082,2026-07,Account lockout,agent,0.93,2
+INC01083,2026-07,Conditional Access block (unknown cause),engineer,0.6,50
+INC01084,2026-07,Group sync failure,agent,0.94,2
+INC01085,2026-07,Group sync failure,agent,0.95,2
+INC01086,2026-07,Password expiry for service account,agent,0.88,2
+INC01087,2026-07,Group sync failure,agent,0.88,2
+INC01088,2026-07,Other / novel issue,engineer,0.54,62
+INC01089,2026-07,Conditional Access block (unknown cause),engineer,0.6,47
+INC01090,2026-07,Password expiry for service account,agent,0.94,2
+INC01091,2026-07,Password expiry for service account,agent,0.89,2
+INC01092,2026-07,License assignment error,agent,0.93,2
+INC01093,2026-07,Stale device object,agent,0.92,2
+INC01094,2026-07,Other / novel issue,engineer,0.3,57
+INC01095,2026-07,Other / novel issue,engineer,0.62,65
+INC01096,2026-07,Account lockout,agent,0.86,2
+INC01097,2026-07,Other / novel issue,engineer,0.42,62
+INC01098,2026-07,Account lockout,agent,0.95,2
+INC01099,2026-07,Account lockout,agent,0.93,2
+INC01100,2026-07,Conditional Access block (unknown cause),engineer,0.38,42
+INC01101,2026-07,License assignment error,agent,0.89,2
+INC01102,2026-07,Password expiry for service account,agent,0.89,2
+INC01103,2026-07,Group sync failure,agent,0.93,2
+INC01104,2026-07,Account lockout,agent,0.9,2
+INC01105,2026-07,License assignment error,agent,0.98,2
+INC01106,2026-07,MFA re-registration,agent,0.87,2
+INC01107,2026-07,MFA re-registration,agent,0.97,2
+INC01108,2026-07,Group sync failure,agent,0.98,2
+INC01109,2026-07,Group sync failure,agent,0.92,2
+INC01110,2026-07,Conditional Access block (unknown cause),engineer,0.37,45
+INC01111,2026-07,Stale device object,agent,0.98,2
+INC01112,2026-07,MFA re-registration,agent,0.87,2
+INC01113,2026-07,License assignment error,agent,0.93,2
+INC01114,2026-07,Group sync failure,agent,0.88,2
+INC01115,2026-07,MFA re-registration,engineer,0.82,16
+INC01116,2026-07,MFA re-registration,agent,0.92,2
+INC01117,2026-07,Stale device object,agent,0.9,2
+INC01118,2026-07,License assignment error,agent,0.93,2
+INC01119,2026-07,Account lockout,agent,0.92,2
+INC01120,2026-07,MFA re-registration,agent,0.92,2
+INC01121,2026-07,Account lockout,agent,0.93,2
+INC01122,2026-07,License assignment error,engineer,0.58,15
+INC01123,2026-07,Account lockout,agent,0.9,2
+INC01124,2026-07,Conditional Access block (unknown cause),engineer,0.35,52
+INC01125,2026-07,Group sync failure,agent,0.88,2
+INC01126,2026-07,Group sync failure,agent,0.96,2
+INC01127,2026-07,Account lockout,agent,0.97,2
+INC01128,2026-07,Stale device object,agent,0.92,2
+INC01129,2026-07,Conditional Access block (unknown cause),engineer,0.43,52
+INC01130,2026-07,Group sync failure,agent,0.97,2
+INC01131,2026-07,Account lockout,agent,0.98,2
+INC01132,2026-07,Conditional Access block (unknown cause),engineer,0.77,46
+INC01133,2026-07,Account lockout,agent,0.87,2
+INC01134,2026-07,License assignment error,agent,0.89,2
+INC01135,2026-07,License assignment error,agent,0.93,2
+INC01136,2026-07,Account lockout,agent,0.95,2
+INC01137,2026-07,Account lockout,agent,0.86,2
+INC01138,2026-07,MFA re-registration,agent,0.87,2
+INC01139,2026-07,Account lockout,agent,0.96,2
+INC01140,2026-07,MFA re-registration,agent,0.95,2
+INC01141,2026-07,Account lockout,agent,0.9,2
+INC01142,2026-07,Password expiry for service account,agent,0.97,2
+INC01143,2026-07,Account lockout,agent,0.94,2
+INC01144,2026-07,Account lockout,agent,0.99,2
+INC01145,2026-07,Account lockout,agent,0.97,2
+INC01146,2026-07,License assignment error,agent,0.93,2
+INC01147,2026-07,License assignment error,agent,0.86,2
+INC01148,2026-07,Account lockout,agent,0.9,2
+INC01149,2026-07,Group sync failure,agent,0.91,2
+INC01150,2026-07,Group sync failure,agent,0.89,2
+INC01151,2026-07,Other / novel issue,engineer,0.57,57
+INC01152,2026-07,MFA re-registration,agent,0.98,2
+INC01153,2026-07,Stale device object,agent,0.93,2
+INC01154,2026-07,Account lockout,agent,0.98,2
+INC01155,2026-07,MFA re-registration,agent,0.91,2
+INC01156,2026-07,Other / novel issue,engineer,0.63,67
+INC01157,2026-07,MFA re-registration,agent,0.93,2
+INC01158,2026-07,Group sync failure,agent,0.94,2
+INC01159,2026-07,License assignment error,agent,0.94,2
+INC01160,2026-07,MFA re-registration,agent,0.89,2
+INC01161,2026-07,Account lockout,agent,0.98,2
+INC01162,2026-07,Conditional Access block (unknown cause),engineer,0.53,44
+INC01163,2026-07,MFA re-registration,agent,0.88,2
+INC01164,2026-07,Account lockout,agent,0.95,2
+INC01165,2026-07,Account lockout,agent,0.88,2
+INC01166,2026-07,Account lockout,agent,0.99,2
+INC01167,2026-07,Other / novel issue,engineer,0.46,68
+INC01168,2026-07,Conditional Access block (unknown cause),engineer,0.78,53
+INC01169,2026-07,Account lockout,agent,0.87,2
+INC01170,2026-07,Account lockout,agent,0.94,2
+INC01171,2026-07,Account lockout,agent,0.89,2
+INC01172,2026-07,Account lockout,agent,0.91,2
+INC01173,2026-07,MFA re-registration,agent,0.93,2
+INC01174,2026-07,MFA re-registration,agent,0.91,2
+INC01175,2026-07,Password expiry for service account,agent,0.88,2
+INC01176,2026-07,Account lockout,agent,0.96,2
+INC01177,2026-07,Account lockout,agent,0.91,2
+INC01178,2026-07,Stale device object,engineer,0.71,6
+INC01179,2026-07,Account lockout,engineer,0.54,18
+INC01180,2026-07,License assignment error,agent,0.92,2
+INC01181,2026-07,Account lockout,agent,0.87,2
+INC01182,2026-07,Stale device object,agent,0.9,2
+INC01183,2026-07,MFA re-registration,agent,0.94,2
+INC01184,2026-07,License assignment error,agent,0.96,2
+INC01185,2026-07,License assignment error,agent,0.97,2
+INC01186,2026-07,Account lockout,engineer,0.58,15
+INC01187,2026-07,Other / novel issue,engineer,0.32,63
+INC01188,2026-07,License assignment error,agent,0.87,2
+INC01189,2026-07,Group sync failure,agent,0.9,2
+INC01190,2026-07,Password expiry for service account,agent,0.91,2
+INC01191,2026-07,MFA re-registration,agent,0.93,2
+INC01192,2026-07,Account lockout,agent,0.92,2
+INC01193,2026-07,MFA re-registration,agent,0.96,2
+INC01194,2026-07,Conditional Access block (unknown cause),engineer,0.68,44
+INC01195,2026-07,Group sync failure,agent,0.86,2
+INC01196,2026-07,License assignment error,agent,0.98,2
+INC01197,2026-07,Password expiry for service account,agent,0.9,2
+INC01198,2026-07,MFA re-registration,agent,0.88,2
+INC01199,2026-07,Stale device object,agent,0.95,2
+INC01200,2026-07,MFA re-registration,agent,0.95,2
+INC01201,2026-07,MFA re-registration,engineer,0.63,9
+INC01202,2026-07,Group sync failure,agent,0.96,2
+INC01203,2026-07,Conditional Access block (unknown cause),engineer,0.61,52
+INC01204,2026-07,Password expiry for service account,agent,0.88,2
+INC01205,2026-07,Stale device object,agent,0.9,2
+INC01206,2026-07,MFA re-registration,engineer,0.46,9
+INC01207,2026-07,Account lockout,agent,0.89,2
+INC01208,2026-07,MFA re-registration,agent,0.92,2
+INC01209,2026-07,Password expiry for service account,agent,0.86,2
+INC01210,2026-07,Password expiry for service account,agent,0.94,2
+INC01211,2026-07,License assignment error,agent,0.87,2
+INC01212,2026-07,MFA re-registration,agent,0.93,2
+INC01213,2026-07,MFA re-registration,agent,0.97,2
+INC01214,2026-07,Account lockout,agent,0.94,2
+INC01215,2026-07,Account lockout,agent,0.95,2
+INC01216,2026-07,Password expiry for service account,agent,0.98,2
+INC01217,2026-07,Account lockout,agent,0.88,2
+INC01218,2026-07,MFA re-registration,agent,0.95,2
+INC01219,2026-07,MFA re-registration,agent,0.88,2
+INC01220,2026-08,Stale device object,agent,0.86,2
+INC01221,2026-08,Stale device object,agent,0.98,2
+INC01222,2026-08,Stale device object,agent,0.97,2
+INC01223,2026-08,Account lockout,agent,0.88,2
+INC01224,2026-08,Password expiry for service account,agent,0.91,2
+INC01225,2026-08,Account lockout,agent,0.87,2
+INC01226,2026-08,MFA re-registration,engineer,0.59,8
+INC01227,2026-08,License assignment error,agent,0.98,2
+INC01228,2026-08,Other / novel issue,engineer,0.46,66
+INC01229,2026-08,Password expiry for service account,agent,0.93,2
+INC01230,2026-08,MFA re-registration,agent,0.94,2
+INC01231,2026-08,License assignment error,agent,0.92,2
+INC01232,2026-08,Stale device object,agent,0.89,2
+INC01233,2026-08,Group sync failure,agent,0.88,2
+INC01234,2026-08,License assignment error,agent,0.96,2
+INC01235,2026-08,Account lockout,agent,0.91,2
+INC01236,2026-08,Account lockout,agent,0.96,2
+INC01237,2026-08,Account lockout,agent,0.95,2
+INC01238,2026-08,Account lockout,agent,0.9,2
+INC01239,2026-08,License assignment error,agent,0.87,2
+INC01240,2026-08,Group sync failure,agent,0.93,2
+INC01241,2026-08,Other / novel issue,engineer,0.75,60
+INC01242,2026-08,Group sync failure,agent,0.95,2
+INC01243,2026-08,Conditional Access block (unknown cause),engineer,0.73,52
+INC01244,2026-08,Account lockout,agent,0.92,2
+INC01245,2026-08,Password expiry for service account,agent,0.92,2
+INC01246,2026-08,Stale device object,agent,0.87,2
+INC01247,2026-08,License assignment error,agent,0.95,2
+INC01248,2026-08,License assignment error,agent,0.94,2
+INC01249,2026-08,Group sync failure,agent,0.96,2
+INC01250,2026-08,Account lockout,agent,0.97,2
+INC01251,2026-08,Group sync failure,agent,0.93,2
+INC01252,2026-08,Account lockout,agent,0.88,2
+INC01253,2026-08,Account lockout,agent,0.9,2
+INC01254,2026-08,Password expiry for service account,agent,0.9,2
+INC01255,2026-08,Account lockout,agent,0.91,2
+INC01256,2026-08,Password expiry for service account,agent,0.93,2
+INC01257,2026-08,Account lockout,agent,0.86,2
+INC01258,2026-08,Account lockout,agent,0.93,2
+INC01259,2026-08,Stale device object,agent,0.88,2
+INC01260,2026-08,Group sync failure,agent,0.97,2
+INC01261,2026-08,Group sync failure,agent,0.96,2
+INC01262,2026-08,Account lockout,engineer,0.58,11
+INC01263,2026-08,Account lockout,agent,0.91,2
+INC01264,2026-08,Password expiry for service account,agent,0.9,2
+INC01265,2026-08,Account lockout,agent,0.97,2
+INC01266,2026-08,Group sync failure,agent,0.87,2
+INC01267,2026-08,Stale device object,agent,0.86,2
+INC01268,2026-08,Stale device object,agent,0.89,2
+INC01269,2026-08,Account lockout,agent,0.93,2
+INC01270,2026-08,Stale device object,agent,0.9,2
+INC01271,2026-08,Account lockout,agent,0.98,2
+INC01272,2026-08,License assignment error,agent,0.93,2
+INC01273,2026-08,License assignment error,agent,0.98,2
+INC01274,2026-08,Stale device object,agent,0.88,2
+INC01275,2026-08,Group sync failure,agent,0.93,2
+INC01276,2026-08,Account lockout,agent,0.98,2
+INC01277,2026-08,Account lockout,agent,0.87,2
+INC01278,2026-08,Group sync failure,agent,0.98,2
+INC01279,2026-08,MFA re-registration,agent,0.92,2
+INC01280,2026-08,Group sync failure,agent,0.89,2
+INC01281,2026-08,Stale device object,agent,0.87,2
+INC01282,2026-08,Conditional Access block (unknown cause),engineer,0.71,51
+INC01283,2026-08,Account lockout,agent,0.98,2
+INC01284,2026-08,License assignment error,agent,0.95,2
+INC01285,2026-08,MFA re-registration,agent,0.89,2
+INC01286,2026-08,Account lockout,agent,0.94,2
+INC01287,2026-08,Conditional Access block (unknown cause),engineer,0.51,53
+INC01288,2026-08,Conditional Access block (unknown cause),engineer,0.48,47
+INC01289,2026-08,License assignment error,agent,0.92,2
+INC01290,2026-08,Group sync failure,agent,0.88,2
+INC01291,2026-08,Stale device object,agent,0.88,2
+INC01292,2026-08,Account lockout,agent,0.96,2
+INC01293,2026-08,Group sync failure,agent,0.96,2
+INC01294,2026-08,License assignment error,agent,0.91,2
+INC01295,2026-08,MFA re-registration,agent,0.99,2
+INC01296,2026-08,Group sync failure,agent,0.97,2
+INC01297,2026-08,MFA re-registration,agent,0.92,2
+INC01298,2026-08,Stale device object,agent,0.89,2
+INC01299,2026-08,MFA re-registration,agent,0.98,2
+INC01300,2026-08,MFA re-registration,agent,0.94,2
+INC01301,2026-08,License assignment error,agent,0.97,2
+INC01302,2026-08,Account lockout,engineer,0.34,10
+INC01303,2026-08,MFA re-registration,agent,0.97,2
+INC01304,2026-08,Group sync failure,agent,0.87,2
+INC01305,2026-08,Account lockout,agent,0.94,2
+INC01306,2026-08,Stale device object,agent,0.96,2
+INC01307,2026-08,MFA re-registration,agent,0.9,2
+INC01308,2026-08,MFA re-registration,agent,0.89,2
+INC01309,2026-08,Password expiry for service account,agent,0.96,2
+INC01310,2026-08,MFA re-registration,agent,0.98,2
+INC01311,2026-08,MFA re-registration,agent,0.99,2
+INC01312,2026-08,MFA re-registration,agent,0.93,2
+INC01313,2026-08,Password expiry for service account,agent,0.87,2
+INC01314,2026-08,Conditional Access block (unknown cause),engineer,0.82,42
+INC01315,2026-08,MFA re-registration,agent,0.91,2
+INC01316,2026-08,Password expiry for service account,agent,0.89,2
+INC01317,2026-08,MFA re-registration,agent,0.9,2
+INC01318,2026-08,Group sync failure,agent,0.93,2
+INC01319,2026-08,MFA re-registration,agent,0.88,2
+INC01320,2026-08,Group sync failure,agent,0.97,2
+INC01321,2026-08,Account lockout,engineer,0.66,11
+INC01322,2026-08,Account lockout,agent,0.88,2
+INC01323,2026-08,Password expiry for service account,agent,0.99,2
+INC01324,2026-08,Account lockout,agent,0.96,2
+INC01325,2026-08,Password expiry for service account,agent,0.95,2
+INC01326,2026-08,Conditional Access block (unknown cause),engineer,0.64,49
+INC01327,2026-08,License assignment error,agent,0.92,2
+INC01328,2026-08,Group sync failure,agent,0.94,2
+INC01329,2026-08,MFA re-registration,agent,0.89,2
+INC01330,2026-08,License assignment error,agent,0.93,2
+INC01331,2026-08,Group sync failure,engineer,0.61,43
+INC01332,2026-08,Group sync failure,agent,0.99,2
+INC01333,2026-08,Account lockout,agent,0.93,2
+INC01334,2026-08,Password expiry for service account,agent,0.9,2
+INC01335,2026-08,License assignment error,agent,0.94,2
+INC01336,2026-08,Account lockout,agent,0.95,2
+INC01337,2026-08,MFA re-registration,agent,0.93,2
+INC01338,2026-08,MFA re-registration,agent,0.98,2
+INC01339,2026-08,License assignment error,agent,0.92,2
+INC01340,2026-08,Conditional Access block (unknown cause),engineer,0.61,47
+INC01341,2026-08,Group sync failure,engineer,0.73,36
+INC01342,2026-08,Account lockout,agent,0.94,2
+INC01343,2026-08,Group sync failure,agent,0.89,2
+INC01344,2026-08,MFA re-registration,agent,0.93,2
+INC01345,2026-08,MFA re-registration,agent,0.96,2
+INC01346,2026-08,Account lockout,agent,0.88,2
+INC01347,2026-08,Account lockout,agent,0.89,2
+INC01348,2026-08,MFA re-registration,agent,0.89,2
+INC01349,2026-08,Stale device object,agent,0.98,2
+INC01350,2026-08,Stale device object,agent,0.91,2
+INC01351,2026-08,Account lockout,agent,0.89,2
+INC01352,2026-08,Account lockout,agent,0.86,2
+INC01353,2026-08,Other / novel issue,engineer,0.82,66
+INC01354,2026-08,Conditional Access block (unknown cause),engineer,0.38,49
+INC01355,2026-08,Stale device object,agent,0.91,2
+INC01356,2026-08,MFA re-registration,agent,0.88,2
+INC01357,2026-08,MFA re-registration,agent,0.87,2
+INC01358,2026-08,Account lockout,agent,0.87,2
+INC01359,2026-08,License assignment error,agent,0.92,2
+INC01360,2026-08,Conditional Access block (unknown cause),engineer,0.8,45
+INC01361,2026-08,Group sync failure,agent,0.92,2
+INC01362,2026-08,Account lockout,agent,0.86,2
+INC01363,2026-08,Conditional Access block (unknown cause),engineer,0.54,52
+INC01364,2026-08,Group sync failure,agent,0.98,2
+INC01365,2026-08,Account lockout,agent,0.91,2
+INC01366,2026-08,Password expiry for service account,agent,0.94,2
+INC01367,2026-08,Account lockout,agent,0.96,2
+INC01368,2026-08,Account lockout,agent,0.92,2
+INC01369,2026-08,MFA re-registration,agent,0.95,2
+INC01370,2026-08,Stale device object,agent,0.95,2
+INC01371,2026-08,Other / novel issue,engineer,0.47,57
+INC01372,2026-08,MFA re-registration,agent,0.86,2
+INC01373,2026-08,Account lockout,agent,0.92,2
+INC01374,2026-08,Account lockout,agent,0.89,2
+INC01375,2026-08,Account lockout,agent,0.98,2
+INC01376,2026-08,MFA re-registration,agent,0.98,2
+INC01377,2026-08,MFA re-registration,agent,0.88,2
+INC01378,2026-08,Password expiry for service account,agent,0.95,2
+INC01379,2026-08,Conditional Access block (unknown cause),engineer,0.61,44
+INC01380,2026-08,Password expiry for service account,agent,0.89,2
+INC01381,2026-08,License assignment error,agent,0.94,2
+INC01382,2026-08,Conditional Access block (unknown cause),engineer,0.45,48
+INC01383,2026-08,MFA re-registration,agent,0.96,2
+INC01384,2026-08,Account lockout,agent,0.9,2
+INC01385,2026-08,Account lockout,agent,0.99,2
+INC01386,2026-08,Account lockout,agent,0.88,2
+INC01387,2026-08,Account lockout,engineer,0.41,15
+INC01388,2026-08,Account lockout,agent,0.88,2
+INC01389,2026-08,Stale device object,agent,0.94,2
+INC01390,2026-08,Conditional Access block (unknown cause),engineer,0.69,43
+INC01391,2026-08,Account lockout,agent,0.95,2
+INC01392,2026-08,Stale device object,agent,0.92,2
+INC01393,2026-08,MFA re-registration,agent,0.86,2
+INC01394,2026-08,Group sync failure,agent,0.9,2
+INC01395,2026-08,Group sync failure,agent,0.95,2
+INC01396,2026-08,Stale device object,agent,0.91,2
+INC01397,2026-08,MFA re-registration,agent,0.87,2
+INC01398,2026-08,Account lockout,agent,0.95,2
+INC01399,2026-08,Stale device object,agent,0.93,2
+INC01400,2026-08,Other / novel issue,engineer,0.48,61
+INC01401,2026-08,Group sync failure,agent,0.98,2
+INC01402,2026-08,Account lockout,agent,0.98,2
+INC01403,2026-08,Account lockout,agent,0.96,2
+INC01404,2026-08,MFA re-registration,agent,0.87,2
+INC01405,2026-08,Group sync failure,agent,0.95,2
+INC01406,2026-08,Password expiry for service account,agent,0.91,2
+INC01407,2026-08,Account lockout,agent,0.96,2
+INC01408,2026-08,Account lockout,agent,0.95,2
+INC01409,2026-08,MFA re-registration,agent,0.87,2
+INC01410,2026-08,License assignment error,agent,0.93,2
+INC01411,2026-08,Password expiry for service account,agent,0.99,2
+INC01412,2026-08,Account lockout,agent,0.96,2
+INC01413,2026-08,Account lockout,agent,0.96,2
+INC01414,2026-08,MFA re-registration,agent,0.95,2
+INC01415,2026-08,Password expiry for service account,agent,0.94,2
+INC01416,2026-08,Conditional Access block (unknown cause),engineer,0.32,44
+INC01417,2026-08,License assignment error,agent,0.98,2
+INC01418,2026-08,MFA re-registration,agent,0.94,2
+INC01419,2026-08,Account lockout,agent,0.98,2
+INC01420,2026-08,Stale device object,agent,0.94,2
+INC01421,2026-08,Password expiry for service account,agent,0.97,2
+INC01422,2026-08,Account lockout,agent,0.94,2
+INC01423,2026-08,Account lockout,agent,0.9,2
+INC01424,2026-08,Password expiry for service account,agent,0.91,2
+INC01425,2026-08,Account lockout,agent,0.93,2
+INC01426,2026-08,Group sync failure,engineer,0.42,32
+INC01427,2026-08,MFA re-registration,agent,0.88,2
+INC01428,2026-08,Account lockout,agent,0.95,2
+INC01429,2026-08,License assignment error,agent,0.98,2
+INC01430,2026-08,Account lockout,agent,0.97,2
+INC01431,2026-08,MFA re-registration,agent,0.86,2
+INC01432,2026-08,License assignment error,agent,0.88,2
+INC01433,2026-08,Account lockout,agent,0.98,2
+INC01434,2026-08,Group sync failure,agent,0.96,2
+INC01435,2026-08,MFA re-registration,agent,0.94,2
+INC01436,2026-08,License assignment error,agent,0.98,2
+INC01437,2026-08,MFA re-registration,agent,0.88,2
+INC01438,2026-08,License assignment error,engineer,0.64,16
+INC01439,2026-08,Group sync failure,agent,0.89,2
+INC01440,2026-08,Account lockout,agent,0.87,2
+INC01441,2026-08,Group sync failure,agent,0.93,2
+INC01442,2026-08,Account lockout,agent,0.95,2
+INC01443,2026-08,Account lockout,agent,0.96,2
+INC01444,2026-08,MFA re-registration,engineer,0.56,9
+INC01445,2026-08,Account lockout,agent,0.87,2
+INC01446,2026-08,Group sync failure,agent,0.89,2
+INC01447,2026-08,MFA re-registration,agent,0.92,2
+INC01448,2026-08,Account lockout,agent,0.93,2
+INC01449,2026-08,Account lockout,agent,0.93,2
+INC01450,2026-08,Account lockout,agent,0.92,2
+INC01451,2026-08,MFA re-registration,agent,0.96,2
+INC01452,2026-08,Conditional Access block (unknown cause),engineer,0.42,43
+INC01453,2026-08,Group sync failure,agent,0.96,2
+INC01454,2026-08,Password expiry for service account,agent,0.89,2
+INC01455,2026-08,License assignment error,agent,0.98,2
+INC01456,2026-08,Account lockout,agent,0.92,2
+INC01457,2026-08,Group sync failure,agent,0.95,2
+INC01458,2026-08,MFA re-registration,engineer,0.41,9
+INC01459,2026-08,Account lockout,agent,0.9,2
+INC01460,2026-08,Account lockout,agent,0.91,2
+INC01461,2026-08,Stale device object,agent,0.9,2
+INC01462,2026-08,Account lockout,agent,0.98,2
+INC01463,2026-08,Conditional Access block (unknown cause),engineer,0.61,50

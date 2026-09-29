@@ -1,0 +1,78 @@
+finding_id,repo,file,line,rule,severity,stage_caught,status
+F001,repo-34,.env,228,Azure storage account key,critical,pre-commit,rotated & removed
+F002,repo-17,.env,163,Azure storage account key,critical,nightly full scan,rotated & removed
+F003,repo-24,src/client.py,69,Azure storage account key,critical,pull request,rotated & removed
+F004,repo-25,terraform/main.tf,126,Azure storage account key,critical,pull request,rotated & removed
+F005,repo-13,.env,52,Azure storage account key,critical,pre-commit,false positive
+F006,repo-37,scripts/deploy.ps1,84,Azure storage account key,critical,pull request,false positive
+F007,repo-20,scripts/deploy.ps1,393,Azure storage account key,critical,pre-commit,false positive
+F008,repo-04,docker-compose.yml,160,Azure storage account key,critical,pull request,rotated & removed
+F009,repo-08,docker-compose.yml,126,Azure storage account key,critical,pre-commit,rotated & removed
+F010,repo-12,notebooks/etl.ipynb,256,AWS access key,critical,pull request,removed (test value)
+F011,repo-18,notebooks/etl.ipynb,277,AWS access key,critical,pre-commit,rotated & removed
+F012,repo-05,notebooks/etl.ipynb,375,AWS access key,critical,pre-commit,rotated & removed
+F013,repo-23,src/client.py,29,AWS access key,critical,pull request,rotated & removed
+F014,repo-36,notebooks/etl.ipynb,40,AWS access key,critical,pre-commit,rotated & removed
+F015,repo-15,notebooks/etl.ipynb,322,AWS access key,critical,pull request,rotated & removed
+F016,repo-16,src/client.py,194,AWS access key,critical,pull request,rotated & removed
+F017,repo-26,.env,104,Client secret in config,critical,pull request,rotated & removed
+F018,repo-14,appsettings.json,22,Client secret in config,critical,pre-commit,rotated & removed
+F019,repo-32,docker-compose.yml,79,Client secret in config,critical,pull request,rotated & removed
+F020,repo-07,terraform/main.tf,86,Client secret in config,critical,pre-commit,rotated & removed
+F021,repo-09,terraform/main.tf,262,Client secret in config,critical,pull request,rotated & removed
+F022,repo-29,notebooks/etl.ipynb,246,Client secret in config,critical,pull request,rotated & removed
+F023,repo-21,src/client.py,301,Client secret in config,critical,pre-commit,removed (test value)
+F024,repo-28,docker-compose.yml,138,Client secret in config,critical,nightly full scan,removed (test value)
+F025,repo-03,scripts/deploy.ps1,372,Client secret in config,critical,pre-commit,rotated & removed
+F026,repo-01,src/client.py,78,Client secret in config,critical,pull request,rotated & removed
+F027,repo-31,config/dev.yaml,100,Client secret in config,critical,pre-commit,rotated & removed
+F028,repo-02,src/client.py,356,Client secret in config,critical,pre-commit,rotated & removed
+F029,repo-19,appsettings.json,364,Client secret in config,critical,pre-commit,rotated & removed
+F030,repo-30,docker-compose.yml,272,Client secret in config,critical,pre-commit,false positive
+F031,repo-27,terraform/main.tf,282,Connection string with password,serious,pre-commit,rotated & removed
+F032,repo-22,docker-compose.yml,101,Connection string with password,serious,nightly full scan,rotated & removed
+F033,repo-35,scripts/deploy.ps1,155,Connection string with password,serious,pull request,rotated & removed
+F034,repo-10,terraform/main.tf,248,Connection string with password,serious,pre-commit,false positive
+F035,repo-11,notebooks/etl.ipynb,65,Connection string with password,serious,pull request,rotated & removed
+F036,repo-33,terraform/main.tf,398,Connection string with password,serious,pull request,rotated & removed
+F037,repo-06,config/dev.yaml,180,Connection string with password,serious,nightly full scan,rotated & removed
+F038,repo-27,scripts/deploy.ps1,106,Connection string with password,serious,pull request,rotated & removed
+F039,repo-33,notebooks/etl.ipynb,73,Connection string with password,serious,pre-commit,rotated & removed
+F040,repo-16,scripts/deploy.ps1,28,Connection string with password,serious,pull request,rotated & removed
+F041,repo-15,appsettings.json,54,Connection string with password,serious,pre-commit,rotated & removed
+F042,repo-20,.env,5,Connection string with password,serious,nightly full scan,false positive
+F043,repo-18,src/client.py,337,Connection string with password,serious,nightly full scan,removed (test value)
+F044,repo-27,scripts/deploy.ps1,390,Connection string with password,serious,nightly full scan,rotated & removed
+F045,repo-25,config/dev.yaml,336,Connection string with password,serious,pull request,rotated & removed
+F046,repo-24,.env,216,Connection string with password,serious,nightly full scan,rotated & removed
+F047,repo-24,src/client.py,256,Private key (PEM),critical,pre-commit,rotated & removed
+F048,repo-32,appsettings.json,7,Private key (PEM),critical,pre-commit,rotated & removed
+F049,repo-29,notebooks/etl.ipynb,235,Private key (PEM),critical,nightly full scan,rotated & removed
+F050,repo-22,.env,261,Private key (PEM),critical,pull request,rotated & removed
+F051,repo-04,terraform/main.tf,86,Private key (PEM),critical,pull request,rotated & removed
+F052,repo-05,appsettings.json,380,Generic high-entropy token,warning,pre-commit,rotated & removed
+F053,repo-23,.env,315,Generic high-entropy token,warning,nightly full scan,removed (test value)
+F054,repo-02,terraform/main.tf,47,Generic high-entropy token,warning,pre-commit,rotated & removed
+F055,repo-08,docker-compose.yml,168,Generic high-entropy token,warning,nightly full scan,rotated & removed
+F056,repo-03,scripts/deploy.ps1,231,Generic high-entropy token,warning,pull request,false positive
+F057,repo-07,appsettings.json,136,Generic high-entropy token,warning,pull request,rotated & removed
+F058,repo-25,config/dev.yaml,241,Generic high-entropy token,warning,pre-commit,rotated & removed
+F059,repo-35,notebooks/etl.ipynb,356,Generic high-entropy token,warning,pre-commit,removed (test value)
+F060,repo-32,terraform/main.tf,317,Generic high-entropy token,warning,pre-commit,false positive
+F061,repo-27,.env,235,Generic high-entropy token,warning,pull request,rotated & removed
+F062,repo-31,docker-compose.yml,390,Generic high-entropy token,warning,pull request,rotated & removed
+F063,repo-36,scripts/deploy.ps1,351,Generic high-entropy token,warning,pull request,removed (test value)
+F064,repo-37,docker-compose.yml,273,Personal access token,serious,pull request,rotated & removed
+F065,repo-06,config/dev.yaml,34,Personal access token,serious,pull request,removed (test value)
+F066,repo-23,.env,87,Personal access token,serious,pre-commit,rotated & removed
+F067,repo-04,scripts/deploy.ps1,370,Personal access token,serious,pull request,rotated & removed
+F068,repo-35,docker-compose.yml,31,Personal access token,serious,pull request,rotated & removed
+F069,repo-30,appsettings.json,289,Personal access token,serious,pull request,removed (test value)
+F070,repo-17,src/client.py,133,Personal access token,serious,pull request,rotated & removed
+F071,repo-13,appsettings.json,219,Personal access token,serious,pre-commit,rotated & removed
+F072,repo-25,config/dev.yaml,244,Slack/Teams webhook URL,warning,pre-commit,rotated & removed
+F073,repo-08,src/client.py,194,Slack/Teams webhook URL,warning,nightly full scan,rotated & removed
+F074,repo-03,src/client.py,44,Slack/Teams webhook URL,warning,pull request,rotated & removed
+F075,repo-11,.env,337,Slack/Teams webhook URL,warning,nightly full scan,rotated & removed
+F076,repo-11,src/client.py,273,Slack/Teams webhook URL,warning,pre-commit,false positive
+F077,repo-34,appsettings.json,155,Slack/Teams webhook URL,warning,pull request,rotated & removed

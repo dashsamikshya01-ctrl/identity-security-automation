@@ -1,0 +1,19 @@
+// Sentinel analytics rule: high-confidence account compromise signals that should kill sessions.
+// Runs every 5 minutes over the last 10; the automation rule attached to it triggers the playbook.
+let lookback = 10m;
+union
+( SecurityAlert
+  | where TimeGenerated > ago(lookback)
+  | where ProviderName in ("IPC", "Azure Advanced Threat Protection")            // Entra ID Protection, Defender for Identity
+  | where AlertName has_any ("Impossible travel", "Anomalous Token", "Leaked credentials", "Anonymous IP")
+  | extend UserPrincipalName = tostring(parse_json(Entities)[0].UserPrincipalName),
+           Detection = AlertName ),
+( SigninLogs                                                                   // MFA fatigue: 5+ denied pushes in 10 min
+  | where TimeGenerated > ago(lookback)
+  | where ResultType == 500121
+  | summarize Denials = count() by UserPrincipalName, bin(TimeGenerated, 10m)
+  | where Denials >= 5
+  | extend Detection = "MFA fatigue (repeated denials)" )
+| where isnotempty(UserPrincipalName)
+| join kind=leftanti (_GetWatchlist('BreakGlassAccounts') | project UserPrincipalName = SearchKey) on UserPrincipalName
+| project TimeGenerated, UserPrincipalName, Detection

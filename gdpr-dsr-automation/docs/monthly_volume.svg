@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="360" viewBox="0 0 860 360" role="img" aria-label="Data subject requests handled each month">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect width="860" height="360" rx="12" fill="#0b1b33"/>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#ffffff">Data subject requests handled each month</text>
+<text x="24" y="56" font-size="12.5" fill="#8fb3dd">Synthetic 12-month volume at real-world scale; the December bar is the holiday peak</text>
+<line x1="60" x2="836" y1="302.0" y2="302.0" stroke="#24406a" stroke-width="1"/>
+<text x="52" y="306.0" font-size="11" fill="#8fb3dd" text-anchor="end">0</text>
+<line x1="60" x2="836" y1="246.5" y2="246.5" stroke="#24406a" stroke-width="1"/>
+<text x="52" y="250.5" font-size="11" fill="#8fb3dd" text-anchor="end">2,000</text>
+<line x1="60" x2="836" y1="191.0" y2="191.0" stroke="#24406a" stroke-width="1"/>
+<text x="52" y="195.0" font-size="11" fill="#8fb3dd" text-anchor="end">4,000</text>
+<line x1="60" x2="836" y1="135.5" y2="135.5" stroke="#24406a" stroke-width="1"/>
+<text x="52" y="139.5" font-size="11" fill="#8fb3dd" text-anchor="end">6,000</text>
+<line x1="60" x2="836" y1="80.0" y2="80.0" stroke="#24406a" stroke-width="1"/>
+<text x="52" y="84.0" font-size="11" fill="#8fb3dd" text-anchor="end">8,000</text>
+<path d="M72.3,302.0 V191.7 Q72.3,187.7 76.3,187.7 H108.4 Q112.4,187.7 112.4,191.7 V302.0 Z" fill="#3987e5"><title>Sep: 4,120</title></path>
+<text x="92.3" y="181.7" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">4,120</text>
+<text x="92.3" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Sep</text>
+<path d="M137.0,302.0 V184.5 Q137.0,180.5 141.0,180.5 H173.0 Q177.0,180.5 177.0,184.5 V302.0 Z" fill="#3987e5"><title>Oct: 4,380</title></path>
+<text x="157.0" y="174.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">4,380</text>
+<text x="157.0" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Oct</text>
+<path d="M201.6,302.0 V165.6 Q201.6,161.6 205.6,161.6 H237.7 Q241.7,161.6 241.7,165.6 V302.0 Z" fill="#3987e5"><title>Nov: 5,060</title></path>
+<text x="221.7" y="155.6" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">5,060</text>
+<text x="221.7" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Nov</text>
+<path d="M266.3,302.0 V139.2 Q266.3,135.2 270.3,135.2 H302.4 Q306.4,135.2 306.4,139.2 V302.0 Z" fill="#d95926"><title>Dec: 6,010</title></path>
+<text x="286.3" y="129.2" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">6,010</text>
+<text x="286.3" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Dec</text>
+<path d="M331.0,302.0 V170.9 Q331.0,166.9 335.0,166.9 H367.0 Q371.0,166.9 371.0,170.9 V302.0 Z" fill="#3987e5"><title>Jan: 4,870</title></path>
+<text x="351.0" y="160.9" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">4,870</text>
+<text x="351.0" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Jan</text>
+<path d="M395.6,302.0 V189.2 Q395.6,185.2 399.6,185.2 H431.7 Q435.7,185.2 435.7,189.2 V302.0 Z" fill="#3987e5"><title>Feb: 4,210</title></path>
+<text x="415.7" y="179.2" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">4,210</text>
+<text x="415.7" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Feb</text>
+<path d="M460.3,302.0 V185.8 Q460.3,181.8 464.3,181.8 H496.4 Q500.4,181.8 500.4,185.8 V302.0 Z" fill="#3987e5"><title>Mar: 4,330</title></path>
+<text x="480.3" y="175.8" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">4,330</text>
+<text x="480.3" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Mar</text>
+<path d="M525.0,302.0 V182.5 Q525.0,178.5 529.0,178.5 H561.0 Q565.0,178.5 565.0,182.5 V302.0 Z" fill="#3987e5"><title>Apr: 4,450</title></path>
+<text x="545.0" y="172.5" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">4,450</text>
+<text x="545.0" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Apr</text>
+<path d="M589.6,302.0 V187.0 Q589.6,183.0 593.6,183.0 H625.7 Q629.7,183.0 629.7,187.0 V302.0 Z" fill="#3987e5"><title>May: 4,290</title></path>
+<text x="609.7" y="177.0" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">4,290</text>
+<text x="609.7" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">May</text>
+<path d="M654.3,302.0 V180.6 Q654.3,176.6 658.3,176.6 H690.4 Q694.4,176.6 694.4,180.6 V302.0 Z" fill="#3987e5"><title>Jun: 4,520</title></path>
+<text x="674.3" y="170.6" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">4,520</text>
+<text x="674.3" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Jun</text>
+<path d="M719.0,302.0 V178.1 Q719.0,174.1 723.0,174.1 H755.0 Q759.0,174.1 759.0,178.1 V302.0 Z" fill="#3987e5"><title>Jul: 4,610</title></path>
+<text x="739.0" y="168.1" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">4,610</text>
+<text x="739.0" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Jul</text>
+<path d="M783.6,302.0 V181.7 Q783.6,177.7 787.6,177.7 H819.7 Q823.7,177.7 823.7,181.7 V302.0 Z" fill="#3987e5"><title>Aug: 4,480</title></path>
+<text x="803.7" y="171.7" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">4,480</text>
+<text x="803.7" y="320.0" font-size="11" fill="#c3c2b7" text-anchor="middle">Aug</text>
+</svg>

@@ -1,0 +1,14 @@
+# Runs the lifecycle job every morning (set the schedule in Repository settings -> Pipelines -> Schedules).
+image: python:3.12-slim
+
+pipelines:
+  custom:
+    daily-cert-check:
+      - step:
+          name: Scan SAML apps and act
+          script:
+            - pip install requests
+            # TENANT_ID, CLIENT_ID, CLIENT_SECRET are secured repository variables, never committed
+            - python saml-cert-lifecycle/lifecycle.py --live --apply
+          artifacts:
+            - saml-cert-lifecycle/report.json

@@ -1,0 +1,26 @@
+# Known-fix catalogue the agent is allowed to use. Anything not listed here goes to an engineer.
+# guardrails are enforced in code before any fix runs.
+account_lockout:
+  match: ["locked out", "account lockout", "too many attempts"]
+  fix: "Confirm no risky sign-ins in last 24h, then unlock via Graph and notify the user"
+  guardrails: {max_objects: 1, skip_if_privileged: true, requires_approval: false}
+group_sync_failure:
+  match: ["group sync", "membership not updated", "provisioning error"]
+  fix: "Re-run provisioning cycle for the group, verify membership diff is empty"
+  guardrails: {max_objects: 500, skip_if_privileged: true, requires_approval: false}
+license_assignment_error:
+  match: ["license", "licence", "mailbox not provisioned"]
+  fix: "Resolve conflicting service plans, reprocess group-based licensing"
+  guardrails: {max_objects: 50, skip_if_privileged: false, requires_approval: false}
+mfa_reregistration:
+  match: ["new phone", "mfa reset", "authenticator"]
+  fix: "Verify identity via manager approval, then require re-registration of MFA"
+  guardrails: {max_objects: 1, skip_if_privileged: true, requires_approval: true}
+stale_device_object:
+  match: ["stale device", "device limit", "duplicate device"]
+  fix: "Disable devices inactive > 90 days, delete after 30 more"
+  guardrails: {max_objects: 200, skip_if_privileged: false, requires_approval: false}
+service_account_password_expiry:
+  match: ["service account", "password expired", "svc_"]
+  fix: "Rotate secret into Key Vault, restart dependent service, confirm health check"
+  guardrails: {max_objects: 1, skip_if_privileged: false, requires_approval: true}

@@ -1,0 +1,401 @@
+alert_id,detected_at,detection,user,risk,trigger_ms,playbook_ms,graph_ms
+AL0000,2026-08-03T02:24:00,Sign-in from anonymising proxy,u94974@contoso.example,high,425,291,588
+AL0001,2026-08-03T04:45:00,MFA fatigue (repeated denials),u67177@contoso.example,high,441,353,529
+AL0002,2026-08-03T06:18:00,Sign-in from anonymising proxy,u88918@contoso.example,medium,396,159,203
+AL0003,2026-08-03T08:37:00,MFA fatigue (repeated denials),u98225@contoso.example,medium,483,310,477
+AL0004,2026-08-03T10:29:00,Impossible travel,u97432@contoso.example,high,491,105,504
+AL0005,2026-08-03T11:33:00,MFA fatigue (repeated denials),u74713@contoso.example,high,258,298,587
+AL0006,2026-08-03T12:46:00,Token replay,u75991@contoso.example,high,120,140,301
+AL0007,2026-08-03T13:22:00,Leaked credentials match,u39372@contoso.example,high,504,236,447
+AL0008,2026-08-03T15:09:00,Leaked credentials match,u89205@contoso.example,medium,472,109,405
+AL0009,2026-08-03T15:41:00,Impossible travel,u23879@contoso.example,medium,242,346,303
+AL0010,2026-08-03T16:27:00,Sign-in from anonymising proxy,u30582@contoso.example,medium,438,236,557
+AL0011,2026-08-03T18:40:00,Token replay,u94815@contoso.example,high,541,267,192
+AL0012,2026-08-03T19:35:00,Sign-in from anonymising proxy,u47585@contoso.example,high,487,302,2034
+AL0013,2026-08-03T20:16:00,Token replay,u29871@contoso.example,medium,374,245,632
+AL0014,2026-08-03T22:51:00,MFA fatigue (repeated denials),u77653@contoso.example,medium,331,290,432
+AL0015,2026-08-04T00:43:00,Leaked credentials match,u19120@contoso.example,high,282,351,320
+AL0016,2026-08-04T02:23:00,Token replay,u85308@contoso.example,high,223,349,233
+AL0017,2026-08-04T04:56:00,Leaked credentials match,u49888@contoso.example,medium,476,352,351
+AL0018,2026-08-04T06:36:00,MFA fatigue (repeated denials),u68482@contoso.example,medium,434,253,343
+AL0019,2026-08-04T09:15:00,Sign-in from anonymising proxy,u95033@contoso.example,high,588,171,223
+AL0020,2026-08-04T10:25:00,Token replay,u78219@contoso.example,medium,463,234,225
+AL0021,2026-08-04T11:57:00,Sign-in from anonymising proxy,u93320@contoso.example,high,387,284,566
+AL0022,2026-08-04T12:24:00,MFA fatigue (repeated denials),u76227@contoso.example,high,554,188,363
+AL0023,2026-08-04T12:59:00,Impossible travel,u16256@contoso.example,medium,684,297,275
+AL0024,2026-08-04T13:50:00,Leaked credentials match,u84133@contoso.example,medium,246,297,525
+AL0025,2026-08-04T16:26:00,Leaked credentials match,u98137@contoso.example,high,424,296,283
+AL0026,2026-08-04T18:22:00,Sign-in from anonymising proxy,u69547@contoso.example,high,315,251,280
+AL0027,2026-08-04T20:30:00,Token replay,u72423@contoso.example,high,583,277,321
+AL0028,2026-08-04T21:09:00,Sign-in from anonymising proxy,u86585@contoso.example,high,303,340,215
+AL0029,2026-08-04T23:17:00,MFA fatigue (repeated denials),u31344@contoso.example,high,330,397,374
+AL0030,2026-08-05T00:09:00,Token replay,u69694@contoso.example,high,265,269,568
+AL0031,2026-08-05T01:09:00,Leaked credentials match,u63558@contoso.example,high,386,341,327
+AL0032,2026-08-05T03:03:00,Sign-in from anonymising proxy,u48532@contoso.example,high,383,248,468
+AL0033,2026-08-05T03:59:00,Sign-in from anonymising proxy,u47156@contoso.example,high,530,335,546
+AL0034,2026-08-05T06:24:00,Sign-in from anonymising proxy,u84155@contoso.example,high,596,261,424
+AL0035,2026-08-05T08:10:00,Leaked credentials match,u27407@contoso.example,medium,437,280,201
+AL0036,2026-08-05T10:39:00,Impossible travel,u91889@contoso.example,medium,264,144,334
+AL0037,2026-08-05T12:43:00,Impossible travel,u97876@contoso.example,medium,350,113,603
+AL0038,2026-08-05T14:14:00,Sign-in from anonymising proxy,u83537@contoso.example,medium,249,116,324
+AL0039,2026-08-05T14:55:00,Impossible travel,u84743@contoso.example,high,244,304,587
+AL0040,2026-08-05T17:16:00,Sign-in from anonymising proxy,u36975@contoso.example,high,392,259,272
+AL0041,2026-08-05T19:29:00,Leaked credentials match,u15896@contoso.example,high,275,355,480
+AL0042,2026-08-05T19:54:00,Impossible travel,u25026@contoso.example,medium,372,307,573
+AL0043,2026-08-05T22:32:00,Impossible travel,u30214@contoso.example,high,445,284,457
+AL0044,2026-08-06T00:36:00,Sign-in from anonymising proxy,u61110@contoso.example,high,398,231,478
+AL0045,2026-08-06T01:32:00,Impossible travel,u16799@contoso.example,high,398,191,453
+AL0046,2026-08-06T02:52:00,MFA fatigue (repeated denials),u82498@contoso.example,high,186,266,320
+AL0047,2026-08-06T05:15:00,Impossible travel,u45279@contoso.example,high,465,385,420
+AL0048,2026-08-06T06:00:00,Impossible travel,u93335@contoso.example,high,424,374,409
+AL0049,2026-08-06T06:56:00,Leaked credentials match,u65542@contoso.example,medium,303,80,712
+AL0050,2026-08-06T09:11:00,Token replay,u10071@contoso.example,high,667,302,596
+AL0051,2026-08-06T11:34:00,Sign-in from anonymising proxy,u92864@contoso.example,high,372,250,500
+AL0052,2026-08-06T14:04:00,Impossible travel,u28304@contoso.example,medium,403,312,320
+AL0053,2026-08-06T15:35:00,Sign-in from anonymising proxy,u99404@contoso.example,medium,408,304,303
+AL0054,2026-08-06T17:01:00,Token replay,u70266@contoso.example,medium,637,241,346
+AL0055,2026-08-06T18:45:00,Impossible travel,u89794@contoso.example,high,624,397,404
+AL0056,2026-08-06T19:07:00,Leaked credentials match,u20636@contoso.example,medium,352,177,577
+AL0057,2026-08-06T19:46:00,MFA fatigue (repeated denials),u98112@contoso.example,high,286,80,298
+AL0058,2026-08-06T21:42:00,Impossible travel,u26353@contoso.example,high,481,185,500
+AL0059,2026-08-06T22:51:00,Sign-in from anonymising proxy,u35101@contoso.example,high,634,200,1605
+AL0060,2026-08-07T00:28:00,MFA fatigue (repeated denials),u89433@contoso.example,high,455,200,795
+AL0061,2026-08-07T01:38:00,Sign-in from anonymising proxy,u84593@contoso.example,high,374,387,357
+AL0062,2026-08-07T02:41:00,Impossible travel,u87091@contoso.example,high,225,217,158
+AL0063,2026-08-07T03:17:00,Leaked credentials match,u45956@contoso.example,high,334,405,647
+AL0064,2026-08-07T03:42:00,MFA fatigue (repeated denials),u10256@contoso.example,medium,634,253,260
+AL0065,2026-08-07T04:15:00,MFA fatigue (repeated denials),u45918@contoso.example,high,398,308,267
+AL0066,2026-08-07T06:47:00,Sign-in from anonymising proxy,u65058@contoso.example,high,290,277,398
+AL0067,2026-08-07T08:27:00,Leaked credentials match,u13325@contoso.example,medium,129,319,383
+AL0068,2026-08-07T09:44:00,Sign-in from anonymising proxy,u18237@contoso.example,medium,565,247,488
+AL0069,2026-08-07T10:28:00,Sign-in from anonymising proxy,u42821@contoso.example,high,467,354,409
+AL0070,2026-08-07T12:49:00,Impossible travel,u88638@contoso.example,medium,429,341,515
+AL0071,2026-08-07T13:33:00,Impossible travel,u14370@contoso.example,high,462,176,230
+AL0072,2026-08-07T14:09:00,MFA fatigue (repeated denials),u18623@contoso.example,high,430,228,397
+AL0073,2026-08-07T14:43:00,Impossible travel,u90911@contoso.example,medium,375,189,331
+AL0074,2026-08-07T16:02:00,MFA fatigue (repeated denials),u91292@contoso.example,medium,582,140,254
+AL0075,2026-08-07T17:48:00,Leaked credentials match,u53017@contoso.example,high,311,181,184
+AL0076,2026-08-07T18:35:00,Leaked credentials match,u26512@contoso.example,medium,570,332,637
+AL0077,2026-08-07T20:00:00,Token replay,u41870@contoso.example,high,521,196,524
+AL0078,2026-08-07T20:31:00,Sign-in from anonymising proxy,u86502@contoso.example,medium,532,288,90
+AL0079,2026-08-07T21:28:00,Sign-in from anonymising proxy,u11059@contoso.example,high,559,306,489
+AL0080,2026-08-07T22:25:00,Token replay,u36263@contoso.example,medium,575,297,541
+AL0081,2026-08-07T23:36:00,MFA fatigue (repeated denials),u88612@contoso.example,medium,181,278,237
+AL0082,2026-08-08T01:21:00,Impossible travel,u75002@contoso.example,high,311,197,472
+AL0083,2026-08-08T01:41:00,Token replay,u41328@contoso.example,high,551,170,191
+AL0084,2026-08-08T03:25:00,Impossible travel,u56908@contoso.example,high,467,178,1047
+AL0085,2026-08-08T04:14:00,Sign-in from anonymising proxy,u15754@contoso.example,medium,573,320,514
+AL0086,2026-08-08T05:24:00,Leaked credentials match,u42239@contoso.example,high,447,312,571
+AL0087,2026-08-08T05:49:00,Token replay,u59666@contoso.example,medium,272,291,491
+AL0088,2026-08-08T06:37:00,Token replay,u79065@contoso.example,medium,369,312,232
+AL0089,2026-08-08T08:48:00,Token replay,u34856@contoso.example,high,456,283,339
+AL0090,2026-08-08T10:44:00,Leaked credentials match,u86981@contoso.example,high,378,186,174
+AL0091,2026-08-08T13:21:00,Sign-in from anonymising proxy,u26575@contoso.example,medium,505,246,467
+AL0092,2026-08-08T15:46:00,Leaked credentials match,u60871@contoso.example,medium,434,295,147
+AL0093,2026-08-08T18:16:00,Sign-in from anonymising proxy,u78875@contoso.example,medium,457,183,517
+AL0094,2026-08-08T20:42:00,Token replay,u38773@contoso.example,medium,237,279,197
+AL0095,2026-08-08T22:57:00,MFA fatigue (repeated denials),u84890@contoso.example,high,231,318,258
+AL0096,2026-08-09T00:52:00,Token replay,u86541@contoso.example,high,418,297,381
+AL0097,2026-08-09T03:23:00,MFA fatigue (repeated denials),u58170@contoso.example,medium,302,191,263
+AL0098,2026-08-09T05:04:00,Impossible travel,u48603@contoso.example,medium,415,279,262
+AL0099,2026-08-09T07:35:00,Token replay,u22898@contoso.example,high,459,225,361
+AL0100,2026-08-09T09:27:00,Sign-in from anonymising proxy,u34987@contoso.example,medium,510,274,427
+AL0101,2026-08-09T10:22:00,Sign-in from anonymising proxy,u11118@contoso.example,medium,538,410,377
+AL0102,2026-08-09T11:54:00,Impossible travel,u71866@contoso.example,medium,527,118,245
+AL0103,2026-08-09T12:52:00,Token replay,u72185@contoso.example,high,501,302,293
+AL0104,2026-08-09T15:11:00,MFA fatigue (repeated denials),u37470@contoso.example,high,393,161,416
+AL0105,2026-08-09T15:38:00,Impossible travel,u75509@contoso.example,medium,302,176,528
+AL0106,2026-08-09T17:28:00,Leaked credentials match,u49274@contoso.example,high,341,339,316
+AL0107,2026-08-09T17:53:00,Sign-in from anonymising proxy,u84473@contoso.example,medium,289,239,363
+AL0108,2026-08-09T19:53:00,Impossible travel,u53101@contoso.example,high,513,252,227
+AL0109,2026-08-09T22:08:00,Leaked credentials match,u33283@contoso.example,high,529,210,275
+AL0110,2026-08-10T00:33:00,Sign-in from anonymising proxy,u96451@contoso.example,high,511,270,514
+AL0111,2026-08-10T02:49:00,MFA fatigue (repeated denials),u61262@contoso.example,high,346,361,448
+AL0112,2026-08-10T03:37:00,Token replay,u27030@contoso.example,medium,520,327,373
+AL0113,2026-08-10T05:16:00,Leaked credentials match,u85378@contoso.example,medium,281,131,483
+AL0114,2026-08-10T06:27:00,Impossible travel,u62328@contoso.example,medium,207,257,376
+AL0115,2026-08-10T07:50:00,MFA fatigue (repeated denials),u70646@contoso.example,high,436,80,323
+AL0116,2026-08-10T08:33:00,Sign-in from anonymising proxy,u61260@contoso.example,medium,351,440,140
+AL0117,2026-08-10T09:37:00,MFA fatigue (repeated denials),u70008@contoso.example,high,478,211,431
+AL0118,2026-08-10T10:43:00,Token replay,u45884@contoso.example,medium,400,221,364
+AL0119,2026-08-10T13:20:00,Token replay,u74682@contoso.example,high,380,207,724
+AL0120,2026-08-10T14:11:00,MFA fatigue (repeated denials),u31605@contoso.example,high,475,258,595
+AL0121,2026-08-10T16:40:00,MFA fatigue (repeated denials),u59958@contoso.example,high,566,280,390
+AL0122,2026-08-10T18:42:00,Sign-in from anonymising proxy,u97856@contoso.example,medium,506,188,458
+AL0123,2026-08-10T21:06:00,MFA fatigue (repeated denials),u28383@contoso.example,high,424,223,395
+AL0124,2026-08-10T22:37:00,Leaked credentials match,u61229@contoso.example,high,466,213,453
+AL0125,2026-08-10T22:59:00,Token replay,u14514@contoso.example,medium,427,237,297
+AL0126,2026-08-11T01:35:00,Impossible travel,u61199@contoso.example,medium,465,395,531
+AL0127,2026-08-11T03:48:00,Token replay,u42728@contoso.example,high,201,268,385
+AL0128,2026-08-11T05:09:00,Impossible travel,u38910@contoso.example,medium,427,275,406
+AL0129,2026-08-11T05:53:00,Token replay,u15768@contoso.example,high,424,309,91
+AL0130,2026-08-11T06:40:00,MFA fatigue (repeated denials),u66083@contoso.example,high,469,187,223
+AL0131,2026-08-11T07:54:00,Impossible travel,u61011@contoso.example,high,279,322,1690
+AL0132,2026-08-11T09:10:00,Token replay,u63883@contoso.example,high,655,326,289
+AL0133,2026-08-11T11:37:00,Leaked credentials match,u32473@contoso.example,high,311,301,372
+AL0134,2026-08-11T12:21:00,Token replay,u53522@contoso.example,high,120,110,300
+AL0135,2026-08-11T14:02:00,Impossible travel,u89761@contoso.example,medium,221,392,347
+AL0136,2026-08-11T16:16:00,Token replay,u12780@contoso.example,medium,271,346,403
+AL0137,2026-08-11T17:07:00,Leaked credentials match,u20405@contoso.example,high,605,206,624
+AL0138,2026-08-11T19:02:00,Leaked credentials match,u68160@contoso.example,medium,325,260,217
+AL0139,2026-08-11T20:46:00,Impossible travel,u78271@contoso.example,medium,561,312,484
+AL0140,2026-08-11T22:52:00,Token replay,u36976@contoso.example,high,350,200,686
+AL0141,2026-08-12T00:15:00,MFA fatigue (repeated denials),u78350@contoso.example,high,460,304,145
+AL0142,2026-08-12T02:28:00,Token replay,u36767@contoso.example,high,384,236,90
+AL0143,2026-08-12T03:32:00,Token replay,u76509@contoso.example,high,438,118,214
+AL0144,2026-08-12T05:51:00,Sign-in from anonymising proxy,u85552@contoso.example,high,335,393,383
+AL0145,2026-08-12T07:02:00,Sign-in from anonymising proxy,u62198@contoso.example,high,507,238,656
+AL0146,2026-08-12T09:22:00,MFA fatigue (repeated denials),u12596@contoso.example,medium,265,298,354
+AL0147,2026-08-12T11:31:00,Leaked credentials match,u80411@contoso.example,high,184,352,165
+AL0148,2026-08-12T12:35:00,Impossible travel,u53677@contoso.example,high,412,360,231
+AL0149,2026-08-12T14:55:00,Sign-in from anonymising proxy,u74415@contoso.example,high,459,327,2127
+AL0150,2026-08-12T17:01:00,Leaked credentials match,u19336@contoso.example,high,765,172,250
+AL0151,2026-08-12T17:30:00,Token replay,u35457@contoso.example,medium,536,306,376
+AL0152,2026-08-12T18:55:00,Sign-in from anonymising proxy,u17563@contoso.example,medium,451,111,234
+AL0153,2026-08-12T21:03:00,Sign-in from anonymising proxy,u92700@contoso.example,medium,599,253,261
+AL0154,2026-08-12T21:30:00,Sign-in from anonymising proxy,u42429@contoso.example,medium,354,137,367
+AL0155,2026-08-12T22:31:00,MFA fatigue (repeated denials),u62122@contoso.example,medium,573,414,401
+AL0156,2026-08-12T23:11:00,Sign-in from anonymising proxy,u75620@contoso.example,medium,330,253,113
+AL0157,2026-08-13T01:08:00,Impossible travel,u24322@contoso.example,medium,542,134,245
+AL0158,2026-08-13T02:56:00,Impossible travel,u32072@contoso.example,medium,463,194,446
+AL0159,2026-08-13T03:16:00,MFA fatigue (repeated denials),u95789@contoso.example,high,645,387,537
+AL0160,2026-08-13T05:26:00,Impossible travel,u69069@contoso.example,high,484,336,349
+AL0161,2026-08-13T06:40:00,Token replay,u43993@contoso.example,medium,330,272,431
+AL0162,2026-08-13T08:44:00,Impossible travel,u59509@contoso.example,high,131,332,556
+AL0163,2026-08-13T09:20:00,Impossible travel,u11246@contoso.example,high,546,194,557
+AL0164,2026-08-13T09:41:00,MFA fatigue (repeated denials),u89034@contoso.example,high,294,123,486
+AL0165,2026-08-13T11:09:00,MFA fatigue (repeated denials),u54112@contoso.example,high,445,352,305
+AL0166,2026-08-13T12:56:00,Impossible travel,u56665@contoso.example,medium,677,259,600
+AL0167,2026-08-13T13:41:00,Token replay,u13365@contoso.example,medium,344,441,386
+AL0168,2026-08-13T16:16:00,MFA fatigue (repeated denials),u77490@contoso.example,high,380,397,440
+AL0169,2026-08-13T17:24:00,Sign-in from anonymising proxy,u12179@contoso.example,medium,296,388,384
+AL0170,2026-08-13T17:55:00,Leaked credentials match,u20665@contoso.example,high,644,232,328
+AL0171,2026-08-13T20:16:00,MFA fatigue (repeated denials),u48517@contoso.example,medium,328,436,353
+AL0172,2026-08-13T21:12:00,MFA fatigue (repeated denials),u21415@contoso.example,high,615,125,435
+AL0173,2026-08-13T23:52:00,Impossible travel,u73198@contoso.example,medium,202,360,365
+AL0174,2026-08-14T01:13:00,Impossible travel,u31002@contoso.example,medium,423,314,613
+AL0175,2026-08-14T02:56:00,Sign-in from anonymising proxy,u97285@contoso.example,high,345,385,223
+AL0176,2026-08-14T03:47:00,Sign-in from anonymising proxy,u39334@contoso.example,medium,259,84,255
+AL0177,2026-08-14T04:23:00,MFA fatigue (repeated denials),u95710@contoso.example,medium,298,205,257
+AL0178,2026-08-14T06:34:00,Leaked credentials match,u34662@contoso.example,medium,455,200,431
+AL0179,2026-08-14T07:23:00,MFA fatigue (repeated denials),u85617@contoso.example,medium,459,217,343
+AL0180,2026-08-14T09:02:00,Sign-in from anonymising proxy,u99037@contoso.example,medium,580,302,636
+AL0181,2026-08-14T09:54:00,MFA fatigue (repeated denials),u11204@contoso.example,high,120,138,353
+AL0182,2026-08-14T12:11:00,Token replay,u88835@contoso.example,high,316,411,347
+AL0183,2026-08-14T12:39:00,Impossible travel,u45841@contoso.example,medium,514,197,299
+AL0184,2026-08-14T15:01:00,Sign-in from anonymising proxy,u30014@contoso.example,medium,353,213,272
+AL0185,2026-08-14T16:14:00,Impossible travel,u33464@contoso.example,medium,772,381,90
+AL0186,2026-08-14T18:14:00,MFA fatigue (repeated denials),u54225@contoso.example,high,341,417,460
+AL0187,2026-08-14T20:35:00,Leaked credentials match,u47098@contoso.example,high,376,411,363
+AL0188,2026-08-14T21:44:00,Impossible travel,u49855@contoso.example,high,366,151,495
+AL0189,2026-08-14T22:45:00,Token replay,u37494@contoso.example,high,491,174,299
+AL0190,2026-08-14T23:55:00,Token replay,u59355@contoso.example,medium,418,247,348
+AL0191,2026-08-15T02:04:00,Sign-in from anonymising proxy,u72111@contoso.example,high,238,236,292
+AL0192,2026-08-15T02:37:00,MFA fatigue (repeated denials),u42112@contoso.example,high,544,332,289
+AL0193,2026-08-15T03:58:00,Token replay,u95563@contoso.example,medium,546,199,462
+AL0194,2026-08-15T04:40:00,Sign-in from anonymising proxy,u11520@contoso.example,high,468,82,304
+AL0195,2026-08-15T05:21:00,Token replay,u13018@contoso.example,high,328,352,539
+AL0196,2026-08-15T07:43:00,MFA fatigue (repeated denials),u49107@contoso.example,high,385,407,407
+AL0197,2026-08-15T08:28:00,Leaked credentials match,u34233@contoso.example,high,334,195,605
+AL0198,2026-08-15T08:53:00,Leaked credentials match,u80645@contoso.example,medium,217,362,421
+AL0199,2026-08-15T09:44:00,Impossible travel,u33680@contoso.example,medium,251,261,270
+AL0200,2026-08-15T10:50:00,Token replay,u21510@contoso.example,high,572,263,362
+AL0201,2026-08-15T11:18:00,Leaked credentials match,u32492@contoso.example,high,456,300,421
+AL0202,2026-08-15T11:38:00,Leaked credentials match,u68316@contoso.example,high,420,287,706
+AL0203,2026-08-15T14:03:00,Sign-in from anonymising proxy,u89452@contoso.example,high,318,222,196
+AL0204,2026-08-15T15:16:00,Token replay,u27590@contoso.example,medium,341,137,422
+AL0205,2026-08-15T16:31:00,MFA fatigue (repeated denials),u19746@contoso.example,high,430,199,309
+AL0206,2026-08-15T17:57:00,MFA fatigue (repeated denials),u28775@contoso.example,high,196,391,326
+AL0207,2026-08-15T18:35:00,Token replay,u58777@contoso.example,high,454,211,287
+AL0208,2026-08-15T21:05:00,Impossible travel,u89116@contoso.example,high,304,202,665
+AL0209,2026-08-15T22:34:00,Impossible travel,u53169@contoso.example,medium,779,290,434
+AL0210,2026-08-16T00:26:00,Impossible travel,u59434@contoso.example,medium,624,175,553
+AL0211,2026-08-16T01:42:00,Token replay,u79006@contoso.example,medium,619,229,432
+AL0212,2026-08-16T03:20:00,Sign-in from anonymising proxy,u82291@contoso.example,high,204,173,502
+AL0213,2026-08-16T04:05:00,MFA fatigue (repeated denials),u33681@contoso.example,high,493,303,320
+AL0214,2026-08-16T06:41:00,Leaked credentials match,u30380@contoso.example,medium,145,200,204
+AL0215,2026-08-16T07:37:00,Sign-in from anonymising proxy,u42651@contoso.example,medium,527,153,560
+AL0216,2026-08-16T09:44:00,Sign-in from anonymising proxy,u66068@contoso.example,high,396,204,665
+AL0217,2026-08-16T11:02:00,MFA fatigue (repeated denials),u50991@contoso.example,medium,398,199,677
+AL0218,2026-08-16T11:42:00,Sign-in from anonymising proxy,u82634@contoso.example,medium,511,290,554
+AL0219,2026-08-16T12:04:00,Token replay,u72869@contoso.example,high,521,351,340
+AL0220,2026-08-16T14:40:00,MFA fatigue (repeated denials),u80035@contoso.example,medium,374,173,117
+AL0221,2026-08-16T16:02:00,Leaked credentials match,u99663@contoso.example,medium,214,392,371
+AL0222,2026-08-16T18:16:00,Impossible travel,u58110@contoso.example,medium,624,230,523
+AL0223,2026-08-16T20:47:00,Token replay,u58927@contoso.example,medium,304,242,421
+AL0224,2026-08-16T22:33:00,Sign-in from anonymising proxy,u73324@contoso.example,high,511,224,115
+AL0225,2026-08-16T23:47:00,Sign-in from anonymising proxy,u94275@contoso.example,high,361,387,383
+AL0226,2026-08-17T00:16:00,Sign-in from anonymising proxy,u49105@contoso.example,high,691,184,1782
+AL0227,2026-08-17T00:37:00,Impossible travel,u23282@contoso.example,high,380,175,587
+AL0228,2026-08-17T01:47:00,Token replay,u96066@contoso.example,high,564,314,426
+AL0229,2026-08-17T04:07:00,Token replay,u80310@contoso.example,medium,479,199,462
+AL0230,2026-08-17T04:54:00,Impossible travel,u57085@contoso.example,medium,624,251,298
+AL0231,2026-08-17T06:04:00,MFA fatigue (repeated denials),u53412@contoso.example,medium,448,316,463
+AL0232,2026-08-17T07:05:00,MFA fatigue (repeated denials),u82105@contoso.example,high,248,80,821
+AL0233,2026-08-17T07:57:00,Leaked credentials match,u60967@contoso.example,high,319,190,622
+AL0234,2026-08-17T08:44:00,Impossible travel,u98907@contoso.example,medium,439,214,365
+AL0235,2026-08-17T10:53:00,Sign-in from anonymising proxy,u46991@contoso.example,high,439,405,341
+AL0236,2026-08-17T13:02:00,Sign-in from anonymising proxy,u42421@contoso.example,medium,421,311,259
+AL0237,2026-08-17T15:11:00,Leaked credentials match,u90098@contoso.example,high,412,304,617
+AL0238,2026-08-17T16:09:00,MFA fatigue (repeated denials),u12314@contoso.example,medium,429,307,853
+AL0239,2026-08-17T16:52:00,Token replay,u39068@contoso.example,high,521,317,262
+AL0240,2026-08-17T19:14:00,Sign-in from anonymising proxy,u64797@contoso.example,high,556,295,453
+AL0241,2026-08-17T19:46:00,Sign-in from anonymising proxy,u37784@contoso.example,high,441,261,384
+AL0242,2026-08-17T21:17:00,Sign-in from anonymising proxy,u24618@contoso.example,high,474,237,535
+AL0243,2026-08-17T21:40:00,Sign-in from anonymising proxy,u57367@contoso.example,medium,732,196,129
+AL0244,2026-08-18T00:15:00,Impossible travel,u27102@contoso.example,medium,338,219,345
+AL0245,2026-08-18T01:05:00,Token replay,u35287@contoso.example,medium,603,488,487
+AL0246,2026-08-18T01:50:00,Token replay,u79934@contoso.example,medium,576,311,238
+AL0247,2026-08-18T02:21:00,Leaked credentials match,u55526@contoso.example,medium,607,325,499
+AL0248,2026-08-18T04:35:00,Leaked credentials match,u12867@contoso.example,high,372,227,210
+AL0249,2026-08-18T06:05:00,Leaked credentials match,u17968@contoso.example,medium,482,244,300
+AL0250,2026-08-18T07:13:00,Token replay,u67376@contoso.example,medium,411,169,251
+AL0251,2026-08-18T09:11:00,Token replay,u34125@contoso.example,high,160,177,319
+AL0252,2026-08-18T10:26:00,Leaked credentials match,u43925@contoso.example,high,404,253,552
+AL0253,2026-08-18T11:42:00,Token replay,u15978@contoso.example,high,347,239,501
+AL0254,2026-08-18T13:16:00,Impossible travel,u94202@contoso.example,medium,496,272,652
+AL0255,2026-08-18T14:29:00,Leaked credentials match,u58380@contoso.example,high,205,255,378
+AL0256,2026-08-18T17:09:00,Impossible travel,u56593@contoso.example,high,413,308,487
+AL0257,2026-08-18T18:40:00,Leaked credentials match,u23951@contoso.example,medium,350,366,762
+AL0258,2026-08-18T20:37:00,MFA fatigue (repeated denials),u38919@contoso.example,high,521,236,227
+AL0259,2026-08-18T21:49:00,Token replay,u68465@contoso.example,high,284,117,237
+AL0260,2026-08-19T00:00:00,Token replay,u34754@contoso.example,high,215,402,464
+AL0261,2026-08-19T01:06:00,Token replay,u61668@contoso.example,medium,469,248,353
+AL0262,2026-08-19T02:14:00,Impossible travel,u79045@contoso.example,high,469,274,390
+AL0263,2026-08-19T02:37:00,Impossible travel,u94473@contoso.example,medium,726,190,285
+AL0264,2026-08-19T03:30:00,Impossible travel,u81089@contoso.example,medium,420,297,1429
+AL0265,2026-08-19T05:16:00,Leaked credentials match,u68238@contoso.example,medium,573,282,326
+AL0266,2026-08-19T06:54:00,Impossible travel,u12779@contoso.example,medium,380,305,610
+AL0267,2026-08-19T07:40:00,MFA fatigue (repeated denials),u28590@contoso.example,high,493,219,359
+AL0268,2026-08-19T08:57:00,MFA fatigue (repeated denials),u24733@contoso.example,high,566,274,520
+AL0269,2026-08-19T09:45:00,Impossible travel,u90700@contoso.example,high,583,295,775
+AL0270,2026-08-19T11:37:00,Leaked credentials match,u53888@contoso.example,high,698,166,552
+AL0271,2026-08-19T13:45:00,Sign-in from anonymising proxy,u55663@contoso.example,medium,303,338,572
+AL0272,2026-08-19T15:14:00,Impossible travel,u10285@contoso.example,medium,598,193,646
+AL0273,2026-08-19T16:12:00,MFA fatigue (repeated denials),u72709@contoso.example,medium,315,268,291
+AL0274,2026-08-19T17:00:00,Token replay,u60465@contoso.example,high,120,152,367
+AL0275,2026-08-19T19:26:00,Sign-in from anonymising proxy,u28116@contoso.example,medium,479,137,493
+AL0276,2026-08-19T20:48:00,Token replay,u60413@contoso.example,high,288,336,199
+AL0277,2026-08-19T22:55:00,Token replay,u21436@contoso.example,high,380,106,333
+AL0278,2026-08-19T23:15:00,Impossible travel,u17808@contoso.example,medium,498,427,262
+AL0279,2026-08-20T01:07:00,Sign-in from anonymising proxy,u70344@contoso.example,high,540,365,118
+AL0280,2026-08-20T03:14:00,Token replay,u59474@contoso.example,medium,432,428,461
+AL0281,2026-08-20T05:22:00,Impossible travel,u72498@contoso.example,medium,446,163,559
+AL0282,2026-08-20T06:22:00,MFA fatigue (repeated denials),u29623@contoso.example,medium,551,276,436
+AL0283,2026-08-20T08:42:00,Sign-in from anonymising proxy,u71628@contoso.example,high,446,253,114
+AL0284,2026-08-20T10:28:00,Impossible travel,u89190@contoso.example,medium,230,304,457
+AL0285,2026-08-20T12:56:00,MFA fatigue (repeated denials),u82634@contoso.example,medium,425,308,515
+AL0286,2026-08-20T14:22:00,Impossible travel,u78354@contoso.example,high,564,208,337
+AL0287,2026-08-20T15:14:00,MFA fatigue (repeated denials),u34077@contoso.example,medium,277,256,218
+AL0288,2026-08-20T15:53:00,Token replay,u17165@contoso.example,medium,483,167,291
+AL0289,2026-08-20T18:01:00,Leaked credentials match,u53970@contoso.example,high,605,274,452
+AL0290,2026-08-20T19:33:00,Token replay,u82311@contoso.example,high,454,296,385
+AL0291,2026-08-20T20:01:00,Impossible travel,u83890@contoso.example,medium,440,262,447
+AL0292,2026-08-20T22:24:00,Sign-in from anonymising proxy,u62184@contoso.example,high,536,282,399
+AL0293,2026-08-21T00:04:00,Impossible travel,u53426@contoso.example,high,413,261,122
+AL0294,2026-08-21T02:32:00,Leaked credentials match,u14903@contoso.example,high,624,356,504
+AL0295,2026-08-21T03:30:00,Token replay,u38265@contoso.example,medium,570,244,320
+AL0296,2026-08-21T04:26:00,Leaked credentials match,u54749@contoso.example,high,429,207,567
+AL0297,2026-08-21T05:19:00,MFA fatigue (repeated denials),u15244@contoso.example,medium,381,214,508
+AL0298,2026-08-21T07:18:00,MFA fatigue (repeated denials),u22767@contoso.example,medium,452,566,90
+AL0299,2026-08-21T08:14:00,Impossible travel,u75393@contoso.example,high,200,267,243
+AL0300,2026-08-21T09:54:00,Impossible travel,u33486@contoso.example,medium,476,325,570
+AL0301,2026-08-21T12:11:00,MFA fatigue (repeated denials),u95235@contoso.example,medium,496,254,560
+AL0302,2026-08-21T13:02:00,Leaked credentials match,u99205@contoso.example,high,579,241,293
+AL0303,2026-08-21T14:55:00,Impossible travel,u99417@contoso.example,high,507,134,362
+AL0304,2026-08-21T17:10:00,Token replay,u83505@contoso.example,high,396,443,288
+AL0305,2026-08-21T17:56:00,Impossible travel,u39235@contoso.example,high,242,246,470
+AL0306,2026-08-21T20:14:00,Impossible travel,u21248@contoso.example,high,356,187,185
+AL0307,2026-08-21T21:01:00,Token replay,u62628@contoso.example,high,454,436,200
+AL0308,2026-08-21T22:42:00,MFA fatigue (repeated denials),u15017@contoso.example,high,315,362,441
+AL0309,2026-08-22T01:02:00,Leaked credentials match,u59844@contoso.example,high,643,298,467
+AL0310,2026-08-22T02:54:00,MFA fatigue (repeated denials),u45369@contoso.example,high,515,80,405
+AL0311,2026-08-22T03:59:00,Sign-in from anonymising proxy,u69168@contoso.example,medium,513,289,410
+AL0312,2026-08-22T06:33:00,MFA fatigue (repeated denials),u54829@contoso.example,medium,486,445,401
+AL0313,2026-08-22T08:09:00,MFA fatigue (repeated denials),u80189@contoso.example,medium,462,302,507
+AL0314,2026-08-22T09:10:00,Leaked credentials match,u88266@contoso.example,high,566,239,557
+AL0315,2026-08-22T10:07:00,Sign-in from anonymising proxy,u11859@contoso.example,high,325,142,799
+AL0316,2026-08-22T12:24:00,Sign-in from anonymising proxy,u78248@contoso.example,medium,570,217,265
+AL0317,2026-08-22T14:39:00,Leaked credentials match,u22772@contoso.example,high,646,426,269
+AL0318,2026-08-22T15:47:00,Token replay,u99080@contoso.example,high,265,314,458
+AL0319,2026-08-22T16:10:00,Sign-in from anonymising proxy,u75809@contoso.example,medium,537,201,490
+AL0320,2026-08-22T17:01:00,Leaked credentials match,u65816@contoso.example,high,356,136,221
+AL0321,2026-08-22T18:46:00,Token replay,u82450@contoso.example,high,459,302,445
+AL0322,2026-08-22T21:24:00,Leaked credentials match,u23005@contoso.example,medium,314,288,250
+AL0323,2026-08-22T22:10:00,Impossible travel,u75064@contoso.example,medium,241,273,395
+AL0324,2026-08-23T00:49:00,MFA fatigue (repeated denials),u37770@contoso.example,high,542,317,344
+AL0325,2026-08-23T03:05:00,Impossible travel,u55955@contoso.example,medium,402,217,354
+AL0326,2026-08-23T05:23:00,Token replay,u76527@contoso.example,high,198,346,1587
+AL0327,2026-08-23T06:50:00,Token replay,u10544@contoso.example,medium,199,191,703
+AL0328,2026-08-23T08:56:00,Leaked credentials match,u51611@contoso.example,high,451,264,457
+AL0329,2026-08-23T11:06:00,MFA fatigue (repeated denials),u16760@contoso.example,medium,160,272,810
+AL0330,2026-08-23T13:15:00,Leaked credentials match,u30767@contoso.example,high,557,352,477
+AL0331,2026-08-23T14:00:00,Leaked credentials match,u61381@contoso.example,medium,407,248,299
+AL0332,2026-08-23T15:26:00,Impossible travel,u92430@contoso.example,medium,462,214,348
+AL0333,2026-08-23T16:25:00,Impossible travel,u84946@contoso.example,high,475,398,423
+AL0334,2026-08-23T17:18:00,Token replay,u48918@contoso.example,high,617,246,397
+AL0335,2026-08-23T18:40:00,Sign-in from anonymising proxy,u96410@contoso.example,high,331,235,92
+AL0336,2026-08-23T19:21:00,MFA fatigue (repeated denials),u88105@contoso.example,high,600,209,244
+AL0337,2026-08-23T20:17:00,MFA fatigue (repeated denials),u57369@contoso.example,medium,279,221,712
+AL0338,2026-08-23T21:30:00,Impossible travel,u37563@contoso.example,medium,294,326,441
+AL0339,2026-08-23T23:26:00,Token replay,u33567@contoso.example,high,427,358,235
+AL0340,2026-08-24T00:31:00,Sign-in from anonymising proxy,u73427@contoso.example,medium,313,152,428
+AL0341,2026-08-24T03:10:00,Impossible travel,u35276@contoso.example,medium,364,369,386
+AL0342,2026-08-24T05:47:00,Token replay,u13866@contoso.example,high,585,275,565
+AL0343,2026-08-24T07:03:00,Sign-in from anonymising proxy,u73120@contoso.example,high,649,379,502
+AL0344,2026-08-24T07:46:00,Leaked credentials match,u62421@contoso.example,medium,317,352,307
+AL0345,2026-08-24T09:10:00,Sign-in from anonymising proxy,u61488@contoso.example,high,642,323,595
+AL0346,2026-08-24T10:49:00,Leaked credentials match,u45608@contoso.example,medium,468,312,350
+AL0347,2026-08-24T11:36:00,Sign-in from anonymising proxy,u92929@contoso.example,medium,273,185,274
+AL0348,2026-08-24T13:51:00,Leaked credentials match,u56170@contoso.example,high,438,280,167
+AL0349,2026-08-24T14:40:00,Sign-in from anonymising proxy,u42154@contoso.example,high,406,293,507
+AL0350,2026-08-24T16:35:00,Token replay,u70997@contoso.example,high,251,372,1716
+AL0351,2026-08-24T18:17:00,Leaked credentials match,u37810@contoso.example,high,505,352,257
+AL0352,2026-08-24T19:03:00,Leaked credentials match,u94707@contoso.example,high,213,206,654
+AL0353,2026-08-24T21:14:00,MFA fatigue (repeated denials),u75359@contoso.example,high,335,227,507
+AL0354,2026-08-24T22:44:00,Leaked credentials match,u12787@contoso.example,high,356,282,447
+AL0355,2026-08-24T23:05:00,MFA fatigue (repeated denials),u14850@contoso.example,medium,529,322,311
+AL0356,2026-08-25T01:40:00,Sign-in from anonymising proxy,u46002@contoso.example,high,615,291,444
+AL0357,2026-08-25T03:28:00,Leaked credentials match,u16169@contoso.example,high,446,167,499
+AL0358,2026-08-25T05:44:00,Impossible travel,u13838@contoso.example,high,219,265,640
+AL0359,2026-08-25T06:06:00,MFA fatigue (repeated denials),u39667@contoso.example,high,276,443,768
+AL0360,2026-08-25T07:14:00,Sign-in from anonymising proxy,u15646@contoso.example,high,378,97,1413
+AL0361,2026-08-25T08:51:00,MFA fatigue (repeated denials),u45377@contoso.example,medium,260,331,444
+AL0362,2026-08-25T09:46:00,MFA fatigue (repeated denials),u93480@contoso.example,high,358,237,341
+AL0363,2026-08-25T10:37:00,MFA fatigue (repeated denials),u46771@contoso.example,high,491,193,363
+AL0364,2026-08-25T13:00:00,Token replay,u96439@contoso.example,medium,436,329,360
+AL0365,2026-08-25T14:12:00,Token replay,u11720@contoso.example,medium,475,247,320
+AL0366,2026-08-25T16:31:00,Leaked credentials match,u77361@contoso.example,medium,457,207,466
+AL0367,2026-08-25T18:10:00,Impossible travel,u27047@contoso.example,high,478,226,154
+AL0368,2026-08-25T20:03:00,Impossible travel,u46416@contoso.example,high,304,325,301
+AL0369,2026-08-25T21:41:00,MFA fatigue (repeated denials),u24047@contoso.example,medium,355,372,316
+AL0370,2026-08-25T23:02:00,Sign-in from anonymising proxy,u44809@contoso.example,high,574,270,360
+AL0371,2026-08-26T01:42:00,Leaked credentials match,u66472@contoso.example,high,578,342,465
+AL0372,2026-08-26T02:15:00,Token replay,u48535@contoso.example,high,294,291,529
+AL0373,2026-08-26T03:20:00,MFA fatigue (repeated denials),u24311@contoso.example,medium,461,168,270
+AL0374,2026-08-26T04:43:00,Impossible travel,u79747@contoso.example,high,515,243,420
+AL0375,2026-08-26T06:00:00,MFA fatigue (repeated denials),u23278@contoso.example,high,432,363,213
+AL0376,2026-08-26T07:28:00,Sign-in from anonymising proxy,u10407@contoso.example,high,334,261,445
+AL0377,2026-08-26T09:56:00,Token replay,u32312@contoso.example,high,610,365,257
+AL0378,2026-08-26T10:33:00,MFA fatigue (repeated denials),u53785@contoso.example,high,482,330,90
+AL0379,2026-08-26T12:00:00,Impossible travel,u87857@contoso.example,high,519,300,313
+AL0380,2026-08-26T14:21:00,Leaked credentials match,u99135@contoso.example,medium,279,208,381
+AL0381,2026-08-26T15:39:00,Impossible travel,u23106@contoso.example,high,487,206,364
+AL0382,2026-08-26T17:24:00,Sign-in from anonymising proxy,u70129@contoso.example,high,201,303,503
+AL0383,2026-08-26T19:14:00,Leaked credentials match,u73485@contoso.example,high,413,234,516
+AL0384,2026-08-26T21:46:00,Token replay,u56818@contoso.example,high,416,241,692
+AL0385,2026-08-26T23:08:00,Token replay,u21701@contoso.example,high,383,137,264
+AL0386,2026-08-27T01:04:00,MFA fatigue (repeated denials),u79062@contoso.example,high,186,81,552
+AL0387,2026-08-27T02:53:00,Sign-in from anonymising proxy,u50543@contoso.example,high,272,328,276
+AL0388,2026-08-27T05:26:00,Sign-in from anonymising proxy,u47802@contoso.example,high,340,97,584
+AL0389,2026-08-27T05:48:00,Token replay,u78575@contoso.example,medium,594,123,381
+AL0390,2026-08-27T06:49:00,Sign-in from anonymising proxy,u87735@contoso.example,high,381,330,388
+AL0391,2026-08-27T09:14:00,Impossible travel,u16540@contoso.example,high,396,227,539
+AL0392,2026-08-27T11:03:00,Impossible travel,u45477@contoso.example,high,597,151,90
+AL0393,2026-08-27T12:13:00,Impossible travel,u72020@contoso.example,medium,415,80,528
+AL0394,2026-08-27T13:36:00,Sign-in from anonymising proxy,u49586@contoso.example,high,495,141,90
+AL0395,2026-08-27T14:40:00,Leaked credentials match,u28242@contoso.example,medium,590,135,285
+AL0396,2026-08-27T15:51:00,MFA fatigue (repeated denials),u81543@contoso.example,high,419,353,422
+AL0397,2026-08-27T18:02:00,Leaked credentials match,u99805@contoso.example,medium,533,350,491
+AL0398,2026-08-27T20:21:00,Impossible travel,u65170@contoso.example,high,324,340,552
+AL0399,2026-08-27T21:16:00,Leaked credentials match,u58904@contoso.example,high,382,202,290

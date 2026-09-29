@@ -1,0 +1,6 @@
+- id: secrets-scanner
+  name: Block commits that contain secrets
+  entry: python secrets-scanner/scanner.py
+  language: python
+  pass_filenames: false
+  args: ["."]
